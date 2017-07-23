@@ -73,6 +73,11 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 
+# ***************************************************
+# Run funceble to check for dead domains
+# ***************************************************
+
+sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
@@ -88,11 +93,6 @@ sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 git add -A
 git commit -am "V1.$YEAR.$TRAVIS_BUILD_NUMBER [ci skip]"
 
-# ***************************************************
-# Run funceble to check for dead domains
-# ***************************************************
-
-sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml
