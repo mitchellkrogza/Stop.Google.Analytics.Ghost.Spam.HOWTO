@@ -9,8 +9,8 @@ _______________
 #### Bad Referrer Count: 
 ____________________
 
-> Created by: https://github.com/mitchellkrogza
-> Copyright Mitchell Krog <mitchellkrog@gmail.com>
+- Created by: https://github.com/mitchellkrogza
+- Copyright Mitchell Krog <mitchellkrog@gmail.com>
 
 ### If this helps you [why not buy me a beer](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BKF9XT6WHATLG):beer:
 
