@@ -50,7 +50,7 @@ Follow the simple step by step visual instructions below to add these google-exc
 
 ## The Information Sources
 
-The referrer domains contained in this repository comes from over a year's worth of curation from my <a href"https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker">Nginx Referrer Spam and Bot Blocker</a> and <a href="https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker">Apache Referrer Spam and Bot Blocker</a> Projects. These lists are carefully moderated and curated and also constantly updated.
+The referrer domains contained in this repository comes from over a year's worth of curation from my <a href="https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker">Nginx Referrer Spam and Bot Blocker</a> and <a href="https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker">Apache Referrer Spam and Bot Blocker</a> Projects. These lists are carefully moderated and curated and also constantly updated.
 
 
 ### Some cool free projects
