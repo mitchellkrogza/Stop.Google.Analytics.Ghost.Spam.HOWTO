@@ -53,12 +53,6 @@ sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/tool -i
 # ************************************
 #  Run Funceble and Check Domains List
 # ************************************
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble -a -t 0 -h -p -f $_input
-
-# *******************************************
-# Copy our percentage output file to the root
-# *******************************************
-
-#sudo cp $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/logs/percentage/_* $TRAVIS_BUILD_DIR/.dev-tools/_funceble/percentage.txt
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble -a -t 1 -h -p -f $_input
 
 exit 0
