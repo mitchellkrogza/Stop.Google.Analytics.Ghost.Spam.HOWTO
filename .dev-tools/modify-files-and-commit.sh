@@ -84,7 +84,7 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
 # Get Page Titles for all domains
 # *******************************
 
-sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
+#sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
