@@ -72,12 +72,19 @@ git checkout master
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
 
 # ***************************************************
 # Run funceble to check for dead domains
 # ***************************************************
 
-sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
+#sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
+
+# *******************************
+# Get Page Titles for all domains
+# *******************************
+
+sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
