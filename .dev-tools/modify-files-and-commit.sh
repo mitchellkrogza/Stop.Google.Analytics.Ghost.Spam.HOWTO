@@ -73,6 +73,7 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
 
 # ***************************************************
 # Run funceble to check for dead domains
@@ -85,6 +86,12 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
 # *******************************
 
 #sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
+
+# *******************************
+# Run our Staus Code Testing Tool
+# *******************************
+
+sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
