@@ -33,6 +33,7 @@
 
 YEAR=$(date +"%Y")
 cd $TRAVIS_BUILD_DIR
+_input=$TRAVIS_BUILD_DIR/.dev-tools/_input_source/bad-referrers.list
 
 # *******************************
 # Remove Remote Added by TravisCI
@@ -74,6 +75,12 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
+
+# *********************************************
+# Sort our list alphabetically and remove dupes
+# *********************************************
+
+sort -u $_input -o $_input
 
 # ***************************************************
 # Run funceble to check for dead domains
