@@ -28,7 +28,7 @@ class Generator
         $domainsFile = "/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list";
         $handle = fopen($domainsFile, "r");
         if (!$handle) {
-            throw new \RuntimeException('Error opening file ' . $domainsFile);
+            throw new \RuntimeException('Sorry I Cannot Access Your Input File ' . $domainsFile);
         }
         $lines = array();
         while (($line = fgets($handle)) !== false) {
@@ -49,7 +49,7 @@ class Generator
         if (is_writable($domainsFile)) {
             file_put_contents($domainsFile, implode("\n", $uniqueLines));
         } else {
-            trigger_error("Permission denied");
+            trigger_error("Sorry I Cannot Access Your Input File");
         }
         return $lines;
     }

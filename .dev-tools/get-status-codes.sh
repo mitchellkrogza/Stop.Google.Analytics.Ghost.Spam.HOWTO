@@ -33,6 +33,12 @@
 _input=$TRAVIS_BUILD_DIR/.dev-tools/_input_source/bad-referrers.list
 _output=$TRAVIS_BUILD_DIR/.dev-tools/_output_source/results.csv
 
+# *********************************************
+# Sort our list alphabetically and remove dupes
+# *********************************************
+
+sort -u $_input -o $_input
+
 # ***************************************************************
 # Get our page titles and produce a simple .csv file for analysis
 # ***************************************************************
