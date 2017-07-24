@@ -98,7 +98,7 @@ sort -u $_input -o $_input
 # Run our Staus Code Testing Tool
 # *******************************
 
-sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
+#sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
