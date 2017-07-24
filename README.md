@@ -56,10 +56,13 @@ Follow the simple step by step visual instructions below to add these google-exc
     <td align="left"><img src="https://github.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/blob/master/.assets/google-analytics-ghost-spam-07.jpg" alt="Google Analytics - Adding Segments to Stop Ghost Spam"/></td>
   </tr>
 </table>    
+
 *******************************************************
-# When you see what difference this makes for you 
+
+## When you see what difference this makes for you 
 
 [![Help me out with a mug of beer](https://img.shields.io/badge/Help%20-%20me%20out%20with%20a%20mug%20of%20%F0%9F%8D%BA-blue.svg)](https://paypal.me/mitchellkrog/) or [![Help me feed my cat](https://img.shields.io/badge/Help%20-%20me%20feed%20my%20hungry%20cat%20%F0%9F%98%B8-blue.svg)](https://paypal.me/mitchellkrog/)
+
 *******************************************************
 ## The Information Sources
 
