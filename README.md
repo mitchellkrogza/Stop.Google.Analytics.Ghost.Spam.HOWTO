@@ -91,10 +91,14 @@ or [![Get the APACHE ULTIMATE BAD BOT BLOCKER](https://img.shields.io/badge/APAC
 - https://github.com/mitchellkrogza/Travis-CI-for-Apache-For-Testing-Apache-and-PHP-Configurations
 - https://github.com/mitchellkrogza/Fail2Ban-Blacklist-JAIL-for-Repeat-Offenders-with-Perma-Extended-Banning
 - https://github.com/funilrys/funceble
+- https://github.com/funilrys/dead-hosts
 ************************************************
 ## Help Support this Project
 
 [![Help me out with a mug of beer](https://img.shields.io/badge/Help%20-%20me%20out%20with%20a%20mug%20of%20%F0%9F%8D%BA-blue.svg)](https://paypal.me/mitchellkrog/) or [![Help me feed my cat](https://img.shields.io/badge/Help%20-%20me%20feed%20my%20hungry%20cat%20%F0%9F%98%B8-blue.svg)](https://paypal.me/mitchellkrog/)
+
+<img src="https://github.com/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/blob/master/.assets/zuko.png"/>
+
 ************************************************
 # Get your web site fixed or cleaned or get help with any Linux security problems.
 
