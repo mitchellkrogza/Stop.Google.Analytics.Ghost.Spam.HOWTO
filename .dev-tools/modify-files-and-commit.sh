@@ -86,7 +86,7 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
 # Run funceble to check for dead domains
 # ***************************************************
 
-#sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 
 # *******************************
 # Get Page Titles for all domains
@@ -98,7 +98,7 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
 # Run our Status Code Testing Tool
 # *******************************
 
-sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
