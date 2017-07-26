@@ -34,8 +34,8 @@
 YEAR=$(date +%Y)
 MONTH=$(date +%m)
 MY_GIT_TAG=V1.$YEAR.$TRAVIS_BUILD_NUMBER
-BAD_REFERRERS=$(wc -l < $TRAVIS_BUILD_DIR/.dev-tools/_input_source/bad-referrers.list)
-ACTIVE_SITES=$(cat $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/logs/percentage/percentage.txt)
+_BAD_REFERRERS=$(wc -l < $TRAVIS_BUILD_DIR/.dev-tools/_input_source/bad-referrers.list)
+_ACTIVE_SITES=$(cat $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/logs/percentage/percentage.txt)
 
 # **********************************
 # Temporary database files we create
@@ -55,8 +55,7 @@ _endmarker="____________________"
 # PRINT VERSION INFORMATION INTO README.md
 # ****************************************
 
-#printf '%s\n%s%s\n%s%s\n%s' "$_startmarker" "#### Version: " "$MY_GIT_TAG" "#### Bad Referrer Count: " "$BAD_REFERRERS" "$_endmarker" >> "$_tmpA"
-printf '%s\n%s%s\n%s%s\n```\n%s\n```\n%s' "$_startmarker" "#### Version: " "$MY_GIT_TAG" "#### Bad Referrer Count: " "$TOTAL_SITES" "$ACTIVE_SITES" "$_endmarker" >> "$_tmpA"
+printf '%s\n%s%s\n%s%s\n```\n%s\n```\n%s' "$_startmarker" "#### Version: " "$MY_GIT_TAG" "#### Bad Referrer Count: " "$_BAD_REFERRERS" "$_ACTIVE_SITES" "$_endmarker" >> "$_tmpA"
 mv $_tmpA $_inputdbA
 ed -s $_inputdbA<<\IN
 1,/_______________/d

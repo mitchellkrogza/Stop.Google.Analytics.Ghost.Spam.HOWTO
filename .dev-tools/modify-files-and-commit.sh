@@ -98,7 +98,7 @@ sudo bash $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 # Run our Status Code Testing Tool
 # *******************************
 
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
+#sudo bash $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
