@@ -53,11 +53,6 @@ git remote rm origin
 
 git remote add origin https://${GOOGLESPAM_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
 
-# **********************************************************************************
-# List Remotes ONLY DURING testing - do not do this on live repo / possible key leak
-# git remote -v
-# ***********************************************************************************
-
 # *********************
 # Set Our Git Variables
 # *********************
