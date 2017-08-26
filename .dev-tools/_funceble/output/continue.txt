@@ -1,2 +1,2 @@
 /home/travis/build/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/.dev-tools/_strip_domains/domains.txt zzhomes.com 2615 2572 43 0
-/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list cymbaltaandtizanidine.blogspot.com 1298 1241 57 0
+/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list karachev-city.ru 2601 2520 81 0
