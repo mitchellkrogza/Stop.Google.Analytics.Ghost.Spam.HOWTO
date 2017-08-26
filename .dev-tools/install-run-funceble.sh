@@ -12,47 +12,34 @@
 # ******************
 # Set our Input File
 # ******************
+
 _input=$TRAVIS_BUILD_DIR/.dev-tools/_input_source/bad-referrers.list
-
-# *****************************************
-# Get latest versions of funceble from repo
-# *****************************************
-sudo wget https://raw.githubusercontent.com/funilrys/funceble/master/funceble -O $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble
-sudo wget https://raw.githubusercontent.com/funilrys/funceble/master/tool -O $TRAVIS_BUILD_DIR/.dev-tools/_funceble/tool
-sudo wget https://raw.githubusercontent.com/funilrys/funceble/master/iana-domains-db -O $TRAVIS_BUILD_DIR/.dev-tools/_funceble/iana-domains-db
-
-# ***************************************************************
-# Clean up old result and output files as we only want the latest
-# and don't want the repo to keep filling up with files
-# ***************************************************************
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/hosts/ACTIVE/hosts*
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/hosts/INACTIVE/hosts*
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/hosts/INVALID/hosts*
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/logs/percentage/percentage.txt
-sudo rm $TRAVIS_BUILD_DIR/.dev-tools/_funceble/output/result.txt
-
-# *****************************
-# Install Funceble Dependencies
-# *****************************
-sudo apt-get -y install expect
-sudo apt-get -y install whois
 
 # *********************************
 # Make scripts executable by Travis
 # *********************************
+
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/_funceble/tool
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble
+
+# *******************************************
+# Make Sure We Are In The Travis Build Folder
+# *******************************************
 
 cd $TRAVIS_BUILD_DIR/.dev-tools/_funceble/
 
 # *************************
 # Run Funceble Install Tool
 # *************************
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/tool -i
+
+YEAR=$(date +%Y)
+MONTH=$(date +%m)
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/tool --autosave-minutes 20 --commit-autosave-message "BIP >> Funceble (Partial Build Only)" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" -i
 
 # ************************************
 #  Run Funceble and Check Domains List
 # ************************************
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble -a -t 3 -h -p -f $_input
+
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble --travis -a -ex -h -f $_input
 
 exit 0

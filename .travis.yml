@@ -27,25 +27,7 @@ before_install:
   - export LC_NUMERIC=en_US
 
 script:
-  - bash .dev-tools/modify-files-and-commit.sh
+  - bash .dev-tools/deploy.sh
 
-before_deploy:
-  - bash .dev-tools/deploy-package.sh
-
-deploy:
-  provider: releases
-  api_key:
-    secure: ${GOOGLESPAM_TOKEN}
-  skip_cleanup: true
-  on:
-    repo: mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
-    tags: false
-    branches:
-      except:
-        - "/^v[0-9]/"
-        - "/^V.*$/"
-    branches:
-       only:
-         - "master"
 notifications:
   email: false

@@ -39,7 +39,7 @@ _input=$TRAVIS_BUILD_DIR/.dev-tools/_input_source/bad-referrers.list
 # Sort our list alphabetically and remove dupes
 # *********************************************
 
-sort -u $_input -o $_input
+sudo sort -u $_input -o $_input
 
 # *******************************
 # Remove Remote Added by TravisCI
@@ -79,8 +79,6 @@ git checkout master
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
 
 # ***************************************************
 # Run funceble to check for dead domains
@@ -88,31 +86,19 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
 
 sudo bash $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 
-# *******************************
-# Get Page Titles for all domains
-# *******************************
-
-#sudo bash -x $TRAVIS_BUILD_DIR/.dev-tools/get-page-titles.sh
-
-# *******************************
-# Run our Status Code Testing Tool
-# *******************************
-
-#sudo bash $TRAVIS_BUILD_DIR/.dev-tools/get-status-codes.sh
-
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
 # **************************************************************************************
 
-php ./.dev-tools/generate-google-exclude.php
-sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+#php ./.dev-tools/generate-google-exclude.php
+#sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 
 # *************************************
 # Add all the modified files and commit
 # *************************************
 
-git add -A
-git commit -am "V1.$YEAR.$TRAVIS_BUILD_NUMBER [ci skip]"
+#git add -A
+#git commit -am "V1.$YEAR.$TRAVIS_BUILD_NUMBER [ci skip]"
 
 
 # *************************************************************
