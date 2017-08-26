@@ -150,10 +150,10 @@ showPercentage=true
 travisMode=false
 
 # Minimum of minutes before we start commiting to upstream under travis
-travisAutoSaveMinutes=15
+travisAutoSaveMinutes=20
 
 # Default travis final commit message
-travisResultsCommitMessage='V1.2017.08.636'
+travisResultsCommitMessage='V1.2017.08.52'
 
 # Default travis autosave commit message
 travisAutoSaveCommitMessage='BIP >> Funceble (Partial Build Only)'
@@ -179,7 +179,7 @@ domainsDefault='list'
 # Output directory.
 # Auto updated with `tool -i`
 # DO NOT FORGET '/' AT THE END
-outputDir='/home/travis/build/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/.dev-tools/_funceble/output/'
+outputDir='/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_funceble/output/'
 
 # Autocontinue log file
 continueLog=${outputDir}continue.txt
