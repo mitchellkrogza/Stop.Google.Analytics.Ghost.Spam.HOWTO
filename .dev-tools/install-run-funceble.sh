@@ -41,6 +41,6 @@ sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/tool --dev -u --autosave-minute
 #  Run Funceble and Check Domains List
 # ************************************
 
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh && php $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php" --travis -a -ex -h --plain --split -f $_input
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" --travis -a -ex -h --plain --split -f $_input
 
 exit 0
