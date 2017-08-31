@@ -144,3 +144,15 @@ tech4master.com                                                                 
 thin.me.pn                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 16:58:29 SAST 2017
 tobeyouday.win                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 16:59:24 SAST 2017
 tula.howotorg.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:01:09 SAST 2017
+videositename.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:05:50 SAST 2017
+vksaver-all.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Aug 31 17:06:37 SAST 2017
+voluumtracker1.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:06:51 SAST 2017
+vysigy.su                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:07:15 SAST 2017
+williamrobsonproperty.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:09:03 SAST 2017
+xn----7sbaphztdjeboffeiof6c.xn--p1ai                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:10:51 SAST 2017
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:12:44 SAST 2017
+zapiszto.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:13:18 SAST 2017
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:13:28 SAST 2017
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:13:57 SAST 2017
+znakomstvaonlain.ru                                                                                  Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Aug 31 17:14:04 SAST 2017
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Aug 31 17:14:08 SAST 2017
