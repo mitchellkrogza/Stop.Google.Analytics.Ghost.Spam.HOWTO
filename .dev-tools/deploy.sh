@@ -74,6 +74,7 @@ git checkout master
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh
 
 # ***************************************************
 # Run funceble to check for dead domains
