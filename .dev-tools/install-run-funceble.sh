@@ -1,8 +1,7 @@
 #!/bin/bash
-# Fetch funceble script files and run a test
-# Created by: Mitchell Krog (mitchellkrog@gmail.com)
-# Copyright: Mitchell Krog - https://github.com/mitchellkrogza
-# Repo Url: https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
+# ********************
+# Run Funceble Testing
+# ********************
 
 # ****************************************************************
 # This uses the awesome funceble script created by Nissar Chababy
@@ -41,6 +40,6 @@ sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/tool --dev -u --autosave-minute
 #  Run Funceble and Check Domains List
 # ************************************
 
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble --cmd-before-end "bash -x $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" --travis -a -ex -h --plain --split -f $_input
+sudo bash $TRAVIS_BUILD_DIR/.dev-tools/_funceble/funceble --cmd-before-end "bash $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh" --travis -a -ex -h --plain --split -f $_input
 
 exit 0

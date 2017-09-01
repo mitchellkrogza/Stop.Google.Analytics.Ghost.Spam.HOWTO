@@ -31,8 +31,8 @@ before_install:
   - sudo apt-get -y install dos2unix
 
 script:
-  #- bash .dev-tools/deploy.sh
-  - bash -x .dev-tools/deploy-test.sh
+  - bash .dev-tools/deploy.sh
+  #- bash -x .dev-tools/deploy-test.sh
 
 notifications:
   email: false
