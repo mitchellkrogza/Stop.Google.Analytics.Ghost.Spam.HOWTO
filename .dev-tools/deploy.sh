@@ -80,7 +80,7 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh
 # Run funceble to check for dead domains
 # ***************************************************
 
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
+sudo sh -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
