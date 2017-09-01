@@ -34,13 +34,20 @@
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 
+# **************************
+# Show Output of PHP Version
+# **************************
+
+php -v
+
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
 # **************************************************************************************
 
-#cd $TRAVIS_BUILD_DIR
-php $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo bash $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+cd $TRAVIS_BUILD_DIR
+#php $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
+php ./.dev-tools/generate-google-exclude.php
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml
