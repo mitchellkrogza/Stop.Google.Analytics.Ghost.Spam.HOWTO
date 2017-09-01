@@ -26,6 +26,7 @@ before_install:
   - sudo apt-get -y install whois
   - sudo apt-get -y install dos2unix
   - sudo apt-get -y install realpath
+  - sudo apt-get -y install php7.0-cli
 
 script:
   - bash .dev-tools/deploy.sh
