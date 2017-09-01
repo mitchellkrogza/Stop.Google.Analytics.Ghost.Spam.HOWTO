@@ -95,6 +95,7 @@ sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 
 git add -A
 git commit -am "V1.$YEAR.$TRAVIS_BUILD_NUMBER [ci skip]"
+git push origin master
 
 
 # *************************************************************
