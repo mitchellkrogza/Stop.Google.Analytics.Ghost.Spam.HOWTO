@@ -27,27 +27,75 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+# ******************
+# Set Some Variables
+# ******************
+
+YEAR=$(date +"%Y")
+cd $TRAVIS_BUILD_DIR
+_input=$TRAVIS_BUILD_DIR/.dev-tools/_input_source/bad-referrers.list
+
+# *********************************************
+# Sort our list alphabetically and remove dupes
+# *********************************************
+
+sudo sort -u $_input -o $_input
+
+# *******************************
+# Remove Remote Added by TravisCI
+# *******************************
+
+git remote rm origin
+
+# **************************
+# Add Remote with Secure Key
+# **************************
+
+git remote add origin https://${GOOGLESPAM_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+
+# *********************
+# Set Our Git Variables
+# *********************
+
+git config --global user.email "${GIT_EMAIL}"
+git config --global user.name "${GIT_NAME}"
+git config --global push.default simple
+
+# *******************************************
+# Make sure we have checked out master branch
+# *******************************************
+
+git checkout master
+
 # ***************************************************
 # Set our scripts to be executable
 # ***************************************************
 
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh
 
-# **************************
-# Show Output of PHP Version
-# **************************
+# ***************************************************
+# Run funceble to check for dead domains
+# ***************************************************
 
-php -v
+#sudo sh -x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
 # **************************************************************************************
 
-sudo bash $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
-cd $TRAVIS_BUILD_DIR
-#php $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
-sudo php ./.dev-tools/generate-google-exclude.php
+php ./.dev-tools/generate-google-exclude.php
+sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+
+# *************************************
+# Add all the modified files and commit
+# *************************************
+
+git add -A
+git commit -am "V1.$YEAR.$TRAVIS_BUILD_NUMBER [ci skip]"
+
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml
