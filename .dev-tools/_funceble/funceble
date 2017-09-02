@@ -1859,7 +1859,8 @@ travisAutoSave()
                 then
                     $(${commandBeforeEnd})
                 fi
-                
+                cd $TRAVIS_BUILD_DIR
+                php ./.dev-tools/generate-google-exclude.php
                 git commit -a -m "${travisResultsCommitMessage} [ci skip]"
             else
                 git commit -a -m "${travisAutoSaveCommitMessage}"
