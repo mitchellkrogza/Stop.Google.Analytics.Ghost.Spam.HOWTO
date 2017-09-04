@@ -29,9 +29,15 @@
 
 
 php -v
-sudo php -v
+
 whereis php
-sudo whereis php
+
+which php
+
+ls -la /usr/bin
+ls -la /usr/sbin
+ls -la /bin
+
 
 
 # *************************************************************
