@@ -32,8 +32,8 @@ before_install:
   #- sudo apt-get -y install php7.0-cli
 
 script:
-  #- bash .dev-tools/deploy.sh
-  - bash -x .dev-tools/interrogate-travis.sh
+  - bash .dev-tools/deploy.sh
+  #- bash -x .dev-tools/interrogate-travis.sh
   #- bash -x .dev-tools/deploy-test.sh
 
 notifications:
