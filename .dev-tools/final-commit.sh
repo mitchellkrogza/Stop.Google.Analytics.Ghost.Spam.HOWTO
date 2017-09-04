@@ -64,7 +64,11 @@ git checkout master
 # Generate our google exclude files and update README with build and version information
 # **************************************************************************************
 
+sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
+sudo chmod 755 ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
+
 sudo ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
+sudo $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 
 # *************************************************************
