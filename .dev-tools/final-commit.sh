@@ -67,6 +67,9 @@ git checkout master
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
 sudo chmod 755 ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
 
+sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
+sudo chmod 755 $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
+
 sudo ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
 sudo $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
