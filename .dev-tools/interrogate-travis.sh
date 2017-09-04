@@ -28,7 +28,8 @@
 # SOFTWARE.
 
 
-php -V
+php -v
+sudo php -v
 whereis php
 sudo whereis php
 

@@ -33,7 +33,7 @@ before_install:
 
 script:
   #- bash .dev-tools/deploy.sh
-  - sh -x .dev-tools/interrogate-travis.sh
+  - bash -x .dev-tools/interrogate-travis.sh
   #- bash -x .dev-tools/deploy-test.sh
 
 notifications:
