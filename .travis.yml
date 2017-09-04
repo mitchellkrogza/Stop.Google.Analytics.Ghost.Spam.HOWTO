@@ -14,10 +14,10 @@ dist: trusty
 
 matrix:
   include:
-    - php: 7.1
+    - php: 5.6
   allow_failures:
-    - php: 7.1
-#    - php: hhvm
+    - php: 5.6
+    - php: hhvm
   fast_finish: true
 
 cache:
