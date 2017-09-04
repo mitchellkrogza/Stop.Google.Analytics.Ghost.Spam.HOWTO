@@ -9,16 +9,16 @@ env:
 sudo: required
 dist: trusty
 
-php:
-  - 7.0
+#php:
+#  - 7.0
 
-#matrix:
-#  include:
-#    - php: 7.1
-#  allow_failures:
-#    - php: 7.1
+matrix:
+  include:
+    - php: 7.1
+  allow_failures:
+    - php: 7.1
 #    - php: hhvm
-#  fast_finish: true
+  fast_finish: true
 
 cache:
   - apt
