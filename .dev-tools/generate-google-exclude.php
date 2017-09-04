@@ -1,3 +1,5 @@
+#!/bin/php
+
 <?php
     /* Google Exclude File Generator Script for the Nginx Ultimate Bad Bot Blocker
      * Adapted from Script Copyright (c) 2017 Stevie-Ray - https://github.com/Stevie-Ray
