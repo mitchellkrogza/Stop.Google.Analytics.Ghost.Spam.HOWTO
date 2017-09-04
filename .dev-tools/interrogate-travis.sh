@@ -30,9 +30,11 @@
 
 php -v
 
-whereis php
-
 which php
+
+ls -la /home/travis/.phpenv/shims/php
+ls -la /home/travis/.phpenv/shims/
+ls -la /home/travis/.phpenv/
 
 ls -la /usr/bin
 ls -la /usr/sbin
