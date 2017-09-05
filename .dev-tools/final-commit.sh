@@ -64,24 +64,13 @@ git checkout master
 # Generate our google exclude files and update README with build and version information
 # **************************************************************************************
 
-#sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
-#sudo chmod 755 ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
-
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo chmod 755 $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 
-#sudo ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
-#sudo $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
-#sudo /home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/generate-google-exclude.php
-#php /home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/generate-google-exclude.php
-
 $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
-
-#/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/generate-google-exclude.php
 
 sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 
-#which php
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml
