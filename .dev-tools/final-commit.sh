@@ -77,11 +77,11 @@ sudo chmod 755 $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 
 $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 
-/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/generate-google-exclude.php
+#/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/generate-google-exclude.php
 
 sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
 
-which php
+#which php
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml
