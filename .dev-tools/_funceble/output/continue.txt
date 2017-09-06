@@ -1,2 +1,2 @@
 /home/travis/build/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/.dev-tools/_strip_domains/domains.txt zzhomes.com 2615 2572 43 0
-/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list howlongdoestizanidinestayinyoursystem.blogspot.com 2371 2292 79 0
+/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list teesdaleflyballclub.co.uk 4764 4625 139 0
