@@ -1,2 +1,2 @@
 /home/travis/build/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites/.dev-tools/_strip_domains/domains.txt zzhomes.com 2615 2572 43 0
-/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list zzlgxh.com 5787 5624 163 0
+/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list huimin764128.com 2403 2321 82 0
