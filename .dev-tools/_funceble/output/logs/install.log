@@ -1,21 +1,2 @@
-Mon Sep 18 13:36:52 SAST 2017
-Download of the script  ✔
+Tue Sep 19 11:35:26 SAST 2017
 Checking Version  ✔
-Script exist  ✔
-Script readable  ✔
-Script executable  ✔
-awk installed  ✔
-curl installed  ✔
-date installed  ✔
-echo installed  ✔
-expect installed  ✔
-head installed  ✔
-nslookup installed  ✔
-sed installed  ✔
-sha512sum installed  ✔
-tail installed  ✔
-tr installed  ✔
-whois installed  ✔
-Installation of working directory  ✔
-Creation of non existant files and directories  ✔
-
