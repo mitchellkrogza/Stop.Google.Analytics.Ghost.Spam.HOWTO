@@ -34,6 +34,7 @@
 YEAR=$(date +"%Y")
 cd $TRAVIS_BUILD_DIR
 _input=$TRAVIS_BUILD_DIR/.dev-tools/_input_source/bad-referrers.list
+_input2=$TRAVIS_BUILD_DIR/.dev-tools/domains_tmp.txt
 
 # *********************************************
 # Sort our list alphabetically and remove dupes
@@ -76,6 +77,97 @@ sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/install-run-funceble.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/final-commit.sh
 sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/deploy-test2.sh
+
+# *****************
+# Activate Dos2Unix
+# *****************
+
+dos2unix $_input
+
+# ******************************************
+# Trim Empty Line at Beginning of Input File
+# ******************************************
+
+grep '[^[:blank:]]' < $_input > $_input2
+sudo mv $_input2 $_input
+
+# ********************************************************
+# Clean the list of any lines not containing a . character
+# ********************************************************
+
+cat $_input | sed '/\./!d' > $_input2 && mv $_input2 $_input
+
+# **************************************************************************************
+# Strip out our Dead Domains / Whitelisted Domains and False Positives from CENTRAL REPO
+# **************************************************************************************
+
+
+# ***************************************************************************************************
+# First Run our Cleaner to remove all Dead Domains from 
+# https://github.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects
+# ***************************************************************************************************
+
+printf '\n%s\n%s\n%s\n\n' "##########################" "Stripping out Dead Domains" "##########################"
+
+sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/dead-domains.txt -O $TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/dead-domains.txt
+
+_deaddomains=$TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/dead-domains.txt
+_deadtemp=$TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/temp_dead_domains.txt
+
+sort -u $_deaddomains -o $_deaddomains
+sort -u $_input -o $_input
+
+awk 'NR==FNR{a[$0];next} !($0 in a)' $_deaddomains $_input > $_deadtemp && mv $_deadtemp $_input
+
+sort -u $_input -o $_input
+
+printf '\n%s\n%s\n%s\n\n' "###############################" "END: Stripping out Dead Domains" "###############################"
+
+# ***************************************************************************************************
+# Run our Cleaner to remove all False Positive Domains from 
+# https://github.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects
+# ***************************************************************************************************
+
+printf '\n%s\n%s\n%s\n\n' "####################################" "Stripping out False Positive Domains" "####################################"
+
+sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/false-positives.txt -O $TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/false-positives.txt
+
+_falsepositives=$TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/false-positives.txt
+_falsepositivestemp=$TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/temp_false_positives.txt
+
+sort -u $_falsepositives -o $_falsepositives
+
+awk 'NR==FNR{a[$0];next} !($0 in a)' $_falsepositives $_input > $_falsepositivestemp && mv $_falsepositivestemp $_input
+
+sort -u $_input -o $_input
+
+printf '\n%s\n%s\n%s\n\n' "#########################################" "END: Stripping out False Positive Domains" "#########################################"
+
+# ***************************************************************************************************
+# Run our Cleaner to remove all Whitelisted Domains from 
+# https://github.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects
+# ***************************************************************************************************
+
+printf '\n%s\n%s\n%s\n\n' "#################################" "Stripping out Whitelisted Domains" "#################################"
+
+sudo wget https://raw.githubusercontent.com/mitchellkrogza/CENTRAL-REPO.Dead.Inactive.Whitelisted.Domains.For.Hosts.Projects/master/whitelist-domains.txt -O $TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/whitelist-domains.txt
+
+_whitelist=$TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/whitelist-domains.txt
+_whitelisttemp=$TRAVIS_BUILD_DIR/.input_sources/.False-Positives-Dead-Domains/temp_whitelisted.txt
+
+sort -u $_whitelist -o $_whitelist
+
+awk 'NR==FNR{a[$0];next} !($0 in a)' $_whitelist $_input > $_whitelisttemp && mv $_whitelisttemp $_input
+
+sort -u $_input -o $_input
+
+printf '\n%s\n%s\n%s\n\n' "######################################" "END: Stripping out Whitelisted Domains" "######################################"
+
+# ************************************************
+# Activate Dos2Unix One Last Time and Re-Sort List
+# ************************************************
+
+dos2unix $_input
 
 # ***************************************************
 # Run funceble to check for dead domains
