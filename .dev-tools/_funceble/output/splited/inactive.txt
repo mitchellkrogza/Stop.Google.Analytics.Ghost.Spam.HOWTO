@@ -25,3 +25,4 @@ compliance-walt.top                                                             
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 16:43:09 SAST 2017
 dorratex.tn                                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Sep 22 16:47:54 SAST 2017
 expdom.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 16:51:45 SAST 2017
+swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 22 17:44:57 SAST 2017
