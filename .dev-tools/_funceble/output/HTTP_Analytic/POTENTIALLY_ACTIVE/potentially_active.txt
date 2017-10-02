@@ -31,3 +31,6 @@ pdns.download                                                                   
 profitsport.club                                                                                     INACTIVE    000        Mon Oct  2 12:08:25 SAST 2017
 quit-smoking.ga                                                                                      INACTIVE    000        Mon Oct  2 12:13:09 SAST 2017
 seomarketings.online                                                                                 INACTIVE    000        Mon Oct  2 12:18:24 SAST 2017
+swinginwithme.ru                                                                                     INACTIVE    000        Mon Oct  2 12:29:21 SAST 2017
+titelhelden.eu                                                                                       INACTIVE    000        Mon Oct  2 12:31:08 SAST 2017
+turizm.bz                                                                                            INACTIVE    000        Mon Oct  2 12:33:26 SAST 2017
