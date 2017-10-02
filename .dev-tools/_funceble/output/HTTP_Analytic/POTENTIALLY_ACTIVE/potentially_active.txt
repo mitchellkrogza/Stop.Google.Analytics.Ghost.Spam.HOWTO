@@ -27,3 +27,5 @@ demian.kz                                                                       
 exhibitionplus.eu                                                                                    INACTIVE    000        Mon Oct  2 11:26:17 SAST 2017
 expdom.com                                                                                           INACTIVE    000        Mon Oct  2 11:26:20 SAST 2017
 liran-locks.com                                                                                      INACTIVE    000        Mon Oct  2 11:48:51 SAST 2017
+pdns.download                                                                                        INACTIVE    000        Mon Oct  2 12:04:48 SAST 2017
+profitsport.club                                                                                     INACTIVE    000        Mon Oct  2 12:08:25 SAST 2017

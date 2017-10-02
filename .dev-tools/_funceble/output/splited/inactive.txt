@@ -37,3 +37,5 @@ istizanidineanarcoticdrug.blogspot.com                                          
 kinogonew.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct  2 11:45:43 SAST 2017
 levaquin750mg.blogspot.com                                                                                                               INACTIVE    SPECIAL    404        Mon Oct  2 11:48:12 SAST 2017
 liran-locks.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:48:51 SAST 2017
+pdns.download                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 12:04:48 SAST 2017
+profitsport.club                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 12:08:25 SAST 2017
