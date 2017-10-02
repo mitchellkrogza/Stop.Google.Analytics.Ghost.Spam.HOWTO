@@ -26,3 +26,4 @@ compliance-willy.top                                                            
 demian.kz                                                                                            INACTIVE    000        Mon Oct  2 11:21:13 SAST 2017
 exhibitionplus.eu                                                                                    INACTIVE    000        Mon Oct  2 11:26:17 SAST 2017
 expdom.com                                                                                           INACTIVE    000        Mon Oct  2 11:26:20 SAST 2017
+liran-locks.com                                                                                      INACTIVE    000        Mon Oct  2 11:48:51 SAST 2017
