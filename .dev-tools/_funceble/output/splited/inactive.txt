@@ -25,3 +25,9 @@ compliance-walt.top                                                             
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:17:10 SAST 2017
 cyclobenzaprinevstizanidine.blogspot.com                                                                                                 INACTIVE    SPECIAL    404        Mon Oct  2 11:18:46 SAST 2017
 cymbaltaandtizanidine.blogspot.com                                                                                                       INACTIVE    SPECIAL    404        Mon Oct  2 11:18:47 SAST 2017
+demian.kz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:21:13 SAST 2017
+elektrischezi.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Oct  2 11:24:35 SAST 2017
+eu-cookie-law.blogspot.com                                                                                                               INACTIVE    SPECIAL    404        Mon Oct  2 11:25:51 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:26:17 SAST 2017
+expdom.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct  2 11:26:20 SAST 2017
+free-share-buttons.blogspot.com                                                                                                          INACTIVE    SPECIAL    404        Mon Oct  2 11:29:51 SAST 2017

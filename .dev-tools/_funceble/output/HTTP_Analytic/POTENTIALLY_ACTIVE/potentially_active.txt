@@ -23,3 +23,6 @@ compliance-viktor.top                                                           
 compliance-walter.top                                                                                INACTIVE    000        Mon Oct  2 11:17:08 SAST 2017
 compliance-walt.top                                                                                  INACTIVE    000        Mon Oct  2 11:17:09 SAST 2017
 compliance-willy.top                                                                                 INACTIVE    000        Mon Oct  2 11:17:10 SAST 2017
+demian.kz                                                                                            INACTIVE    000        Mon Oct  2 11:21:13 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Mon Oct  2 11:26:17 SAST 2017
+expdom.com                                                                                           INACTIVE    000        Mon Oct  2 11:26:20 SAST 2017
