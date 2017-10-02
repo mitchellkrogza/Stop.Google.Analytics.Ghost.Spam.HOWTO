@@ -1,0 +1,1 @@
+/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list bestimagecoollibrary.com 660 660 0 0
