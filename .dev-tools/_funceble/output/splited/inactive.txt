@@ -25,3 +25,9 @@ compliance-viktor.top                                                           
 compliance-walter.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 11:36:32 SAST 2017
 compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 11:36:33 SAST 2017
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 11:36:34 SAST 2017
+elektrischezi.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Oct  3 11:52:01 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 11:53:47 SAST 2017
+expdom.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 11:53:50 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Oct  3 11:59:28 SAST 2017
+hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Oct  3 12:02:53 SAST 2017
+inboundlinks.win                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Oct  3 12:05:14 SAST 2017
