@@ -44,3 +44,5 @@ signal03.ru                                                                     
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 12:49:45 SAST 2017
 titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 12:51:46 SAST 2017
 turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct  3 12:54:13 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Oct  3 13:11:06 SAST 2017
+zigarettenonlinekaufen.tumblr.com                                                                                                        INACTIVE    SPECIAL    404        Tue Oct  3 13:11:11 SAST 2017
