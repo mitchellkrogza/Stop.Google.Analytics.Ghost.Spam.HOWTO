@@ -26,3 +26,10 @@ compliance-viktor.top                                                           
 compliance-walter.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 16:29:31 SAST 2017
 compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 16:29:32 SAST 2017
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 16:29:33 SAST 2017
+elektrischezi.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Oct  4 16:47:38 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 16:49:18 SAST 2017
+expdom.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 16:49:20 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Wed Oct  4 16:54:46 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 16:55:30 SAST 2017
+hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Wed Oct  4 16:58:29 SAST 2017
+hoverboard360.se                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 16:59:26 SAST 2017
