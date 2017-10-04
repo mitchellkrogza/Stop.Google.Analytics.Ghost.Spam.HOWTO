@@ -68,3 +68,6 @@ timetorelax.biz                                                                 
 titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 17:46:01 SAST 2017
 trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 17:48:01 SAST 2017
 turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct  4 17:48:35 SAST 2017
+x-rates.ru                                                                                           Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct  4 17:59:38 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Oct  4 18:01:45 SAST 2017
+zigarettenonlinekaufen.tumblr.com                                                                                                        INACTIVE    SPECIAL    404        Wed Oct  4 18:01:50 SAST 2017
