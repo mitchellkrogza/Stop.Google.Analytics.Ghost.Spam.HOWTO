@@ -30,3 +30,8 @@ compliance-viktor.top                                                           
 compliance-walter.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:49:58 SAST 2017
 compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:49:59 SAST 2017
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:50:00 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 13:28:27 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Thu Oct  5 13:33:52 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 13:34:34 SAST 2017
+hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Thu Oct  5 13:37:35 SAST 2017
+hoverboard360.se                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 13:38:27 SAST 2017
