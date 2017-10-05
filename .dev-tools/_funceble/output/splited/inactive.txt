@@ -49,3 +49,5 @@ swinginwithme.ru                                                                
 titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 14:23:52 SAST 2017
 trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 14:25:44 SAST 2017
 turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 14:26:18 SAST 2017
+x-rates.ru                                                                                           Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct  5 14:38:49 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Oct  5 14:41:04 SAST 2017
