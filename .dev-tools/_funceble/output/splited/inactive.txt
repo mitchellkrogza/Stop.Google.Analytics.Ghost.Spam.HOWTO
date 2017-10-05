@@ -48,3 +48,7 @@ seomarketings.online                                                            
 signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct  5 11:50:21 SAST 2017
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct  5 11:55:32 SAST 2017
 titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 11:57:25 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:08:38 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:09:12 SAST 2017
+x-rates.ru                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 12:18:34 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Oct  5 12:20:37 SAST 2017
