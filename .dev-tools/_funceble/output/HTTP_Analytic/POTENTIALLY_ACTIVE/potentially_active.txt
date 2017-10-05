@@ -33,3 +33,8 @@ compliance-willy.top                                                            
 exhibitionplus.eu                                                                                    INACTIVE    000        Thu Oct  5 13:28:27 SAST 2017
 gok-kasten.net                                                                                       INACTIVE    000        Thu Oct  5 13:34:34 SAST 2017
 hoverboard360.se                                                                                     INACTIVE    000        Thu Oct  5 13:38:27 SAST 2017
+liran-locks.com                                                                                      INACTIVE    000        Thu Oct  5 13:48:54 SAST 2017
+loftdigital.eu                                                                                       INACTIVE    000        Thu Oct  5 13:49:30 SAST 2017
+nfljerseyscheapbiz.us                                                                                INACTIVE    000        Thu Oct  5 13:57:44 SAST 2017
+pdns.download                                                                                        INACTIVE    000        Thu Oct  5 14:02:01 SAST 2017
+pochemychka.net                                                                                      INACTIVE    000        Thu Oct  5 14:03:45 SAST 2017
