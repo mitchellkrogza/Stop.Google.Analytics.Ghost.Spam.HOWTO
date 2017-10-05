@@ -16,3 +16,7 @@ ghernnqr.skyrock.com                                                            
 gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 11:07:20 SAST 2017
 hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Thu Oct  5 11:10:08 SAST 2017
 hoverboard360.se                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 11:11:03 SAST 2017
+liran-locks.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 11:21:18 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 11:21:53 SAST 2017
+nfljerseyscheapbiz.us                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 11:30:14 SAST 2017
+pdns.download                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct  5 11:34:24 SAST 2017
