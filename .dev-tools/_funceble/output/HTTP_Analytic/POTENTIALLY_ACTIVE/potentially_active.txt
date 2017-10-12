@@ -1,46 +1,32 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Oct  5 12:31:09 SAST 2017
+# Date of generation: Thu Oct 12 10:35:39 SAST 2017
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-apple.com-webbrowsing-security.review                                                                INACTIVE    000        Thu Oct  5 12:37:29 SAST 2017
-apple.com-webbrowsing-security.science                                                               INACTIVE    000        Thu Oct  5 12:37:30 SAST 2017
-aruplighting.com                                                                                     INACTIVE    000        Thu Oct  5 12:38:16 SAST 2017
-bestbrainprod.win                                                                                    INACTIVE    000        Thu Oct  5 12:41:19 SAST 2017
-blue-square.biz                                                                                      INACTIVE    000        Thu Oct  5 12:43:16 SAST 2017
-bobba.dzaba.com                                                                                      INACTIVE    000        Thu Oct  5 12:43:23 SAST 2017
-bupropion-sr-150-mg.us                                                                               INACTIVE    000        Thu Oct  5 12:44:36 SAST 2017
-compliance-alexa.top                                                                                 INACTIVE    000        Thu Oct  5 12:49:39 SAST 2017
-compliance-ivan.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:47 SAST 2017
-compliance-jack.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:48 SAST 2017
-compliance-jane.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:49 SAST 2017
-compliance-jessica.top                                                                               INACTIVE    000        Thu Oct  5 12:49:50 SAST 2017
-compliance-jess.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:50 SAST 2017
-compliance-john.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:51 SAST 2017
-compliance-josh.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:52 SAST 2017
-compliance-julianna.top                                                                              INACTIVE    000        Thu Oct  5 12:49:52 SAST 2017
-compliance-julia.top                                                                                 INACTIVE    000        Thu Oct  5 12:49:53 SAST 2017
-compliance-margo.top                                                                                 INACTIVE    000        Thu Oct  5 12:49:54 SAST 2017
-compliance-mark.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:54 SAST 2017
-compliance-mary.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:55 SAST 2017
-compliance-nelson.top                                                                                INACTIVE    000        Thu Oct  5 12:49:56 SAST 2017
-compliance-olga.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:57 SAST 2017
-compliance-viktor.top                                                                                INACTIVE    000        Thu Oct  5 12:49:57 SAST 2017
-compliance-walter.top                                                                                INACTIVE    000        Thu Oct  5 12:49:58 SAST 2017
-compliance-walt.top                                                                                  INACTIVE    000        Thu Oct  5 12:49:59 SAST 2017
-compliance-willy.top                                                                                 INACTIVE    000        Thu Oct  5 12:50:00 SAST 2017
-exhibitionplus.eu                                                                                    INACTIVE    000        Thu Oct  5 13:28:27 SAST 2017
-gok-kasten.net                                                                                       INACTIVE    000        Thu Oct  5 13:34:34 SAST 2017
-hoverboard360.se                                                                                     INACTIVE    000        Thu Oct  5 13:38:27 SAST 2017
-liran-locks.com                                                                                      INACTIVE    000        Thu Oct  5 13:48:54 SAST 2017
-loftdigital.eu                                                                                       INACTIVE    000        Thu Oct  5 13:49:30 SAST 2017
-nfljerseyscheapbiz.us                                                                                INACTIVE    000        Thu Oct  5 13:57:44 SAST 2017
-pdns.download                                                                                        INACTIVE    000        Thu Oct  5 14:02:01 SAST 2017
-pochemychka.net                                                                                      INACTIVE    000        Thu Oct  5 14:03:45 SAST 2017
-quit-smoking.ga                                                                                      INACTIVE    000        Thu Oct  5 14:09:57 SAST 2017
-scanner-walter.top                                                                                   INACTIVE    000        Thu Oct  5 14:14:09 SAST 2017
-seomarketings.online                                                                                 INACTIVE    000        Thu Oct  5 14:15:16 SAST 2017
-titelhelden.eu                                                                                       INACTIVE    000        Thu Oct  5 14:23:52 SAST 2017
-trichizobswiv.agddns.net                                                                             INACTIVE    000        Thu Oct  5 14:25:44 SAST 2017
-turizm.bz                                                                                            INACTIVE    000        Thu Oct  5 14:26:18 SAST 2017
+apple.com-webbrowsing-security.review                                                                INACTIVE    000        Thu Oct 12 10:41:52 SAST 2017
+apple.com-webbrowsing-security.science                                                               INACTIVE    000        Thu Oct 12 10:41:52 SAST 2017
+aruplighting.com                                                                                     INACTIVE    000        Thu Oct 12 10:42:39 SAST 2017
+axbocz.net                                                                                           INACTIVE    000        Thu Oct 12 10:44:07 SAST 2017
+b2b-lounge.com                                                                                       INACTIVE    000        Thu Oct 12 10:44:26 SAST 2017
+blue-square.biz                                                                                      INACTIVE    000        Thu Oct 12 10:47:44 SAST 2017
+bupropion-sr-150-mg.us                                                                               INACTIVE    000        Thu Oct 12 10:49:00 SAST 2017
+compliance-alexa.top                                                                                 INACTIVE    000        Thu Oct 12 10:54:09 SAST 2017
+compliance-ivan.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:17 SAST 2017
+compliance-jack.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:18 SAST 2017
+compliance-jane.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:19 SAST 2017
+compliance-jessica.top                                                                               INACTIVE    000        Thu Oct 12 10:54:20 SAST 2017
+compliance-jess.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:20 SAST 2017
+compliance-john.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:21 SAST 2017
+compliance-josh.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:22 SAST 2017
+compliance-julianna.top                                                                              INACTIVE    000        Thu Oct 12 10:54:23 SAST 2017
+compliance-julia.top                                                                                 INACTIVE    000        Thu Oct 12 10:54:23 SAST 2017
+compliance-margo.top                                                                                 INACTIVE    000        Thu Oct 12 10:54:24 SAST 2017
+compliance-mark.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:25 SAST 2017
+compliance-mary.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:25 SAST 2017
+compliance-nelson.top                                                                                INACTIVE    000        Thu Oct 12 10:54:26 SAST 2017
+compliance-olga.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:27 SAST 2017
+compliance-viktor.top                                                                                INACTIVE    000        Thu Oct 12 10:54:28 SAST 2017
+compliance-walter.top                                                                                INACTIVE    000        Thu Oct 12 10:54:29 SAST 2017
+compliance-walt.top                                                                                  INACTIVE    000        Thu Oct 12 10:54:29 SAST 2017
+compliance-willy.top                                                                                 INACTIVE    000        Thu Oct 12 10:54:30 SAST 2017
