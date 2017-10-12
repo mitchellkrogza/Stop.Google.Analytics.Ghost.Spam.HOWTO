@@ -70,3 +70,7 @@ seomarketings.online                                                            
 signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:43:29 SAST 2017
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 12 16:48:23 SAST 2017
 titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:50:16 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:54:03 SAST 2017
+varikozdok.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:56:57 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 17:05:11 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Oct 12 17:06:15 SAST 2017

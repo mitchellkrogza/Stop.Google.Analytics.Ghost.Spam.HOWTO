@@ -64,3 +64,6 @@ scanner-willy.top                                                               
 seomarketings.online                                                                                 INACTIVE    000        Thu Oct 12 16:41:44 SAST 2017
 signal03.ru                                                                                          INACTIVE    000        Thu Oct 12 16:43:29 SAST 2017
 titelhelden.eu                                                                                       INACTIVE    000        Thu Oct 12 16:50:16 SAST 2017
+trichizobswiv.agddns.net                                                                             INACTIVE    000        Thu Oct 12 16:54:03 SAST 2017
+varikozdok.ru                                                                                        INACTIVE    000        Thu Oct 12 16:56:57 SAST 2017
+yourserverisdown.com                                                                                 INACTIVE    000        Thu Oct 12 17:05:11 SAST 2017
