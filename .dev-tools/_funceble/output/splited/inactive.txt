@@ -36,3 +36,8 @@ ghernnqr.skyrock.com                                                            
 gojiberriess.apishops.ru                                                                             Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 12 16:01:14 SAST 2017
 gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:01:14 SAST 2017
 hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Thu Oct 12 16:04:18 SAST 2017
+jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:11:09 SAST 2017
+liran-locks.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:15:52 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:16:29 SAST 2017
+nfljerseyscheapbiz.us                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:24:59 SAST 2017
+pdns.download                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 12 16:29:31 SAST 2017
