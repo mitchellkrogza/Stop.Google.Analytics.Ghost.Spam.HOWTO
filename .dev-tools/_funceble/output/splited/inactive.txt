@@ -71,3 +71,9 @@ signal03.ru                                                                     
 sohoindia.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 15 17:54:24 SAST 2017
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 15 17:57:26 SAST 2017
 titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 15 17:59:26 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 15 18:03:49 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 15 18:04:25 SAST 2017
+varikozdok.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 15 18:06:38 SAST 2017
+yourmovies.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 15 18:14:59 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sun Oct 15 18:15:01 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sun Oct 15 18:16:04 SAST 2017
