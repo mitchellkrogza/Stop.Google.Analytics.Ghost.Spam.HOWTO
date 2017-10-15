@@ -33,3 +33,9 @@ compliance-willy.top                                                            
 elmifarhangi.com                                                                                     INACTIVE    000        Sun Oct 15 17:02:10 SAST 2017
 exhibitionplus.eu                                                                                    INACTIVE    000        Sun Oct 15 17:03:34 SAST 2017
 gok-kasten.net                                                                                       INACTIVE    000        Sun Oct 15 17:09:55 SAST 2017
+javitas.info                                                                                         INACTIVE    000        Sun Oct 15 17:19:09 SAST 2017
+jewelryandfiligree.com                                                                               INACTIVE    000        Sun Oct 15 17:19:20 SAST 2017
+liran-locks.com                                                                                      INACTIVE    000        Sun Oct 15 17:24:13 SAST 2017
+loftdigital.eu                                                                                       INACTIVE    000        Sun Oct 15 17:24:51 SAST 2017
+nfljerseyscheapbiz.us                                                                                INACTIVE    000        Sun Oct 15 17:33:18 SAST 2017
+pdns.download                                                                                        INACTIVE    000        Sun Oct 15 17:37:38 SAST 2017
