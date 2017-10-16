@@ -38,3 +38,7 @@ gok-kasten.net                                                                  
 hiwibyh.bugs3.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct 16 11:41:52 SAST 2017
 hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Mon Oct 16 11:41:54 SAST 2017
 hol.es                                                                                               Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Oct 16 11:42:08 SAST 2017
+jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 16 11:48:40 SAST 2017
+liran-locks.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 16 11:53:43 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 16 11:54:20 SAST 2017
+nfljerseyscheapbiz.us                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Oct 16 12:02:29 SAST 2017
