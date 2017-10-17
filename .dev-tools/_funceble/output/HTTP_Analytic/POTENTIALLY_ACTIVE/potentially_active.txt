@@ -67,3 +67,8 @@ scanner-walt.top                                                                
 scanner-willy.top                                                                                    INACTIVE    000        Tue Oct 17 12:48:45 SAST 2017
 seomarketings.online                                                                                 INACTIVE    000        Tue Oct 17 12:49:51 SAST 2017
 sohoindia.net                                                                                        INACTIVE    000        Tue Oct 17 12:53:57 SAST 2017
+titelhelden.eu                                                                                       INACTIVE    000        Tue Oct 17 13:00:43 SAST 2017
+trichizobswiv.agddns.net                                                                             INACTIVE    000        Tue Oct 17 13:02:47 SAST 2017
+turizm.bz                                                                                            INACTIVE    000        Tue Oct 17 13:03:27 SAST 2017
+varikozdok.ru                                                                                        INACTIVE    000        Tue Oct 17 13:05:44 SAST 2017
+yourserverisdown.com                                                                                 INACTIVE    000        Tue Oct 17 13:14:18 SAST 2017
