@@ -31,3 +31,7 @@ compliance-olga.top                                                             
 compliance-viktor.top                                                                                INACTIVE    000        Tue Oct 17 11:52:35 SAST 2017
 compliance-walt.top                                                                                  INACTIVE    000        Tue Oct 17 11:52:38 SAST 2017
 compliance-willy.top                                                                                 INACTIVE    000        Tue Oct 17 11:52:39 SAST 2017
+elmifarhangi.com                                                                                     INACTIVE    000        Tue Oct 17 12:00:56 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Tue Oct 17 12:02:23 SAST 2017
+gok-kasten.net                                                                                       INACTIVE    000        Tue Oct 17 12:08:51 SAST 2017
+gwebtools.com.br                                                                                     INACTIVE    000        Tue Oct 17 12:10:19 SAST 2017
