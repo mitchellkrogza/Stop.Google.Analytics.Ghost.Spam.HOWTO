@@ -38,3 +38,9 @@ ghernnqr.skyrock.com                                                            
 gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 12:08:51 SAST 2017
 gwebtools.com.br                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 12:10:19 SAST 2017
 hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Oct 17 12:11:49 SAST 2017
+jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 12:18:34 SAST 2017
+liran-locks.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 12:23:24 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 12:23:58 SAST 2017
+maranbrinfo.com.br                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 12:25:30 SAST 2017
+nfljerseyscheapbiz.us                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 12:32:20 SAST 2017
+pdns.download                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Oct 17 12:36:49 SAST 2017
