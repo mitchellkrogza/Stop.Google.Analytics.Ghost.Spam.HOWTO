@@ -38,3 +38,7 @@ exhibitionplus.eu                                                               
 ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Wed Oct 18 14:18:57 SAST 2017
 gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 14:19:44 SAST 2017
 hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Wed Oct 18 14:22:53 SAST 2017
+jewelryandfiligree.com                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 14:29:34 SAST 2017
+liran-locks.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 14:34:27 SAST 2017
+loftdigital.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 14:35:05 SAST 2017
+nfljerseyscheapbiz.us                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 14:43:29 SAST 2017
