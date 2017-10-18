@@ -72,3 +72,10 @@ sexyteens.hol.es                                                                
 signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 15:02:15 SAST 2017
 sohoindia.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 15:04:22 SAST 2017
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 15:07:15 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 15:10:45 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 15:12:44 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 15:13:17 SAST 2017
+varikozdok.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 15:15:35 SAST 2017
+visa-pasport.ru                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 18 15:17:06 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 18 15:23:50 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Oct 18 15:24:52 SAST 2017
