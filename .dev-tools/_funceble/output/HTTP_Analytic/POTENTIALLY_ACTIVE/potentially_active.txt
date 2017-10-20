@@ -26,3 +26,8 @@ compliance-josh.top                                                             
 compliance-julianna.top                                                                              INACTIVE    000        Fri Oct 20 14:56:06 SAST 2017
 compliance-julia.top                                                                                 INACTIVE    000        Fri Oct 20 14:56:07 SAST 2017
 compliance-margo.top                                                                                 INACTIVE    000        Fri Oct 20 14:56:08 SAST 2017
+cosmeticswomens-womensports.rhcloud.com                                                              INACTIVE    000        Fri Oct 20 14:58:27 SAST 2017
+elmifarhangi.com                                                                                     INACTIVE    000        Fri Oct 20 15:04:33 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Fri Oct 20 15:06:07 SAST 2017
+gok-kasten.net                                                                                       INACTIVE    000        Fri Oct 20 15:12:56 SAST 2017
+iccornacircri.cf                                                                                     INACTIVE    000        Fri Oct 20 15:17:20 SAST 2017

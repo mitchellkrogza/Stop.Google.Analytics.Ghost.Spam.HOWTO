@@ -26,3 +26,10 @@ compliance-josh.top                                                             
 compliance-julianna.top                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 20 14:56:06 SAST 2017
 compliance-julia.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 20 14:56:07 SAST 2017
 compliance-margo.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 20 14:56:08 SAST 2017
+cosmeticswomens-womensports.rhcloud.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 20 14:58:27 SAST 2017
+elmifarhangi.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 20 15:04:33 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 20 15:06:07 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Fri Oct 20 15:12:12 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 20 15:12:56 SAST 2017
+hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Fri Oct 20 15:15:54 SAST 2017
+iccornacircri.cf                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Oct 20 15:17:20 SAST 2017
