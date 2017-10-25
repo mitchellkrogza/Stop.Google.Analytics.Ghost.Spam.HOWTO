@@ -71,3 +71,12 @@ sitevaluation.org                                                               
 sohoindia.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 15:19:33 SAST 2017
 stair.registrydomainservices.com                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 25 15:20:45 SAST 2017
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 25 15:22:35 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 15:27:06 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 15:28:55 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 15:29:33 SAST 2017
+urll.eu                                                                                              Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 25 15:31:08 SAST 2017
+varikozdok.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 15:31:53 SAST 2017
+while.cheapwebsitehoster.com                                                                         Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Oct 25 15:36:02 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 15:40:27 SAST 2017
+zebramart.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Oct 25 15:41:13 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Oct 25 15:41:30 SAST 2017
