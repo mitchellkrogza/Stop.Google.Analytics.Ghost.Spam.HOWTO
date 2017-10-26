@@ -36,3 +36,9 @@ compliance-walter.top                                                           
 compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 15:05:52 SAST 2017
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 15:05:52 SAST 2017
 cosmeticswomens-womensports.rhcloud.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 15:06:30 SAST 2017
+elmifarhangi.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 15:15:45 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 15:17:19 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Thu Oct 26 15:23:25 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 15:24:11 SAST 2017
+hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Thu Oct 26 15:27:11 SAST 2017
+iccornacircri.cf                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 15:28:47 SAST 2017

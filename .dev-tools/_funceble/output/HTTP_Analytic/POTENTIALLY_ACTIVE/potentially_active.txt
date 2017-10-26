@@ -36,3 +36,7 @@ compliance-walter.top                                                           
 compliance-walt.top                                                                                  INACTIVE    000        Thu Oct 26 15:05:52 SAST 2017
 compliance-willy.top                                                                                 INACTIVE    000        Thu Oct 26 15:05:52 SAST 2017
 cosmeticswomens-womensports.rhcloud.com                                                              INACTIVE    000        Thu Oct 26 15:06:30 SAST 2017
+elmifarhangi.com                                                                                     INACTIVE    000        Thu Oct 26 15:15:45 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Thu Oct 26 15:17:19 SAST 2017
+gok-kasten.net                                                                                       INACTIVE    000        Thu Oct 26 15:24:11 SAST 2017
+iccornacircri.cf                                                                                     INACTIVE    000        Thu Oct 26 15:28:47 SAST 2017
