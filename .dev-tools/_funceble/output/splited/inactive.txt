@@ -78,3 +78,11 @@ signal03.ru                                                                     
 sitevaluation.org                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 16:33:59 SAST 2017
 sohoindia.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 16:35:37 SAST 2017
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 26 16:38:37 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 16:43:05 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 16:45:07 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 16:45:45 SAST 2017
+varikozdok.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 26 16:48:07 SAST 2017
+wnhjavlhezp.gq                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu Oct 26 16:52:57 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 16:57:03 SAST 2017
+zebramart.ru                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu Oct 26 16:57:48 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu Oct 26 16:58:07 SAST 2017
