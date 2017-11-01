@@ -46,3 +46,17 @@ compliance-viktor.top                                                           
 compliance-walter.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 13:51:59 SAST 2017
 compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 13:51:59 SAST 2017
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 13:52:00 SAST 2017
+cosmeticswomens-womensports.rhcloud.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 13:54:49 SAST 2017
+elmifarhangi.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:01:08 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:02:34 SAST 2017
+fikasound.tk                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:04:24 SAST 2017
+floridamhca.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:05:07 SAST 2017
+free-floating-buttons.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:06:11 SAST 2017
+free-social-buttons.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:06:22 SAST 2017
+get-your-social-buttons.info                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:08:18 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Wed Nov  1 14:08:24 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:09:11 SAST 2017
+hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Wed Nov  1 14:12:16 SAST 2017
+huimin764128.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:13:25 SAST 2017
+iccornacircri.cf                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov  1 14:13:47 SAST 2017
+idegenvezeto.eu                                                                                      Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Nov  1 14:13:56 SAST 2017
