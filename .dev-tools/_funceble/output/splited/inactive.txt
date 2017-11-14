@@ -60,3 +60,25 @@ compliance-viktor.top                                                           
 compliance-walter.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 12:59:18 SAST 2017
 compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 12:59:19 SAST 2017
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 12:59:19 SAST 2017
+cosmeticswomens-womensports.rhcloud.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:01:15 SAST 2017
+decoratinghomes.ga                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:03:03 SAST 2017
+dekoration.us                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:03:08 SAST 2017
+elmifarhangi.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:07:23 SAST 2017
+eloconcream.blogspot.com                                                                                                                 INACTIVE    SPECIAL    302        Tue Nov 14 13:07:25 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:08:48 SAST 2017
+fakehandbags.xyz                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Nov 14 13:09:36 SAST 2017
+fikasound.tk                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:10:39 SAST 2017
+floridamhca.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:11:25 SAST 2017
+free-floating-buttons.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:12:25 SAST 2017
+free-social-buttons.com                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:12:36 SAST 2017
+getaclueamerica.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:14:28 SAST 2017
+get-seo-domain.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:14:39 SAST 2017
+get-your-social-buttons.info                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:14:40 SAST 2017
+ghernnqr.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Nov 14 13:14:45 SAST 2017
+gok-kasten.net                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:15:31 SAST 2017
+gsou.cf                                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:16:48 SAST 2017
+haveinc.xyz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:17:29 SAST 2017
+hermesbracelets.xyz                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:18:11 SAST 2017
+hkdiiohi.skyrock.com                                                                                                                     INACTIVE    SPECIAL    404        Tue Nov 14 13:18:39 SAST 2017
+hoverboard360.at                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:19:33 SAST 2017
+huimin764128.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Nov 14 13:19:47 SAST 2017
