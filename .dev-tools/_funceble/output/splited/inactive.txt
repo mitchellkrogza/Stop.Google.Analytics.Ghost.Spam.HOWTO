@@ -161,3 +161,5 @@ wnhjavlhezp.gq                                                                  
 xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:47:43 SAST 2017
 xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:48:04 SAST 2017
 xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:49:09 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:51:45 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Nov 15 13:52:46 SAST 2017
