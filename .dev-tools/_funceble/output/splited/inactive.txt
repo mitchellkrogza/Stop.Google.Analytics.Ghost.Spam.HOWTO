@@ -138,3 +138,16 @@ scanner-willy.top                                                               
 searchimage.co                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:24:40 SAST 2017
 seomarketings.online                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:25:18 SAST 2017
 sexyteens.hol.es                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:26:22 SAST 2017
+signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Nov 15 13:28:51 SAST 2017
+simple-share-buttons.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:29:02 SAST 2017
+site3.free-share-buttons.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:29:12 SAST 2017
+sitevaluation.org                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:29:20 SAST 2017
+socialbuttons.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:30:30 SAST 2017
+sohoindia.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:30:53 SAST 2017
+spasswelt.xyz                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Nov 15 13:31:23 SAST 2017
+speedup-my.site                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:31:30 SAST 2017
+supermesta.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:33:16 SAST 2017
+swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:33:42 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:35:33 SAST 2017
+trafficmonetize.org                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:37:19 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 13:37:37 SAST 2017
