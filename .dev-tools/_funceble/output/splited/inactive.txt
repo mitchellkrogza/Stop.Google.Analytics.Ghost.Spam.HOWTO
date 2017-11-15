@@ -146,3 +146,19 @@ sitevaluation.org                                                               
 socialbuttons.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:39:40 SAST 2017
 sohoindia.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:40:08 SAST 2017
 speedup-my.site                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:40:48 SAST 2017
+supermesta.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:44:21 SAST 2017
+swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:44:48 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:46:50 SAST 2017
+trafficmonetize.org                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:48:43 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:49:02 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:49:38 SAST 2017
+tzritel.tk                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:50:02 SAST 2017
+vancleefreplica.pw                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Nov 15 11:51:53 SAST 2017
+varikozdok.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:52:00 SAST 2017
+wjgony.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:56:34 SAST 2017
+wnhjavlhezp.gq                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:56:38 SAST 2017
+xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:57:46 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:58:10 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 11:59:15 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:00:34 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Nov 15 12:01:45 SAST 2017
