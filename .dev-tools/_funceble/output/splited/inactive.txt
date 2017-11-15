@@ -59,3 +59,11 @@ compliance-walter.top                                                           
 compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:26:41 SAST 2017
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:26:41 SAST 2017
 cosmeticswomens-womensports.rhcloud.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:27:18 SAST 2017
+decoratinghomes.ga                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:30:23 SAST 2017
+dekoration.us                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:30:28 SAST 2017
+elmifarhangi.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:34:31 SAST 2017
+eloconcream.blogspot.com                                                                                                                 INACTIVE    SPECIAL    302        Wed Nov 15 12:34:33 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:35:53 SAST 2017
+fikasound.tk                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:37:36 SAST 2017
+floridamhca.org                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:38:22 SAST 2017
+free-floating-buttons.com                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 15 12:39:22 SAST 2017

@@ -52,3 +52,10 @@ compliance-walter.top                                                           
 compliance-walt.top                                                                                  INACTIVE    000        Wed Nov 15 12:26:40 SAST 2017
 compliance-willy.top                                                                                 INACTIVE    000        Wed Nov 15 12:26:41 SAST 2017
 cosmeticswomens-womensports.rhcloud.com                                                              INACTIVE    000        Wed Nov 15 12:27:18 SAST 2017
+decoratinghomes.ga                                                                                   INACTIVE    000        Wed Nov 15 12:30:23 SAST 2017
+dekoration.us                                                                                        INACTIVE    000        Wed Nov 15 12:30:28 SAST 2017
+elmifarhangi.com                                                                                     INACTIVE    000        Wed Nov 15 12:34:31 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Wed Nov 15 12:35:53 SAST 2017
+fikasound.tk                                                                                         INACTIVE    000        Wed Nov 15 12:37:36 SAST 2017
+floridamhca.org                                                                                      INACTIVE    000        Wed Nov 15 12:38:22 SAST 2017
+free-floating-buttons.com                                                                            INACTIVE    000        Wed Nov 15 12:39:22 SAST 2017
