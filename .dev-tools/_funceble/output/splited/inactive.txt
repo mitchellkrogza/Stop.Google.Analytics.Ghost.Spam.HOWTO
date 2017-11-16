@@ -151,3 +151,9 @@ spasswelt.xyz                                                                   
 speedup-my.site                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 16 16:20:31 SAST 2017
 supermesta.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 16 16:22:22 SAST 2017
 swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 16 16:22:50 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 16 16:26:31 SAST 2017
+trafficmonetize.org                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 16 16:28:29 SAST 2017
+trichizobswiv.agddns.net                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 16 16:28:47 SAST 2017
+turizm.bz                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 16 16:29:20 SAST 2017
+tzritel.tk                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 16 16:29:45 SAST 2017
+varikozdok.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu Nov 16 16:31:46 SAST 2017
