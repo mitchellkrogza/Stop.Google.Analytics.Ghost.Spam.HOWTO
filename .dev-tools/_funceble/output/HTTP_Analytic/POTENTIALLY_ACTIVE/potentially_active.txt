@@ -134,3 +134,8 @@ website-speed-up.top                                                            
 wjgony.com                                                                                           INACTIVE    000        Sat Nov 18 15:13:00 SAST 2017
 wnhjavlhezp.gq                                                                                       INACTIVE    000        Sat Nov 18 15:13:03 SAST 2017
 xcc24.pl                                                                                             INACTIVE    000        Sat Nov 18 15:14:12 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        INACTIVE    000        Sat Nov 18 15:16:05 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         INACTIVE    000        Sat Nov 18 15:16:53 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    INACTIVE    000        Sat Nov 18 15:17:10 SAST 2017
+yourserverisdown.com                                                                                 INACTIVE    000        Sat Nov 18 15:18:27 SAST 2017
+yugk.net                                                                                             INACTIVE    000        Sat Nov 18 15:18:36 SAST 2017

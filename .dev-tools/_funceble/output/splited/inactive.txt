@@ -155,3 +155,9 @@ website-speed-up.top                                                            
 wjgony.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 15:13:00 SAST 2017
 wnhjavlhezp.gq                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 15:13:03 SAST 2017
 xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 15:14:12 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 15:16:05 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 15:16:53 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 15:17:10 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 15:18:27 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 15:18:36 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sat Nov 18 15:19:34 SAST 2017
