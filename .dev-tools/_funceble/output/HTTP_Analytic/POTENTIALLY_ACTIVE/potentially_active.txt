@@ -51,3 +51,9 @@ compliance-walter.top                                                           
 compliance-walt.top                                                                                  INACTIVE    000        Sat Nov 18 16:05:21 SAST 2017
 compliance-willy.top                                                                                 INACTIVE    000        Sat Nov 18 16:05:22 SAST 2017
 cosmeticswomens-womensports.rhcloud.com                                                              INACTIVE    000        Sat Nov 18 16:06:01 SAST 2017
+decoratinghomes.ga                                                                                   INACTIVE    000        Sat Nov 18 16:09:41 SAST 2017
+dekoration.us                                                                                        INACTIVE    000        Sat Nov 18 16:09:45 SAST 2017
+e-buyeasy.com                                                                                        INACTIVE    000        Sat Nov 18 16:12:46 SAST 2017
+elmifarhangi.com                                                                                     INACTIVE    000        Sat Nov 18 16:13:59 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Sat Nov 18 16:15:31 SAST 2017
+fikasound.tk                                                                                         INACTIVE    000        Sat Nov 18 16:17:26 SAST 2017
