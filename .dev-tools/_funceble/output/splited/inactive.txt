@@ -131,3 +131,16 @@ scanner-walter.top                                                              
 scanner-walt.top                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:50:58 SAST 2017
 scanner-willy.top                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:50:59 SAST 2017
 searchimage.co                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:51:23 SAST 2017
+seomarketings.online                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:53:20 SAST 2017
+sexyteens.hol.es                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:54:19 SAST 2017
+signal03.ru                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:55:14 SAST 2017
+simple-share-buttons.com                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:55:26 SAST 2017
+site3.free-share-buttons.com                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:55:36 SAST 2017
+sitevaluation.org                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:55:45 SAST 2017
+socialbuttons.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:56:57 SAST 2017
+sohoindia.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:57:22 SAST 2017
+spasswelt.xyz                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Nov 18 14:57:51 SAST 2017
+speedup-my.site                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 14:57:59 SAST 2017
+supermesta.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Nov 18 14:59:43 SAST 2017
+swinginwithme.ru                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Nov 18 15:00:10 SAST 2017
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Nov 18 15:02:07 SAST 2017
