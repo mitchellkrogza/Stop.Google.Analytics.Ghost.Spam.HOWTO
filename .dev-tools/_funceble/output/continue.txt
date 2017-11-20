@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list fil.ru 1833 1771 62 0
+/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list infobabki.ru 2466 2390 76 0
