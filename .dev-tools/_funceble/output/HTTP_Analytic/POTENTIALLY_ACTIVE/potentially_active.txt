@@ -138,3 +138,7 @@ wjgony.com                                                                      
 wnhjavlhezp.gq                                                                                       INACTIVE    000        Mon Nov 20 14:25:33 SAST 2017
 xcc24.pl                                                                                             INACTIVE    000        Mon Nov 20 14:26:36 SAST 2017
 xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        INACTIVE    000        Mon Nov 20 14:26:59 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         INACTIVE    000        Mon Nov 20 14:29:19 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    INACTIVE    000        Mon Nov 20 14:29:36 SAST 2017
+yourserverisdown.com                                                                                 INACTIVE    000        Mon Nov 20 14:30:52 SAST 2017
+yugk.net                                                                                             INACTIVE    000        Mon Nov 20 14:31:02 SAST 2017
