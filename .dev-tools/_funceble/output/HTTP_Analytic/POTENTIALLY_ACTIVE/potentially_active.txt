@@ -52,3 +52,10 @@ compliance-viktor.top                                                           
 compliance-walt.top                                                                                  INACTIVE    000        Wed Nov 22 19:19:18 SAST 2017
 compliance-willy.top                                                                                 INACTIVE    000        Wed Nov 22 19:19:18 SAST 2017
 cosmeticswomens-womensports.rhcloud.com                                                              INACTIVE    000        Wed Nov 22 19:19:58 SAST 2017
+decoratinghomes.ga                                                                                   INACTIVE    000        Wed Nov 22 19:24:37 SAST 2017
+dekoration.us                                                                                        INACTIVE    000        Wed Nov 22 19:24:42 SAST 2017
+e-buyeasy.com                                                                                        INACTIVE    000        Wed Nov 22 19:27:46 SAST 2017
+elmifarhangi.com                                                                                     INACTIVE    000        Wed Nov 22 19:28:52 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Wed Nov 22 19:30:20 SAST 2017
+fikasound.tk                                                                                         INACTIVE    000        Wed Nov 22 19:32:04 SAST 2017
+floridamhca.org                                                                                      INACTIVE    000        Wed Nov 22 19:32:44 SAST 2017
