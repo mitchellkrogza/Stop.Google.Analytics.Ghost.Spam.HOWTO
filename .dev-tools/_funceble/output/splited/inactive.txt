@@ -187,3 +187,7 @@ wnhjavlhezp.gq                                                                  
 word-vorlagen.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 20:43:27 SAST 2017
 xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 20:44:14 SAST 2017
 xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 20:44:35 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 20:47:56 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 20:48:12 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 20:49:28 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 20:49:37 SAST 2017
