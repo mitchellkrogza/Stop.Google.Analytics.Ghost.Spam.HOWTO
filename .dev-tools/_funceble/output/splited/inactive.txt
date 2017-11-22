@@ -67,3 +67,12 @@ compliance-viktor.top                                                           
 compliance-walter.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 10:57:28 SAST 2017
 compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 10:57:29 SAST 2017
 compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 10:57:29 SAST 2017
+cosmeticswomens-womensports.rhcloud.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 10:59:37 SAST 2017
+decoratinghomes.ga                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 11:01:23 SAST 2017
+dekoration.us                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 11:01:28 SAST 2017
+e-buyeasy.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 11:04:34 SAST 2017
+elmifarhangi.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 11:05:41 SAST 2017
+eloconcream.blogspot.com                                                                                                                 INACTIVE    SPECIAL    302        Wed Nov 22 11:05:42 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 11:07:08 SAST 2017
+fakehandbags.xyz                                                                                     Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Nov 22 11:07:59 SAST 2017
+fikasound.tk                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 22 11:08:57 SAST 2017
