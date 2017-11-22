@@ -151,3 +151,9 @@ videtubs.pl                                                                     
 website-speed-up.top                                                                                 INACTIVE    000        Wed Nov 22 12:19:43 SAST 2017
 wjgony.com                                                                                           INACTIVE    000        Wed Nov 22 12:20:53 SAST 2017
 wnhjavlhezp.gq                                                                                       INACTIVE    000        Wed Nov 22 12:20:57 SAST 2017
+xcc24.pl                                                                                             INACTIVE    000        Wed Nov 22 12:23:49 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        INACTIVE    000        Wed Nov 22 12:24:14 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         INACTIVE    000        Wed Nov 22 12:25:02 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    INACTIVE    000        Wed Nov 22 12:25:18 SAST 2017
+yourserverisdown.com                                                                                 INACTIVE    000        Wed Nov 22 12:26:34 SAST 2017
+yugk.net                                                                                             INACTIVE    000        Wed Nov 22 12:26:44 SAST 2017
