@@ -57,3 +57,10 @@ compliance-nelson.top                                                           
 compliance-olga.top                                                                                  INACTIVE    000        Thu Nov 23 14:36:05 SAST 2017
 compliance-viktor.top                                                                                INACTIVE    000        Thu Nov 23 14:36:06 SAST 2017
 compliance-willy.top                                                                                 INACTIVE    000        Thu Nov 23 14:36:12 SAST 2017
+cosmeticswomens-womensports.rhcloud.com                                                              INACTIVE    000        Thu Nov 23 14:38:56 SAST 2017
+decoratinghomes.ga                                                                                   INACTIVE    000        Thu Nov 23 14:40:43 SAST 2017
+dekoration.us                                                                                        INACTIVE    000        Thu Nov 23 14:40:48 SAST 2017
+e-buyeasy.com                                                                                        INACTIVE    000        Thu Nov 23 14:43:57 SAST 2017
+elmifarhangi.com                                                                                     INACTIVE    000        Thu Nov 23 14:45:05 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Thu Nov 23 14:46:42 SAST 2017
+fakehandbags.xyz                                                                                     INACTIVE    000        Thu Nov 23 14:47:37 SAST 2017
