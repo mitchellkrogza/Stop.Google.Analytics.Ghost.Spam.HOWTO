@@ -384,3 +384,7 @@ xcc24.pl                                                                        
 xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:47:47 SAST 2017
 xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:48:34 SAST 2017
 xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:48:51 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:51:58 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:52:10 SAST 2017
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 13:52:39 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Nov 27 13:53:05 SAST 2017
