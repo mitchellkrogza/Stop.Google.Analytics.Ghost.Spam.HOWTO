@@ -61,3 +61,24 @@ compliance-jessica.top                                                          
 compliance-jess.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:53:22 SAST 2017
 compliance-john.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:53:22 SAST 2017
 compliance-josh.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:53:23 SAST 2017
+compliance-julianna.top                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:43 SAST 2017
+compliance-julia.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:43 SAST 2017
+compliance-margo.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:44 SAST 2017
+compliance-mark.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:45 SAST 2017
+compliance-mary.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:45 SAST 2017
+compliance-nelson.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:46 SAST 2017
+compliance-olga.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:47 SAST 2017
+compliance-viktor.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:47 SAST 2017
+compliance-walter.top                                                                                Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:48 SAST 2017
+compliance-walt.top                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:49 SAST 2017
+compliance-willy.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:55:49 SAST 2017
+cosmeticswomens-womensports.rhcloud.com                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:56:27 SAST 2017
+dandiyabeats.in                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:57:46 SAST 2017
+decoratinghomes.ga                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:58:19 SAST 2017
+dekoration.us                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:58:24 SAST 2017
+dogclothing.store                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 10:59:59 SAST 2017
+e-buyeasy.com                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 11:01:38 SAST 2017
+elmifarhangi.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 11:02:46 SAST 2017
+eloconcream.blogspot.com                                                                                                                 INACTIVE    SPECIAL    302        Mon Nov 27 11:02:48 SAST 2017
+exhibitionplus.eu                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 11:04:21 SAST 2017
+fakehandbags.xyz                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 11:05:13 SAST 2017
