@@ -58,3 +58,13 @@ compliance-viktor.top                                                           
 compliance-walter.top                                                                                INACTIVE    000        Mon Nov 27 15:10:55 SAST 2017
 compliance-walt.top                                                                                  INACTIVE    000        Mon Nov 27 15:10:56 SAST 2017
 compliance-willy.top                                                                                 INACTIVE    000        Mon Nov 27 15:10:57 SAST 2017
+cosmeticswomens-womensports.rhcloud.com                                                              INACTIVE    000        Mon Nov 27 15:13:56 SAST 2017
+dandiyabeats.in                                                                                      INACTIVE    000        Mon Nov 27 15:15:16 SAST 2017
+decoratinghomes.ga                                                                                   INACTIVE    000        Mon Nov 27 15:15:45 SAST 2017
+dekoration.us                                                                                        INACTIVE    000        Mon Nov 27 15:15:50 SAST 2017
+dogclothing.store                                                                                    INACTIVE    000        Mon Nov 27 15:17:23 SAST 2017
+e-buyeasy.com                                                                                        INACTIVE    000        Mon Nov 27 15:18:50 SAST 2017
+elmifarhangi.com                                                                                     INACTIVE    000        Mon Nov 27 15:19:56 SAST 2017
+exhibitionplus.eu                                                                                    INACTIVE    000        Mon Nov 27 15:21:22 SAST 2017
+fettefrauen.net                                                                                      INACTIVE    000        Mon Nov 27 15:23:01 SAST 2017
+fickenbumsen.net                                                                                     INACTIVE    000        Mon Nov 27 15:23:02 SAST 2017
