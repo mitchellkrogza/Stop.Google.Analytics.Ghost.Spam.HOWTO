@@ -196,3 +196,12 @@ website-speed-up.top                                                            
 weddingdresses.xyz                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Nov 27 16:32:33 SAST 2017
 wjgony.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:33:31 SAST 2017
 wnhjavlhezp.gq                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:33:35 SAST 2017
+word-vorlagen.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:35:26 SAST 2017
+xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:36:17 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:36:40 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:37:27 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:37:43 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:39:04 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:39:18 SAST 2017
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Nov 27 16:39:49 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Nov 27 16:40:18 SAST 2017
