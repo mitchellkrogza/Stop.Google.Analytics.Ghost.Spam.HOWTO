@@ -196,3 +196,14 @@ videtubs.pl                                                                     
 webmonetizer.net                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:01:11 SAST 2017
 website-speed-up.top                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:01:23 SAST 2017
 weddingdresses.xyz                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:01:33 SAST 2017
+wjgony.com                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:04:20 SAST 2017
+wnhjavlhezp.gq                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:04:24 SAST 2017
+word-vorlagen.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed Nov 29 13:04:43 SAST 2017
+xcc24.pl                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:05:31 SAST 2017
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:05:56 SAST 2017
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:06:43 SAST 2017
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:07:01 SAST 2017
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:08:25 SAST 2017
+yugk.net                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:08:38 SAST 2017
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed Nov 29 13:09:10 SAST 2017
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Wed Nov 29 13:09:40 SAST 2017
