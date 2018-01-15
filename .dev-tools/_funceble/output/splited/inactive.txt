@@ -383,3 +383,11 @@ xn----9sbebi2bvzr7h.xn--p1ai                                                    
 xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:48:16 SAST 2018
 youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:49:32 SAST 2018
 yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:49:39 SAST 2018
+zapiszto.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:51:33 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:51:37 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:51:42 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:51:43 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Jan 15 11:52:07 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:52:16 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:52:29 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Jan 15 11:52:58 SAST 2018
