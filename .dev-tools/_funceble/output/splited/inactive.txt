@@ -388,3 +388,12 @@ xn----itbeirbjbi7bc6bh2d.xn--p1ai                                               
 xxxdatinglocal.us                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:02:47 SAST 2018
 youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:03:36 SAST 2018
 yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:03:44 SAST 2018
+zapiszto.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:05:28 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:05:32 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:05:38 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:05:39 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sat Jan 27 15:06:02 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:06:10 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:06:24 SAST 2018
+zs2vm.top                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:06:45 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Jan 27 15:06:50 SAST 2018
