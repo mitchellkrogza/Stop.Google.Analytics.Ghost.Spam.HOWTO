@@ -1,382 +1,51 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Mon Jan 15 09:58:41 SAST 2018
+# Date of generation: Sat Jan 27 13:12:48 SAST 2018
 
 
 Domain                                                                                               Status      HTTP Code  Analyse Date        
 ---------------------------------------------------------------------------------------------------- ----------- ---------- -------------------------------
-1j7740kd.website                                                                                     INACTIVE    000        Mon Jan 15 09:59:28 SAST 2018
-1millionusd.xyz                                                                                      INACTIVE    000        Mon Jan 15 09:59:31 SAST 2018
-214jaluwobapef.cf                                                                                    INACTIVE    000        Mon Jan 15 09:59:42 SAST 2018
-24x7-server-support.site                                                                             INACTIVE    000        Mon Jan 15 09:59:50 SAST 2018
-28n2gl3wfyb0.ru                                                                                      INACTIVE    000        Mon Jan 15 09:59:55 SAST 2018
-3-letter-domains.net                                                                                 INACTIVE    000        Mon Jan 15 10:00:08 SAST 2018
-66cpwgln.space                                                                                       INACTIVE    000        Mon Jan 15 10:00:41 SAST 2018
-6hopping.com                                                                                         INACTIVE    000        Mon Jan 15 10:00:41 SAST 2018
-8kisses.eu                                                                                           INACTIVE    000        Mon Jan 15 10:00:59 SAST 2018
-8lufu.com                                                                                            INACTIVE    000        Mon Jan 15 10:01:00 SAST 2018
-9icmzvn6.website                                                                                     INACTIVE    000        Mon Jan 15 10:01:09 SAST 2018
-aa8780bb28a1de4eb5bff33c28a218a930.com                                                               INACTIVE    000        Mon Jan 15 10:01:14 SAST 2018
-aa8b68101d388c446389283820863176e7.com                                                               INACTIVE    000        Mon Jan 15 10:01:14 SAST 2018
-aa9bd78f328a6a41279d0fad0a88df1901.com                                                               INACTIVE    000        Mon Jan 15 10:01:15 SAST 2018
-aa9d046aab36af4ff182f097f840430d51.com                                                               INACTIVE    000        Mon Jan 15 10:01:15 SAST 2018
-aaa38852e886ac4af1a3cff9b47cab6272.com                                                               INACTIVE    000        Mon Jan 15 10:01:16 SAST 2018
-aac52006ec82a24e08b665f4db2b5013f7.com                                                               INACTIVE    000        Mon Jan 15 10:01:17 SAST 2018
-aad1f4acb0a373420d9b0c4202d38d94fa.com                                                               INACTIVE    000        Mon Jan 15 10:01:18 SAST 2018
-abcdefh.xyz                                                                                          INACTIVE    000        Mon Jan 15 10:01:23 SAST 2018
-abcdeg.xyz                                                                                           INACTIVE    000        Mon Jan 15 10:01:24 SAST 2018
-acgs.tk                                                                                              INACTIVE    000        Mon Jan 15 10:01:41 SAST 2018
-adultfullhd.com                                                                                      INACTIVE    000        Mon Jan 15 10:02:32 SAST 2018
-adultwebhosting.info                                                                                 INACTIVE    000        Mon Jan 15 10:02:37 SAST 2018
-advocatemsk.ru                                                                                       INACTIVE    000        Mon Jan 15 10:02:44 SAST 2018
-advokateg.xyz                                                                                        INACTIVE    000        Mon Jan 15 10:02:46 SAST 2018
-affordablewebsitesandmobileapps.com                                                                  INACTIVE    000        Mon Jan 15 10:02:55 SAST 2018
-alert-fdm.xyz                                                                                        INACTIVE    000        Mon Jan 15 10:03:33 SAST 2018
-alert-fjg.xyz                                                                                        INACTIVE    000        Mon Jan 15 10:03:35 SAST 2018
-alert-hgd.xyz                                                                                        INACTIVE    000        Mon Jan 15 10:03:36 SAST 2018
-alert-jdh.xyz                                                                                        INACTIVE    000        Mon Jan 15 10:03:38 SAST 2018
-alfabot.xyz                                                                                          INACTIVE    000        Mon Jan 15 10:03:41 SAST 2018
-alphacarolinas.com                                                                                   INACTIVE    000        Mon Jan 15 10:04:29 SAST 2018
-amehdaily.com                                                                                        INACTIVE    000        Mon Jan 15 10:04:45 SAST 2018
-amyfoxfitness.com                                                                                    INACTIVE    000        Mon Jan 15 10:04:51 SAST 2018
-anal-acrobats.hol.es                                                                                 INACTIVE    000        Mon Jan 15 10:04:54 SAST 2018
-andpolice.com                                                                                        INACTIVE    000        Mon Jan 15 10:04:57 SAST 2018
-angry-fermi-7633.arukascloud.io                                                                      INACTIVE    000        Mon Jan 15 10:05:11 SAST 2018
-aosexkontakte.net                                                                                    INACTIVE    000        Mon Jan 15 10:05:27 SAST 2018
-apple.com-webbrowsing-security.review                                                                INACTIVE    000        Mon Jan 15 10:06:06 SAST 2018
-apple.com-webbrowsing-security.science                                                               INACTIVE    000        Mon Jan 15 10:06:07 SAST 2018
-arendovalka.xyz                                                                                      INACTIVE    000        Mon Jan 15 10:06:46 SAST 2018
-arpelsreplica.xyz                                                                                    INACTIVE    000        Mon Jan 15 10:06:54 SAST 2018
-artdestshop.eu                                                                                       INACTIVE    000        Mon Jan 15 10:06:57 SAST 2018
-aruplighting.com                                                                                     INACTIVE    000        Mon Jan 15 10:07:02 SAST 2018
-atley.eu.pn                                                                                          INACTIVE    000        Mon Jan 15 10:07:29 SAST 2018
-aviva-limoux.com                                                                                     INACTIVE    000        Mon Jan 15 10:08:18 SAST 2018
-avtoarenda.by                                                                                        INACTIVE    000        Mon Jan 15 10:08:26 SAST 2018
-axbocz.net                                                                                           INACTIVE    000        Mon Jan 15 10:08:38 SAST 2018
-b2b-lounge.com                                                                                       INACTIVE    000        Mon Jan 15 10:10:24 SAST 2018
-bangla-chat-uk-paralud.ga                                                                            INACTIVE    000        Mon Jan 15 10:10:58 SAST 2018
-battleforupdating.site                                                                               INACTIVE    000        Mon Jan 15 10:11:25 SAST 2018
-beauty-b0x.pl                                                                                        INACTIVE    000        Mon Jan 15 10:11:37 SAST 2018
-begalka.xyz                                                                                          INACTIVE    000        Mon Jan 15 10:11:45 SAST 2018
-belstaffstore.online                                                                                 INACTIVE    000        Mon Jan 15 10:11:49 SAST 2018
-bestofferswalkmydogouteveryday.gq                                                                    INACTIVE    000        Mon Jan 15 10:12:14 SAST 2018
-bezlimitko.xyz                                                                                       INACTIVE    000        Mon Jan 15 10:12:39 SAST 2018
-binomo.kz                                                                                            INACTIVE    000        Mon Jan 15 10:13:05 SAST 2018
-biteg.xyz                                                                                            INACTIVE    000        Mon Jan 15 10:13:19 SAST 2018
-bjgugu.net.ua                                                                                        INACTIVE    000        Mon Jan 15 10:13:32 SAST 2018
-boltalko.xyz                                                                                         INACTIVE    000        Mon Jan 15 10:14:31 SAST 2018
-bookmark4you.com.biz                                                                                 INACTIVE    000        Mon Jan 15 10:14:42 SAST 2018
-bosefux.esy.es                                                                                       INACTIVE    000        Mon Jan 15 10:14:44 SAST 2018
-braindaily.xyz                                                                                       INACTIVE    000        Mon Jan 15 10:14:52 SAST 2018
-brateg.xyz                                                                                           INACTIVE    000        Mon Jan 15 10:15:02 SAST 2018
-budilneg.xyz                                                                                         INACTIVE    000        Mon Jan 15 10:15:32 SAST 2018
-bugof.gq                                                                                             INACTIVE    000        Mon Jan 15 10:15:36 SAST 2018
-buketeg.xyz                                                                                          INACTIVE    000        Mon Jan 15 10:15:38 SAST 2018
-bukleteg.xyz                                                                                         INACTIVE    000        Mon Jan 15 10:15:39 SAST 2018
-bupropion-sr-150-mg.us                                                                               INACTIVE    000        Mon Jan 15 10:15:43 SAST 2018
-buqyxa.rincian.info                                                                                  INACTIVE    000        Mon Jan 15 10:15:44 SAST 2018
-buy-cheap-online.info                                                                                INACTIVE    000        Mon Jan 15 10:15:56 SAST 2018
-bvlgaribracelet.xyz                                                                                  INACTIVE    000        Mon Jan 15 10:16:24 SAST 2018
-bvlgariring.xyz                                                                                      INACTIVE    000        Mon Jan 15 10:16:26 SAST 2018
-bvlgariwallet.xyz                                                                                    INACTIVE    000        Mon Jan 15 10:16:27 SAST 2018
-callmd5map.com                                                                                       INACTIVE    000        Mon Jan 15 10:16:50 SAST 2018
-candlehandmade.com                                                                                   INACTIVE    000        Mon Jan 15 10:17:02 SAST 2018
-cartierbracelet.xyz                                                                                  INACTIVE    000        Mon Jan 15 10:17:31 SAST 2018
-cartierjusteunclou.xyz                                                                               INACTIVE    000        Mon Jan 15 10:17:32 SAST 2018
-cartierlove2u.xyz                                                                                    INACTIVE    000        Mon Jan 15 10:17:35 SAST 2018
-cartierlovebraceletreplica.xyz                                                                       INACTIVE    000        Mon Jan 15 10:17:36 SAST 2018
-cartierlovebracelet.xyz                                                                              INACTIVE    000        Mon Jan 15 10:17:38 SAST 2018
-cartierloveringreplica.xyz                                                                           INACTIVE    000        Mon Jan 15 10:17:39 SAST 2018
-cartierlovestore.xyz                                                                                 INACTIVE    000        Mon Jan 15 10:17:41 SAST 2018
-cartierlove.xyz                                                                                      INACTIVE    000        Mon Jan 15 10:17:43 SAST 2018
-cartierreplica.xyz                                                                                   INACTIVE    000        Mon Jan 15 10:17:47 SAST 2018
-cartierring.xyz                                                                                      INACTIVE    000        Mon Jan 15 10:17:48 SAST 2018
-cartiertrinity.xyz                                                                                   INACTIVE    000        Mon Jan 15 10:17:49 SAST 2018
-cartierwatch.xyz                                                                                     INACTIVE    000        Mon Jan 15 10:17:51 SAST 2018
-cejewelry.xyz                                                                                        INACTIVE    000        Mon Jan 15 10:18:15 SAST 2018
-charmstroy.info                                                                                      INACTIVE    000        Mon Jan 15 10:18:37 SAST 2018
-cheapbarbour.online                                                                                  INACTIVE    000        Mon Jan 15 10:18:48 SAST 2018
-cheapmoncler.xyz                                                                                     INACTIVE    000        Mon Jan 15 10:18:59 SAST 2018
-cheatcode-lita12.rhcloud.com                                                                         INACTIVE    000        Mon Jan 15 10:19:04 SAST 2018
-chiblackhawks-jerseys.com                                                                            INACTIVE    000        Mon Jan 15 10:19:13 SAST 2018
-chocolateslim-original.com                                                                           INACTIVE    000        Mon Jan 15 10:19:20 SAST 2018
-clayvasedesigns.tk                                                                                   INACTIVE    000        Mon Jan 15 10:20:00 SAST 2018
-compliance-alexa.top                                                                                 INACTIVE    000        Mon Jan 15 10:21:53 SAST 2018
-compliance-alexa.xyz                                                                                 INACTIVE    000        Mon Jan 15 10:21:54 SAST 2018
-compliance-alex.top                                                                                  INACTIVE    000        Mon Jan 15 10:21:55 SAST 2018
-compliance-alex.xyz                                                                                  INACTIVE    000        Mon Jan 15 10:21:56 SAST 2018
-compliance-andrew.top                                                                                INACTIVE    000        Mon Jan 15 10:21:57 SAST 2018
-compliance-andrew.xyz                                                                                INACTIVE    000        Mon Jan 15 10:21:58 SAST 2018
-compliance-barak.top                                                                                 INACTIVE    000        Mon Jan 15 10:21:59 SAST 2018
-compliance-brian.top                                                                                 INACTIVE    000        Mon Jan 15 10:22:02 SAST 2018
-compliance-brian.xyz                                                                                 INACTIVE    000        Mon Jan 15 10:22:03 SAST 2018
-compliance-donald.xyz                                                                                INACTIVE    000        Mon Jan 15 10:22:05 SAST 2018
-compliance-don.top                                                                                   INACTIVE    000        Mon Jan 15 10:22:06 SAST 2018
-compliance-don.xyz                                                                                   INACTIVE    000        Mon Jan 15 10:22:07 SAST 2018
-compliance-elena.top                                                                                 INACTIVE    000        Mon Jan 15 10:22:09 SAST 2018
-compliance-elena.xyz                                                                                 INACTIVE    000        Mon Jan 15 10:22:10 SAST 2018
-compliance-fred.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:11 SAST 2018
-compliance-fred.xyz                                                                                  INACTIVE    000        Mon Jan 15 10:22:12 SAST 2018
-compliance-george.top                                                                                INACTIVE    000        Mon Jan 15 10:22:13 SAST 2018
-compliance-irvin.top                                                                                 INACTIVE    000        Mon Jan 15 10:22:16 SAST 2018
-compliance-irvin.xyz                                                                                 INACTIVE    000        Mon Jan 15 10:22:17 SAST 2018
-compliance-ivan.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:18 SAST 2018
-compliance-ivan.xyz                                                                                  INACTIVE    000        Mon Jan 15 10:22:19 SAST 2018
-compliance-jack.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:20 SAST 2018
-compliance-jane.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:21 SAST 2018
-compliance-jessica.top                                                                               INACTIVE    000        Mon Jan 15 10:22:21 SAST 2018
-compliance-jess.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:22 SAST 2018
-compliance-john.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:23 SAST 2018
-compliance-josh.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:23 SAST 2018
-compliance-julianna.top                                                                              INACTIVE    000        Mon Jan 15 10:22:24 SAST 2018
-compliance-julia.top                                                                                 INACTIVE    000        Mon Jan 15 10:22:25 SAST 2018
-compliance-margo.top                                                                                 INACTIVE    000        Mon Jan 15 10:22:25 SAST 2018
-compliance-mark.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:26 SAST 2018
-compliance-mary.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:27 SAST 2018
-compliance-nelson.top                                                                                INACTIVE    000        Mon Jan 15 10:22:28 SAST 2018
-compliance-olga.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:28 SAST 2018
-compliance-viktor.top                                                                                INACTIVE    000        Mon Jan 15 10:22:29 SAST 2018
-compliance-walter.top                                                                                INACTIVE    000        Mon Jan 15 10:22:29 SAST 2018
-compliance-walt.top                                                                                  INACTIVE    000        Mon Jan 15 10:22:30 SAST 2018
-compliance-willy.top                                                                                 INACTIVE    000        Mon Jan 15 10:22:31 SAST 2018
-conocer-sanabria.com                                                                                 INACTIVE    000        Mon Jan 15 10:22:42 SAST 2018
-converse.ddsoldes.fr                                                                                 INACTIVE    000        Mon Jan 15 10:22:50 SAST 2018
-cookie-law-enforcement-aa.xyz                                                                        INACTIVE    000        Mon Jan 15 10:22:52 SAST 2018
-cookie-law-enforcement-ee.xyz                                                                        INACTIVE    000        Mon Jan 15 10:22:53 SAST 2018
-cookie-law-enforcement-ff.xyz                                                                        INACTIVE    000        Mon Jan 15 10:22:55 SAST 2018
-cookie-law-enforcement-hh.xyz                                                                        INACTIVE    000        Mon Jan 15 10:22:56 SAST 2018
-cosmeticswomens-womensports.rhcloud.com                                                              INACTIVE    000        Mon Jan 15 10:23:16 SAST 2018
-cscwtalkto.site                                                                                      INACTIVE    000        Mon Jan 15 10:23:58 SAST 2018
-customchocolate.business-for-home.com                                                                INACTIVE    000        Mon Jan 15 10:24:10 SAST 2018
-dandiyabeats.in                                                                                      INACTIVE    000        Mon Jan 15 10:24:41 SAST 2018
-decoratinghomes.ga                                                                                   INACTIVE    000        Mon Jan 15 10:25:13 SAST 2018
-dichvuvesinhhanoi.com                                                                                INACTIVE    000        Mon Jan 15 10:25:58 SAST 2018
-dikqlyremy.info                                                                                      INACTIVE    000        Mon Jan 15 10:26:11 SAST 2018
-dogclothing.store                                                                                    INACTIVE    000        Mon Jan 15 10:26:52 SAST 2018
-dogsrun.net                                                                                          INACTIVE    000        Mon Jan 15 10:26:53 SAST 2018
-dostavimvdom.ru                                                                                      INACTIVE    000        Mon Jan 15 10:27:28 SAST 2018
-e-buyeasy.com                                                                                        INACTIVE    000        Mon Jan 15 10:28:37 SAST 2018
-elmifarhangi.com                                                                                     INACTIVE    000        Mon Jan 15 10:29:51 SAST 2018
-erectile.bid                                                                                         INACTIVE    000        Mon Jan 15 10:30:33 SAST 2018
-exchangeit.gq                                                                                        INACTIVE    000        Mon Jan 15 10:32:35 SAST 2018
-exhibitionplus.eu                                                                                    INACTIVE    000        Mon Jan 15 10:32:39 SAST 2018
-eywords-monitoring-your-success.com                                                                  INACTIVE    000        Mon Jan 15 10:33:03 SAST 2018
-fakehandbags.xyz                                                                                     INACTIVE    000        Mon Jan 15 10:33:31 SAST 2018
-fandlr.com                                                                                           INACTIVE    000        Mon Jan 15 10:33:40 SAST 2018
-ff30236ddef1465f88547e760973d70a.com                                                                 INACTIVE    000        Mon Jan 15 10:34:27 SAST 2018
-fickenbumsen.net                                                                                     INACTIVE    000        Mon Jan 15 10:34:27 SAST 2018
-financehint.eu                                                                                       INACTIVE    000        Mon Jan 15 10:34:46 SAST 2018
-financepoints.eu                                                                                     INACTIVE    000        Mon Jan 15 10:34:47 SAST 2018
-financetip.eu                                                                                        INACTIVE    000        Mon Jan 15 10:34:48 SAST 2018
-free-floating-buttons.com                                                                            INACTIVE    000        Mon Jan 15 10:36:23 SAST 2018
-free-laptop-reward.com                                                                               INACTIVE    000        Mon Jan 15 10:36:28 SAST 2018
-free-social-buttons.com                                                                              INACTIVE    000        Mon Jan 15 10:36:37 SAST 2018
-free-social-buttons.xyz                                                                              INACTIVE    000        Mon Jan 15 10:36:38 SAST 2018
-free-traffic.xyz                                                                                     INACTIVE    000        Mon Jan 15 10:36:41 SAST 2018
-frvo.alptandem.ru                                                                                    INACTIVE    000        Mon Jan 15 10:36:59 SAST 2018
-fuck-paid-share-buttons.xyz                                                                          INACTIVE    000        Mon Jan 15 10:37:07 SAST 2018
-fyxabomiw.ru                                                                                         INACTIVE    000        Mon Jan 15 10:37:28 SAST 2018
-getaclueamerica.com                                                                                  INACTIVE    000        Mon Jan 15 10:38:36 SAST 2018
-get-seo-domain.com                                                                                   INACTIVE    000        Mon Jan 15 10:38:46 SAST 2018
-gettpromos.com                                                                                       INACTIVE    000        Mon Jan 15 10:38:46 SAST 2018
-glastecfilms.com.my                                                                                  INACTIVE    000        Mon Jan 15 10:39:15 SAST 2018
-gok-kasten.net                                                                                       INACTIVE    000        Mon Jan 15 10:39:40 SAST 2018
-golden-catalog.pro                                                                                   INACTIVE    000        Mon Jan 15 10:39:45 SAST 2018
-gopro-online.info                                                                                    INACTIVE    000        Mon Jan 15 10:40:04 SAST 2018
-gsmtlf.ru                                                                                            INACTIVE    000        Mon Jan 15 10:40:58 SAST 2018
-g.starmoe.xyz                                                                                        INACTIVE    000        Mon Jan 15 10:41:00 SAST 2018
-gstatey.net                                                                                          INACTIVE    000        Mon Jan 15 10:41:00 SAST 2018
-gwebtools.com.br                                                                                     INACTIVE    000        Mon Jan 15 10:41:15 SAST 2018
-haveinc.xyz                                                                                          INACTIVE    000        Mon Jan 15 10:41:41 SAST 2018
-hchha.com                                                                                            INACTIVE    000        Mon Jan 15 10:41:47 SAST 2018
-herehloadibs.cf                                                                                      INACTIVE    000        Mon Jan 15 10:43:30 SAST 2018
-hermesbelts.xyz                                                                                      INACTIVE    000        Mon Jan 15 10:43:31 SAST 2018
-hermesbracelets.xyz                                                                                  INACTIVE    000        Mon Jan 15 10:43:34 SAST 2018
-homegardenlova.com                                                                                   INACTIVE    000        Mon Jan 15 10:44:08 SAST 2018
-hotsocialz.com                                                                                       INACTIVE    000        Mon Jan 15 10:44:46 SAST 2018
-hoverboard360.at                                                                                     INACTIVE    000        Mon Jan 15 10:44:54 SAST 2018
-hoverboard360.es                                                                                     INACTIVE    000        Mon Jan 15 10:44:56 SAST 2018
-hoverboard360.nl                                                                                     INACTIVE    000        Mon Jan 15 10:44:58 SAST 2018
-huimin764128.com                                                                                     INACTIVE    000        Mon Jan 15 10:45:10 SAST 2018
-humanorightswatch.org                                                                                INACTIVE    000        Mon Jan 15 10:45:12 SAST 2018
-hyhj.info                                                                                            INACTIVE    000        Mon Jan 15 10:45:22 SAST 2018
-iinstalll-fii1leis.jus0wil.pp.ua                                                                     INACTIVE    000        Mon Jan 15 10:45:56 SAST 2018
-ikearugs.xyz                                                                                         INACTIVE    000        Mon Jan 15 10:45:58 SAST 2018
-ilovevitaly.xyz                                                                                      INACTIVE    000        Mon Jan 15 10:46:08 SAST 2018
-inbabes.sexushost.com                                                                                INACTIVE    000        Mon Jan 15 10:46:36 SAST 2018
-increasewwwtraffic.info                                                                              INACTIVE    000        Mon Jan 15 10:46:38 SAST 2018
-infospot.pt                                                                                          INACTIVE    000        Mon Jan 15 10:46:52 SAST 2018
-internetproviderstucson.com                                                                          INACTIVE    000        Mon Jan 15 10:47:12 SAST 2018
-iwantmyfreecash.com                                                                                  INACTIVE    000        Mon Jan 15 10:48:12 SAST 2018
-jerseychinabizwholesale.com                                                                          INACTIVE    000        Mon Jan 15 10:48:41 SAST 2018
-jerseywholesalebizchina.com                                                                          INACTIVE    000        Mon Jan 15 10:48:44 SAST 2018
-jewelryandfiligree.com                                                                               INACTIVE    000        Mon Jan 15 10:48:48 SAST 2018
-jus0wil.pp.ua                                                                                        INACTIVE    000        Mon Jan 15 10:49:14 SAST 2018
-justprofit.xyz                                                                                       INACTIVE    000        Mon Jan 15 10:49:18 SAST 2018
-justucalling32211123456789.tk                                                                        INACTIVE    000        Mon Jan 15 10:49:19 SAST 2018
-kenaba.su                                                                                            INACTIVE    000        Mon Jan 15 10:50:02 SAST 2018
-kinomaniatv.pl                                                                                       INACTIVE    000        Mon Jan 15 10:50:35 SAST 2018
-kmgamex.cf                                                                                           INACTIVE    000        Mon Jan 15 10:50:59 SAST 2018
-labafydjxa.su                                                                                        INACTIVE    000        Mon Jan 15 10:52:16 SAST 2018
-law-check-eight.xyz                                                                                  INACTIVE    000        Mon Jan 15 10:52:56 SAST 2018
-law-check-nine.xyz                                                                                   INACTIVE    000        Mon Jan 15 10:52:58 SAST 2018
-law-check-seven.xyz                                                                                  INACTIVE    000        Mon Jan 15 10:52:59 SAST 2018
-law-check-two.xyz                                                                                    INACTIVE    000        Mon Jan 15 10:53:01 SAST 2018
-lida-ru.com                                                                                          INACTIVE    000        Mon Jan 15 10:55:12 SAST 2018
-liran-locks.com                                                                                      INACTIVE    000        Mon Jan 15 10:55:46 SAST 2018
-loftdigital.eu                                                                                       INACTIVE    000        Mon Jan 15 10:56:24 SAST 2018
-longgreen.info                                                                                       INACTIVE    000        Mon Jan 15 10:56:36 SAST 2018
-louboutinbooties.xyz                                                                                 INACTIVE    000        Mon Jan 15 10:56:44 SAST 2018
-louboutinreplica.xyz                                                                                 INACTIVE    000        Mon Jan 15 10:56:46 SAST 2018
-louboutinshoes.xyz                                                                                   INACTIVE    000        Mon Jan 15 10:56:48 SAST 2018
-mackeeper-center.club                                                                                INACTIVE    000        Mon Jan 15 10:57:20 SAST 2018
-magicdiet.gq                                                                                         INACTIVE    000        Mon Jan 15 10:57:35 SAST 2018
-maranbrinfo.com.br                                                                                   INACTIVE    000        Mon Jan 15 10:58:00 SAST 2018
-marcogrup.com                                                                                        INACTIVE    000        Mon Jan 15 10:58:03 SAST 2018
-medicines-choice.com                                                                                 INACTIVE    000        Mon Jan 15 10:59:07 SAST 2018
-mensandals.xyz                                                                                       INACTIVE    000        Mon Jan 15 10:59:44 SAST 2018
-mezaruk.info                                                                                         INACTIVE    000        Mon Jan 15 10:59:58 SAST 2018
-m-google.xyz                                                                                         INACTIVE    000        Mon Jan 15 10:59:59 SAST 2018
-mir-business-24.ru                                                                                   INACTIVE    000        Mon Jan 15 11:00:28 SAST 2018
-mlvc4zzw.space                                                                                       INACTIVE    000        Mon Jan 15 11:00:49 SAST 2018
-monclerboots.xyz                                                                                     INACTIVE    000        Mon Jan 15 11:01:34 SAST 2018
-monclercheap.xyz                                                                                     INACTIVE    000        Mon Jan 15 11:01:35 SAST 2018
-monclercoats.xyz                                                                                     INACTIVE    000        Mon Jan 15 11:01:37 SAST 2018
-moncleronline.xyz                                                                                    INACTIVE    000        Mon Jan 15 11:01:40 SAST 2018
-moncleroutletonline.xyz                                                                              INACTIVE    000        Mon Jan 15 11:01:42 SAST 2018
-monclervests.xyz                                                                                     INACTIVE    000        Mon Jan 15 11:01:44 SAST 2018
-musicdaddy.net                                                                                       INACTIVE    000        Mon Jan 15 11:02:56 SAST 2018
-musicspire.online                                                                                    INACTIVE    000        Mon Jan 15 11:02:58 SAST 2018
-my-cash-bot.co                                                                                       INACTIVE    000        Mon Jan 15 11:03:19 SAST 2018
-nbsproject.ru                                                                                        INACTIVE    000        Mon Jan 15 11:04:31 SAST 2018
-net-profits.xyz                                                                                      INACTIVE    000        Mon Jan 15 11:04:45 SAST 2018
-nevansk.ru                                                                                           INACTIVE    000        Mon Jan 15 11:04:51 SAST 2018
-northfacestore.online                                                                                INACTIVE    000        Mon Jan 15 11:06:52 SAST 2018
-norththeface.store                                                                                   INACTIVE    000        Mon Jan 15 11:06:53 SAST 2018
-nottyu.xyz                                                                                           INACTIVE    000        Mon Jan 15 11:07:00 SAST 2018
-osb.se11.ru                                                                                          INACTIVE    000        Mon Jan 15 11:09:34 SAST 2018
-panchro.xyz                                                                                          INACTIVE    000        Mon Jan 15 11:10:08 SAST 2018
-picture-group.com                                                                                    INACTIVE    000        Mon Jan 15 11:11:52 SAST 2018
-pijoto.net                                                                                           INACTIVE    000        Mon Jan 15 11:12:01 SAST 2018
-pochemychka.net                                                                                      INACTIVE    000        Mon Jan 15 11:12:56 SAST 2018
-popander.mobi                                                                                        INACTIVE    000        Mon Jan 15 11:13:20 SAST 2018
-popup-fdm.xyz                                                                                        INACTIVE    000        Mon Jan 15 11:13:28 SAST 2018
-popup-hgd.xyz                                                                                        INACTIVE    000        Mon Jan 15 11:13:30 SAST 2018
-popup-jdh.xyz                                                                                        INACTIVE    000        Mon Jan 15 11:13:31 SAST 2018
-porno-video-chati.ru                                                                                 INACTIVE    000        Mon Jan 15 11:14:03 SAST 2018
-portside.xyz                                                                                         INACTIVE    000        Mon Jan 15 11:14:16 SAST 2018
-preparevideosafesystem4unow.site                                                                     INACTIVE    000        Mon Jan 15 11:14:38 SAST 2018
-profitfx.online                                                                                      INACTIVE    000        Mon Jan 15 11:15:17 SAST 2018
-promgirldresses.xyz                                                                                  INACTIVE    000        Mon Jan 15 11:15:34 SAST 2018
-psoriasis-file.trade                                                                                 INACTIVE    000        Mon Jan 15 11:17:05 SAST 2018
-quit-smoking.ga                                                                                      INACTIVE    000        Mon Jan 15 11:17:43 SAST 2018
-rcpmda.ikan1080.xyz                                                                                  INACTIVE    000        Mon Jan 15 11:18:15 SAST 2018
-redbottomheels.xyz                                                                                   INACTIVE    000        Mon Jan 15 11:18:28 SAST 2018
-replicalouboutin.xyz                                                                                 INACTIVE    000        Mon Jan 15 11:19:20 SAST 2018
-rootandroid.org                                                                                      INACTIVE    000        Mon Jan 15 11:20:05 SAST 2018
-safe-app.net                                                                                         INACTIVE    000        Mon Jan 15 11:20:59 SAST 2018
-santasgift.ml                                                                                        INACTIVE    000        Mon Jan 15 11:21:21 SAST 2018
-saveindex.xyz                                                                                        INACTIVE    000        Mon Jan 15 11:21:35 SAST 2018
-scanner-alexa.top                                                                                    INACTIVE    000        Mon Jan 15 11:21:55 SAST 2018
-scanner-alex.top                                                                                     INACTIVE    000        Mon Jan 15 11:21:55 SAST 2018
-scanner-andrew.top                                                                                   INACTIVE    000        Mon Jan 15 11:21:56 SAST 2018
-scanner-barak.top                                                                                    INACTIVE    000        Mon Jan 15 11:21:57 SAST 2018
-scanner-brian.top                                                                                    INACTIVE    000        Mon Jan 15 11:21:58 SAST 2018
-scanner-donald.top                                                                                   INACTIVE    000        Mon Jan 15 11:21:58 SAST 2018
-scanner-don.top                                                                                      INACTIVE    000        Mon Jan 15 11:21:59 SAST 2018
-scanner-elena.top                                                                                    INACTIVE    000        Mon Jan 15 11:21:59 SAST 2018
-scanner-fred.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:00 SAST 2018
-scanner-george.top                                                                                   INACTIVE    000        Mon Jan 15 11:22:01 SAST 2018
-scanner-irvin.top                                                                                    INACTIVE    000        Mon Jan 15 11:22:01 SAST 2018
-scanner-ivan.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:02 SAST 2018
-scanner-jack.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:03 SAST 2018
-scanner-jane.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:03 SAST 2018
-scanner-jessica.top                                                                                  INACTIVE    000        Mon Jan 15 11:22:04 SAST 2018
-scanner-jess.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:05 SAST 2018
-scanner-john.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:05 SAST 2018
-scanner-josh.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:06 SAST 2018
-scanner-julianna.top                                                                                 INACTIVE    000        Mon Jan 15 11:22:07 SAST 2018
-scanner-julia.top                                                                                    INACTIVE    000        Mon Jan 15 11:22:07 SAST 2018
-scanner-margo.top                                                                                    INACTIVE    000        Mon Jan 15 11:22:08 SAST 2018
-scanner-mark.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:09 SAST 2018
-scanner-marwin.top                                                                                   INACTIVE    000        Mon Jan 15 11:22:10 SAST 2018
-scanner-mary.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:10 SAST 2018
-scanner-nelson.top                                                                                   INACTIVE    000        Mon Jan 15 11:22:11 SAST 2018
-scanner-olga.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:11 SAST 2018
-scanner-viktor.top                                                                                   INACTIVE    000        Mon Jan 15 11:22:12 SAST 2018
-scanner-walter.top                                                                                   INACTIVE    000        Mon Jan 15 11:22:13 SAST 2018
-scanner-walt.top                                                                                     INACTIVE    000        Mon Jan 15 11:22:14 SAST 2018
-scanner-willy.top                                                                                    INACTIVE    000        Mon Jan 15 11:22:14 SAST 2018
-searchimage.co                                                                                       INACTIVE    000        Mon Jan 15 11:22:39 SAST 2018
-secret.xn--oogle-wmc.com                                                                             INACTIVE    000        Mon Jan 15 11:22:48 SAST 2018
-sex-dating.co                                                                                        INACTIVE    000        Mon Jan 15 11:23:46 SAST 2018
-sexyteens.hol.es                                                                                     INACTIVE    000        Mon Jan 15 11:24:11 SAST 2018
-shell-pmr.ru                                                                                         INACTIVE    000        Mon Jan 15 11:24:22 SAST 2018
-shoesonlinebuy.xyz                                                                                   INACTIVE    000        Mon Jan 15 11:24:39 SAST 2018
-signal03.ru                                                                                          INACTIVE    000        Mon Jan 15 11:25:07 SAST 2018
-simple-share-buttons.com                                                                             INACTIVE    000        Mon Jan 15 11:25:17 SAST 2018
-site-speed-checker.site                                                                              INACTIVE    000        Mon Jan 15 11:25:37 SAST 2018
-site-speed-check.site                                                                                INACTIVE    000        Mon Jan 15 11:25:38 SAST 2018
-sitevaluation.org                                                                                    INACTIVE    000        Mon Jan 15 11:25:39 SAST 2018
-sizeplus.work                                                                                        INACTIVE    000        Mon Jan 15 11:25:47 SAST 2018
-snip.to                                                                                              INACTIVE    000        Mon Jan 15 11:26:33 SAST 2018
-snts.shell-pmr.ru                                                                                    INACTIVE    000        Mon Jan 15 11:26:40 SAST 2018
-social-buttons.xyz                                                                                   INACTIVE    000        Mon Jan 15 11:26:49 SAST 2018
-social-button.xyz                                                                                    INACTIVE    000        Mon Jan 15 11:26:53 SAST 2018
-social-s-ggg.xyz                                                                                     INACTIVE    000        Mon Jan 15 11:27:01 SAST 2018
-social-s-hhh.xyz                                                                                     INACTIVE    000        Mon Jan 15 11:27:02 SAST 2018
-social-s-iii.xyz                                                                                     INACTIVE    000        Mon Jan 15 11:27:04 SAST 2018
-socialtrade.biz                                                                                      INACTIVE    000        Mon Jan 15 11:28:53 SAST 2018
-sohoindia.net                                                                                        INACTIVE    000        Mon Jan 15 11:29:11 SAST 2018
-spasswelt.xyz                                                                                        INACTIVE    000        Mon Jan 15 11:29:39 SAST 2018
-speedup-my.site                                                                                      INACTIVE    000        Mon Jan 15 11:29:47 SAST 2018
-strag-invest.ru                                                                                      INACTIVE    000        Mon Jan 15 11:30:59 SAST 2018
-swinginwithme.ru                                                                                     INACTIVE    000        Mon Jan 15 11:32:21 SAST 2018
-tech4master.com                                                                                      INACTIVE    000        Mon Jan 15 11:33:09 SAST 2018
-tengohydar.tk                                                                                        INACTIVE    000        Mon Jan 15 11:33:36 SAST 2018
-thin.me.pn                                                                                           INACTIVE    000        Mon Jan 15 11:34:15 SAST 2018
-titelhelden.eu                                                                                       INACTIVE    000        Mon Jan 15 11:34:32 SAST 2018
-traffic2cash.org                                                                                     INACTIVE    000        Mon Jan 15 11:36:18 SAST 2018
-traffic2money.com                                                                                    INACTIVE    000        Mon Jan 15 11:36:19 SAST 2018
-trafficmonetize.org                                                                                  INACTIVE    000        Mon Jan 15 11:36:23 SAST 2018
-trichizobswiv.agddns.net                                                                             INACTIVE    000        Mon Jan 15 11:36:42 SAST 2018
-tula.howotorg.ru                                                                                     INACTIVE    000        Mon Jan 15 11:37:07 SAST 2018
-turizm.bz                                                                                            INACTIVE    000        Mon Jan 15 11:37:15 SAST 2018
-twelvevisionspartyofcolorado.com                                                                     INACTIVE    000        Mon Jan 15 11:37:27 SAST 2018
-tzritel.tk                                                                                           INACTIVE    000        Mon Jan 15 11:37:38 SAST 2018
-u17795.netangels.ru                                                                                  INACTIVE    000        Mon Jan 15 11:37:39 SAST 2018
-uggsale.online                                                                                       INACTIVE    000        Mon Jan 15 11:38:02 SAST 2018
-varikozdok.ru                                                                                        INACTIVE    000        Mon Jan 15 11:40:41 SAST 2018
-videositename.com                                                                                    INACTIVE    000        Mon Jan 15 11:41:39 SAST 2018
-videtubs.pl                                                                                          INACTIVE    000        Mon Jan 15 11:41:42 SAST 2018
-vkontaktemusic.ru                                                                                    INACTIVE    000        Mon Jan 15 11:42:29 SAST 2018
-voluumtracker1.com                                                                                   INACTIVE    000        Mon Jan 15 11:42:47 SAST 2018
-vysigy.su                                                                                            INACTIVE    000        Mon Jan 15 11:43:14 SAST 2018
-webmonetizer.net                                                                                     INACTIVE    000        Mon Jan 15 11:44:03 SAST 2018
-website-speed-checker.site                                                                           INACTIVE    000        Mon Jan 15 11:44:14 SAST 2018
-website-speed-check.site                                                                             INACTIVE    000        Mon Jan 15 11:44:15 SAST 2018
-website-speed-up.site                                                                                INACTIVE    000        Mon Jan 15 11:44:17 SAST 2018
-website-speed-up.top                                                                                 INACTIVE    000        Mon Jan 15 11:44:18 SAST 2018
-weddingdresses.xyz                                                                                   INACTIVE    000        Mon Jan 15 11:44:28 SAST 2018
-weightatraining.com                                                                                  INACTIVE    000        Mon Jan 15 11:44:31 SAST 2018
-wesharepics.site                                                                                     INACTIVE    000        Mon Jan 15 11:44:42 SAST 2018
-williamrobsonproperty.com                                                                            INACTIVE    000        Mon Jan 15 11:45:19 SAST 2018
-wjgony.com                                                                                           INACTIVE    000        Mon Jan 15 11:45:36 SAST 2018
-wnhjavlhezp.gq                                                                                       INACTIVE    000        Mon Jan 15 11:45:41 SAST 2018
-word-vorlagen.xyz                                                                                    INACTIVE    000        Mon Jan 15 11:45:58 SAST 2018
-xchangetrak.com                                                                                      INACTIVE    000        Mon Jan 15 11:46:46 SAST 2018
-xitjw.info                                                                                           INACTIVE    000        Mon Jan 15 11:47:01 SAST 2018
-xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        INACTIVE    000        Mon Jan 15 11:47:10 SAST 2018
-xn----7sbaphztdjeboffeiof6c.xn--p1ai                                                                 INACTIVE    000        Mon Jan 15 11:47:22 SAST 2018
-xn--80aaajbdbddwj2alwjieei2afr3v.xn--p1ai                                                            INACTIVE    000        Mon Jan 15 11:47:31 SAST 2018
-xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai                                                              INACTIVE    000        Mon Jan 15 11:47:49 SAST 2018
-xn----9sbebi2bvzr7h.xn--p1ai                                                                         INACTIVE    000        Mon Jan 15 11:47:58 SAST 2018
-xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    INACTIVE    000        Mon Jan 15 11:48:16 SAST 2018
-youraticles.pl                                                                                       INACTIVE    000        Mon Jan 15 11:49:32 SAST 2018
-yourserverisdown.com                                                                                 INACTIVE    000        Mon Jan 15 11:49:39 SAST 2018
-zapiszto.pl                                                                                          INACTIVE    000        Mon Jan 15 11:51:33 SAST 2018
-zarajbuilders.com                                                                                    INACTIVE    000        Mon Jan 15 11:51:37 SAST 2018
-zatjmuzu.info                                                                                        INACTIVE    000        Mon Jan 15 11:51:42 SAST 2018
-zawyna.ua                                                                                            INACTIVE    000        Mon Jan 15 11:51:43 SAST 2018
-zixizop.net.ru                                                                                       INACTIVE    000        Mon Jan 15 11:52:16 SAST 2018
-zocaparj.kz                                                                                          INACTIVE    000        Mon Jan 15 11:52:29 SAST 2018
-zynax.ua                                                                                             INACTIVE    000        Mon Jan 15 11:52:58 SAST 2018
+1j7740kd.website                                                                                                 000        Sat Jan 27 13:13:28 SAST 2018
+1millionusd.xyz                                                                                                  000        Sat Jan 27 13:13:32 SAST 2018
+214jaluwobapef.cf                                                                                                000        Sat Jan 27 13:13:44 SAST 2018
+24x7-server-support.site                                                                                         000        Sat Jan 27 13:13:51 SAST 2018
+3-letter-domains.net                                                                                             000        Sat Jan 27 13:14:09 SAST 2018
+66cpwgln.space                                                                                                   000        Sat Jan 27 13:14:42 SAST 2018
+6hopping.com                                                                                                     000        Sat Jan 27 13:14:42 SAST 2018
+8kisses.eu                                                                                                       000        Sat Jan 27 13:14:59 SAST 2018
+8lufu.com                                                                                                        000        Sat Jan 27 13:14:59 SAST 2018
+9icmzvn6.website                                                                                                 000        Sat Jan 27 13:15:09 SAST 2018
+aa8780bb28a1de4eb5bff33c28a218a930.com                                                                           000        Sat Jan 27 13:15:18 SAST 2018
+aa8b68101d388c446389283820863176e7.com                                                                           000        Sat Jan 27 13:15:19 SAST 2018
+aaa38852e886ac4af1a3cff9b47cab6272.com                                                                           000        Sat Jan 27 13:15:22 SAST 2018
+abcdefh.xyz                                                                                                      000        Sat Jan 27 13:15:31 SAST 2018
+abcdeg.xyz                                                                                                       000        Sat Jan 27 13:15:33 SAST 2018
+acgs.tk                                                                                                          000        Sat Jan 27 13:15:49 SAST 2018
+adultfullhd.com                                                                                                  000        Sat Jan 27 13:16:37 SAST 2018
+adultwebhosting.info                                                                                             000        Sat Jan 27 13:16:42 SAST 2018
+advocatemsk.ru                                                                                                   000        Sat Jan 27 13:16:48 SAST 2018
+advokateg.xyz                                                                                                    000        Sat Jan 27 13:16:51 SAST 2018
+affordablewebsitesandmobileapps.com                                                                              000        Sat Jan 27 13:16:58 SAST 2018
+alert-fdm.xyz                                                                                                    000        Sat Jan 27 13:17:36 SAST 2018
+alert-fjg.xyz                                                                                                    000        Sat Jan 27 13:17:37 SAST 2018
+alert-hgd.xyz                                                                                                    000        Sat Jan 27 13:17:38 SAST 2018
+alert-jdh.xyz                                                                                                    000        Sat Jan 27 13:17:40 SAST 2018
+alfabot.xyz                                                                                                      000        Sat Jan 27 13:17:45 SAST 2018
+alphacarolinas.com                                                                                               000        Sat Jan 27 13:18:32 SAST 2018
+amehdaily.com                                                                                                    000        Sat Jan 27 13:18:49 SAST 2018
+am-se.com                                                                                                        000        Sat Jan 27 13:18:54 SAST 2018
+amyfoxfitness.com                                                                                                000        Sat Jan 27 13:18:56 SAST 2018
+anal-acrobats.hol.es                                                                                             000        Sat Jan 27 13:18:59 SAST 2018
+analytics-ads.xyz                                                                                                000        Sat Jan 27 13:19:01 SAST 2018
+andpolice.com                                                                                                    000        Sat Jan 27 13:19:02 SAST 2018
+angry-fermi-7633.arukascloud.io                                                                                  000        Sat Jan 27 13:19:10 SAST 2018
+aosexkontakte.net                                                                                                000        Sat Jan 27 13:19:26 SAST 2018
+apple.com-webbrowsing-security.review                                                                            000        Sat Jan 27 13:20:01 SAST 2018
+apple.com-webbrowsing-security.science                                                                           000        Sat Jan 27 13:20:01 SAST 2018
+arendovalka.xyz                                                                                                  000        Sat Jan 27 13:20:40 SAST 2018
+arpelsreplica.xyz                                                                                                000        Sat Jan 27 13:20:47 SAST 2018
+artdestshop.eu                                                                                                   000        Sat Jan 27 13:20:50 SAST 2018
+aruplighting.com                                                                                                 000        Sat Jan 27 13:20:56 SAST 2018
+atley.eu.pn                                                                                                      000        Sat Jan 27 13:21:24 SAST 2018
+aviva-limoux.com                                                                                                 000        Sat Jan 27 13:22:15 SAST 2018
+avtoarenda.by                                                                                                    000        Sat Jan 27 13:22:25 SAST 2018
+axbocz.net                                                                                                       000        Sat Jan 27 13:22:37 SAST 2018
