@@ -100,3 +100,9 @@ jikoman.info                                                                    
 journeydownthescale.info                                                                             ACTIVE      404        Mon Jan 29 13:35:31 SAST 2018
 kidd.reunionwatch.com                                                                                ACTIVE      404        Mon Jan 29 13:38:44 SAST 2018
 kinoflux.net                                                                                         ACTIVE      404        Mon Jan 29 13:39:18 SAST 2018
+klejonka.info                                                                                        ACTIVE      404        Mon Jan 29 13:41:15 SAST 2018
+kndxbkdx.bloger.index.hr                                                                             ACTIVE      404        Mon Jan 29 13:41:39 SAST 2018
+kongruan.com                                                                                         ACTIVE      400        Mon Jan 29 13:42:25 SAST 2018
+lacasamorett.com                                                                                     ACTIVE      404        Mon Jan 29 13:45:09 SAST 2018
+larose.jb2c.me                                                                                       ACTIVE      404        Mon Jan 29 13:46:16 SAST 2018
+le-clos-des-alouettes.com                                                                            ACTIVE      404        Mon Jan 29 13:47:15 SAST 2018
