@@ -10,3 +10,6 @@ Domain                                                                          
 5000-cotydzien.com                                                                                   ACTIVE      404        Mon Jan 29 11:15:51 SAST 2018
 5tey7463.weebly.com                                                                                  ACTIVE      404        Mon Jan 29 11:16:43 SAST 2018
 91abcw.com                                                                                           ACTIVE      404        Mon Jan 29 11:19:01 SAST 2018
+adclickservice.com                                                                                   ACTIVE      404        Mon Jan 29 11:23:37 SAST 2018
+adhome.biz                                                                                           ACTIVE      404        Mon Jan 29 11:24:03 SAST 2018
+adserver-e7.com                                                                                      ACTIVE      404        Mon Jan 29 11:24:55 SAST 2018
