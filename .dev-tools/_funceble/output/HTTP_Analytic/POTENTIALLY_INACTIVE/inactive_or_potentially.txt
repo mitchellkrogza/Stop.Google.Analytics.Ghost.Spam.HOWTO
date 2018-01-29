@@ -49,3 +49,15 @@ delta-line.men                                                                  
 deniven.1bb.ru                                                                                       ACTIVE      404        Mon Jan 29 12:27:42 SAST 2018
 detsky-nabytek.info                                                                                  ACTIVE      404        Mon Jan 29 12:28:26 SAST 2018
 dev33.dioniqlabb.se                                                                                  ACTIVE      404        Mon Jan 29 12:28:35 SAST 2018
+dinkolove.ya.ru                                                                                      ACTIVE      404        Mon Jan 29 12:30:59 SAST 2018
+e-biznes.info                                                                                        ACTIVE      404        Mon Jan 29 12:36:33 SAST 2018
+econom.co                                                                                            ACTIVE      404        Mon Jan 29 12:36:52 SAST 2018
+elektrischezigarette1.onsugar.com                                                                    ACTIVE      410        Mon Jan 29 12:38:33 SAST 2018
+elektrischezigarette2.devhub.com                                                                     ACTIVE      404        Mon Jan 29 12:38:36 SAST 2018
+elektrischezigarette2.onsugar.com                                                                    ACTIVE      410        Mon Jan 29 12:38:38 SAST 2018
+elektroniksigaraankara.info                                                                          ACTIVE      404        Mon Jan 29 12:38:48 SAST 2018
+elektronischezigarette2.mex.tl                                                                       ACTIVE      404        Mon Jan 29 12:38:51 SAST 2018
+elektrozigarette2.webs.com                                                                           ACTIVE      410        Mon Jan 29 12:39:06 SAST 2018
+elektrozigarettekaufen1.devhub.com                                                                   ACTIVE      404        Mon Jan 29 12:39:11 SAST 2018
+elektrozigaretten1.webs.com                                                                          ACTIVE      410        Mon Jan 29 12:39:21 SAST 2018
+elidelcream.weebly.com                                                                               ACTIVE      404        Mon Jan 29 12:39:28 SAST 2018
