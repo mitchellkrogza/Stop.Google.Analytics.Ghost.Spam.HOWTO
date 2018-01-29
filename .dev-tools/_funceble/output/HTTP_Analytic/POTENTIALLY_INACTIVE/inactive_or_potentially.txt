@@ -71,3 +71,8 @@ ezigaretteshop.webs.com                                                         
 f5mtrack.com                                                                                         ACTIVE      400        Mon Jan 29 12:47:39 SAST 2018
 filefilter.weebly.com                                                                                ACTIVE      404        Mon Jan 29 12:50:44 SAST 2018
 filerockstar298.weebly.com                                                                           ACTIVE      404        Mon Jan 29 12:50:46 SAST 2018
+focalink.com                                                                                         ACTIVE      404        Mon Jan 29 12:56:29 SAST 2018
+franecki.net                                                                                         ACTIVE      404        Mon Jan 29 12:58:38 SAST 2018
+fusoradio.info                                                                                       ACTIVE      404        Mon Jan 29 13:01:46 SAST 2018
+galaxys6manual.info                                                                                  ACTIVE      404        Mon Jan 29 13:02:31 SAST 2018
+gamevalue7.weebly.com                                                                                ACTIVE      404        Mon Jan 29 13:03:27 SAST 2018
