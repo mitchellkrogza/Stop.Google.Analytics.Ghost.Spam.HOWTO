@@ -244,3 +244,17 @@ truck-addzilla.life                                                             
 truck-land.life                                                                                      ACTIVE      404        Fri Feb 16 12:33:06 SAST 2018
 truck-rece.life                                                                                      ACTIVE      404        Fri Feb 16 12:33:09 SAST 2018
 ttsq.fr                                                                                              ACTIVE      403        Fri Feb 16 12:33:42 SAST 2018
+turn-up-life.life                                                                                    ACTIVE      404        Fri Feb 16 12:36:41 SAST 2018
+ugogo.info                                                                                           ACTIVE      404        Fri Feb 16 12:38:19 SAST 2018
+umekana.ru                                                                                           ACTIVE      403        Fri Feb 16 12:38:46 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Fri Feb 16 12:39:22 SAST 2018
+urccvfmc.bloger.index.hr                                                                             ACTIVE      404        Fri Feb 16 12:39:54 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Fri Feb 16 12:40:07 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Fri Feb 16 12:40:11 SAST 2018
+vacances-voyages.info                                                                                ACTIVE      404        Fri Feb 16 12:40:57 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Fri Feb 16 12:41:06 SAST 2018
+vapeface.club                                                                                        ACTIVE      404        Fri Feb 16 12:41:26 SAST 2018
+verymes.xyz                                                                                          ACTIVE      403        Fri Feb 16 12:42:29 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Fri Feb 16 12:42:50 SAST 2018
+vintontech.info                                                                                      ACTIVE      404        Fri Feb 16 12:44:17 SAST 2018
+vksaver-all.ru                                                                                       ACTIVE      403        Fri Feb 16 12:45:37 SAST 2018
