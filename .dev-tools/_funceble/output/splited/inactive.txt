@@ -124,3 +124,20 @@ xitjw.info                                                                      
 xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:56:49 SAST 2018
 xn----7sbaphztdjeboffeiof6c.xn--p1ai                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:57:28 SAST 2018
 xn--80aaajbdbddwj2alwjieei2afr3v.xn--p1ai                                                            Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:57:58 SAST 2018
+xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:00:12 SAST 2018
+xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:00:34 SAST 2018
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:01:20 SAST 2018
+xn----itbkqkfiq.xn--p1ai                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:01:23 SAST 2018
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:03:59 SAST 2018
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:04:13 SAST 2018
+youtubedownload.org                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:04:25 SAST 2018
+zapiszto.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:05:40 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:05:50 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:06:01 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:06:04 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Fri Feb 16 13:06:52 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:07:10 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Fri Feb 16 13:07:23 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:07:39 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:08:38 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 13:08:43 SAST 2018
