@@ -72,3 +72,14 @@ site-speed-check.site                                                           
 sitevaluation.org                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:10:46 SAST 2018
 sizeplus.work                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:11:02 SAST 2018
 slayerlife.com                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:11:46 SAST 2018
+snip.to                                                                                              Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:14:14 SAST 2018
+snts.shell-pmr.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:14:32 SAST 2018
+social-buttons.xyz                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:14:57 SAST 2018
+social-button.xyz                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:15:06 SAST 2018
+social-s-ggg.xyz                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:15:25 SAST 2018
+social-s-hhh.xyz                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:15:28 SAST 2018
+social-s-iii.xyz                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:15:32 SAST 2018
+sohoindia.net                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:16:11 SAST 2018
+speedup-my.site                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:17:28 SAST 2018
+startwp.org                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:18:51 SAST 2018
+strag-invest.ru                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Feb 16 12:19:49 SAST 2018

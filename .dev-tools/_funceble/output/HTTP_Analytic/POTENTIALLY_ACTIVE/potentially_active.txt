@@ -1799,3 +1799,14 @@ site-speed-check.site                                                           
 sitevaluation.org                                                                                                000        Fri Feb 16 12:10:46 SAST 2018
 sizeplus.work                                                                                                    000        Fri Feb 16 12:11:02 SAST 2018
 slayerlife.com                                                                                                   000        Fri Feb 16 12:11:45 SAST 2018
+snip.to                                                                                                          000        Fri Feb 16 12:14:14 SAST 2018
+snts.shell-pmr.ru                                                                                                000        Fri Feb 16 12:14:32 SAST 2018
+social-buttons.xyz                                                                                               000        Fri Feb 16 12:14:57 SAST 2018
+social-button.xyz                                                                                                000        Fri Feb 16 12:15:06 SAST 2018
+social-s-ggg.xyz                                                                                                 000        Fri Feb 16 12:15:25 SAST 2018
+social-s-hhh.xyz                                                                                                 000        Fri Feb 16 12:15:28 SAST 2018
+social-s-iii.xyz                                                                                                 000        Fri Feb 16 12:15:32 SAST 2018
+sohoindia.net                                                                                                    000        Fri Feb 16 12:16:11 SAST 2018
+speedup-my.site                                                                                                  000        Fri Feb 16 12:17:28 SAST 2018
+startwp.org                                                                                                      000        Fri Feb 16 12:18:51 SAST 2018
+strag-invest.ru                                                                                                  000        Fri Feb 16 12:19:49 SAST 2018
