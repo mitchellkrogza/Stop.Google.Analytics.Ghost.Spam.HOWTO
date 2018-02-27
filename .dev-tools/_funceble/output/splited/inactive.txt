@@ -527,3 +527,17 @@ xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai                                         
 xn----9sbebi2bvzr7h.xn--p1ai                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:00:05 SAST 2018
 xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:00:54 SAST 2018
 xn----itbkqkfiq.xn--p1ai                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:00:57 SAST 2018
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:05:10 SAST 2018
+yourmovies.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:05:18 SAST 2018
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:05:24 SAST 2018
+youtubedownload.org                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:05:35 SAST 2018
+zapiszto.pl                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:06:48 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:06:57 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:07:08 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:07:10 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Feb 27 20:08:01 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:08:19 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Feb 27 20:08:31 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:08:46 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:09:48 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Feb 27 20:09:53 SAST 2018
