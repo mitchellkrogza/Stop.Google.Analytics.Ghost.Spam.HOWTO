@@ -480,3 +480,10 @@ yourserverisdown.com                                                            
 zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 24 14:54:38 SAST 2018
 zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 24 14:54:49 SAST 2018
 zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 24 14:54:52 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sat Mar 24 14:56:51 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 24 14:57:09 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Mar 24 14:57:21 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 24 14:57:37 SAST 2018
+zs2vm.top                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 24 14:58:22 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 24 14:58:36 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 24 14:58:42 SAST 2018
