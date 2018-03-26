@@ -475,3 +475,19 @@ xn--80aaajbdbddwj2alwjieei2afr3v.xn--p1ai                                       
 xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai                                                              Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:31:28 SAST 2018
 xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:32:42 SAST 2018
 xn----itbkqkfiq.xn--p1ai                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:32:46 SAST 2018
+yeartwit.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:35:32 SAST 2018
+yellocloud.be                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Mar 26 13:35:42 SAST 2018
+yellowads.men                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:35:44 SAST 2018
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:36:31 SAST 2018
+yourmovies.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:36:39 SAST 2018
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:36:44 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:38:17 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:38:28 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:38:30 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Mon Mar 26 13:39:17 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:39:35 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:39:45 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:40:01 SAST 2018
+zs2vm.top                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:40:48 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Mon Mar 26 13:41:01 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Mon Mar 26 13:41:06 SAST 2018
