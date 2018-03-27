@@ -480,3 +480,9 @@ zarajbuilders.com                                                               
 zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Mar 27 15:44:04 SAST 2018
 zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Mar 27 15:44:07 SAST 2018
 zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Mar 27 15:44:59 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Mar 27 15:47:00 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Mar 27 15:47:11 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Mar 27 15:47:26 SAST 2018
+zs2vm.top                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Mar 27 15:48:11 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Mar 27 15:48:23 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Mar 27 15:48:28 SAST 2018
