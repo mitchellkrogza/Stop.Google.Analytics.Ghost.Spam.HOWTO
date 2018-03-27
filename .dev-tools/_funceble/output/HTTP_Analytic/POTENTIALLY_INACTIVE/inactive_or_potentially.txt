@@ -261,3 +261,17 @@ marwer.info                                                                     
 matchpal-a.akamaihd.net                                                                              ACTIVE      403        Tue Mar 27 13:24:01 SAST 2018
 mature.free-websites.com                                                                             ACTIVE      403        Tue Mar 27 13:24:08 SAST 2018
 mediaoffers.click                                                                                    ACTIVE      403        Tue Mar 27 13:25:05 SAST 2018
+member-quiz.com                                                                                      ACTIVE      404        Tue Mar 27 13:30:23 SAST 2018
+message-warning.net                                                                                  ACTIVE      403        Tue Mar 27 13:30:46 SAST 2018
+middlerush-a.akamaihd.net                                                                            ACTIVE      403        Tue Mar 27 13:31:30 SAST 2018
+mmstat.com                                                                                           ACTIVE      404        Tue Mar 27 13:33:15 SAST 2018
+mnogolok.info                                                                                        ACTIVE      403        Tue Mar 27 13:33:21 SAST 2018
+mole.pluto.ro                                                                                        ACTIVE      403        Tue Mar 27 13:34:08 SAST 2018
+monarchfind-a.akamaihd.net                                                                           ACTIVE      403        Tue Mar 27 13:34:10 SAST 2018
+monetizer.com-01.site                                                                                ACTIVE      403        Tue Mar 27 13:34:56 SAST 2018
+moneyviking-a.akamaihd.net                                                                           ACTIVE      403        Tue Mar 27 13:35:08 SAST 2018
+morlat.altervista.org                                                                                ACTIVE      403        Tue Mar 27 13:35:35 SAST 2018
+muabancantho.info                                                                                    ACTIVE      404        Tue Mar 27 13:36:58 SAST 2018
+muz-shoes.ru                                                                                         ACTIVE      402        Tue Mar 27 13:37:51 SAST 2018
+myghillie.info                                                                                       ACTIVE      404        Tue Mar 27 13:38:37 SAST 2018
+mywallpaper.top                                                                                      ACTIVE      403        Tue Mar 27 13:39:18 SAST 2018
