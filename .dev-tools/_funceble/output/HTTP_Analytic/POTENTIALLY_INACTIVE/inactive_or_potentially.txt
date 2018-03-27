@@ -97,3 +97,12 @@ cdncash.org                                                                     
 cdnnetwok.xyz                                                                                        ACTIVE      403        Tue Mar 27 11:35:12 SAST 2018
 cdn.walkme.com                                                                                       ACTIVE      403        Tue Mar 27 11:35:13 SAST 2018
 cercacamion.it                                                                                       ACTIVE      403        Tue Mar 27 11:35:54 SAST 2018
+cheapcigarettesc.info                                                                                ACTIVE      403        Tue Mar 27 11:37:57 SAST 2018
+checkhit.com                                                                                         ACTIVE      403        Tue Mar 27 11:38:32 SAST 2018
+children-learningreading.info                                                                        ACTIVE      403        Tue Mar 27 11:38:54 SAST 2018
+clickbank.net                                                                                        ACTIVE      403        Tue Mar 27 11:40:57 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Tue Mar 27 11:41:01 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Tue Mar 27 11:42:20 SAST 2018
+compiko.info                                                                                         ACTIVE      403        Tue Mar 27 11:42:41 SAST 2018
+connectionstrenth.com                                                                                ACTIVE      403        Tue Mar 27 11:45:37 SAST 2018
+coslab.club                                                                                          ACTIVE      404        Tue Mar 27 11:47:01 SAST 2018
