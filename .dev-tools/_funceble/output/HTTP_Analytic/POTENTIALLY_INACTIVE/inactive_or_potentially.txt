@@ -62,3 +62,14 @@ astrochicks.com                                                                 
 atovh.local-finders.com                                                                              ACTIVE      403        Sat Mar 31 12:48:21 SAST 2018
 audiobangout.com                                                                                     ACTIVE      400        Sat Mar 31 12:48:22 SAST 2018
 autodo.info                                                                                          ACTIVE      404        Sat Mar 31 12:48:47 SAST 2018
+avirasecureserver.com                                                                                ACTIVE      403        Sat Mar 31 12:51:12 SAST 2018
+bala.getenjoyment.net                                                                                ACTIVE      403        Sat Mar 31 12:53:12 SAST 2018
+banan.tv                                                                                             ACTIVE      403        Sat Mar 31 12:53:40 SAST 2018
+beachpics.com                                                                                        ACTIVE      404        Sat Mar 31 12:55:03 SAST 2018
+bigames.online                                                                                       ACTIVE      403        Sat Mar 31 12:57:44 SAST 2018
+big-boards.info                                                                                      ACTIVE      404        Sat Mar 31 12:57:46 SAST 2018
+bigpictures.club                                                                                     ACTIVE      403        Sat Mar 31 12:57:55 SAST 2018
+binaryoptionscops.info                                                                               ACTIVE      403        Sat Mar 31 12:58:12 SAST 2018
+bjanshee.ru                                                                                          ACTIVE      404        Sat Mar 31 12:59:11 SAST 2018
+blackhatworth.com                                                                                    ACTIVE      404        Sat Mar 31 12:59:29 SAST 2018
+blog.f00kclan.de                                                                                     ACTIVE      403        Sat Mar 31 12:59:49 SAST 2018
