@@ -489,3 +489,13 @@ yogamatsexpert.com                                                              
 youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:36:50 SAST 2018
 yourmovies.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:37:01 SAST 2018
 yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:37:09 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:42:01 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:42:11 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:42:14 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sat Mar 31 16:43:00 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:43:18 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Mar 31 16:43:30 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:43:45 SAST 2018
+zs2vm.top                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:44:31 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:44:43 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:44:48 SAST 2018
