@@ -427,3 +427,11 @@ sonnikforme.ru                                                                  
 speedup-my.site                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 15:49:53 SAST 2018
 startwp.org                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 15:51:15 SAST 2018
 staticfs.host                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 15:51:18 SAST 2018
+strag-invest.ru                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 15:53:18 SAST 2018
+tech4master.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 15:57:51 SAST 2018
+tengohydar.tk                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 15:58:50 SAST 2018
+testingads.pro                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 15:58:56 SAST 2018
+textads.men                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 15:59:01 SAST 2018
+thin.me.pn                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:00:15 SAST 2018
+timetorelax.biz                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:00:39 SAST 2018
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Mar 31 16:00:50 SAST 2018

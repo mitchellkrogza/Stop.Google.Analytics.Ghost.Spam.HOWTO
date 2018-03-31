@@ -406,3 +406,11 @@ sonnikforme.ru                                                                  
 speedup-my.site                                                                                                  000        Sat Mar 31 15:49:53 SAST 2018
 startwp.org                                                                                                      000        Sat Mar 31 15:51:15 SAST 2018
 staticfs.host                                                                                                    000        Sat Mar 31 15:51:18 SAST 2018
+strag-invest.ru                                                                                                  000        Sat Mar 31 15:53:18 SAST 2018
+tech4master.com                                                                                                  000        Sat Mar 31 15:57:51 SAST 2018
+tengohydar.tk                                                                                                    000        Sat Mar 31 15:58:50 SAST 2018
+testingads.pro                                                                                                   000        Sat Mar 31 15:58:56 SAST 2018
+textads.men                                                                                                      000        Sat Mar 31 15:59:01 SAST 2018
+thin.me.pn                                                                                                       000        Sat Mar 31 16:00:15 SAST 2018
+timetorelax.biz                                                                                                  000        Sat Mar 31 16:00:39 SAST 2018
+titelhelden.eu                                                                                                   000        Sat Mar 31 16:00:50 SAST 2018
