@@ -262,3 +262,13 @@ marinetraffic.com                                                               
 matchpal-a.akamaihd.net                                                                              ACTIVE      403        Sat Mar 31 14:40:04 SAST 2018
 mature.free-websites.com                                                                             ACTIVE      403        Sat Mar 31 14:40:11 SAST 2018
 mediaoffers.click                                                                                    ACTIVE      403        Sat Mar 31 14:41:11 SAST 2018
+member-quiz.com                                                                                      ACTIVE      404        Sat Mar 31 14:44:16 SAST 2018
+message-warning.net                                                                                  ACTIVE      403        Sat Mar 31 14:44:38 SAST 2018
+middlerush-a.akamaihd.net                                                                            ACTIVE      403        Sat Mar 31 14:45:22 SAST 2018
+mnogolok.info                                                                                        ACTIVE      403        Sat Mar 31 14:47:11 SAST 2018
+monarchfind-a.akamaihd.net                                                                           ACTIVE      403        Sat Mar 31 14:48:00 SAST 2018
+monetizer.com-01.site                                                                                ACTIVE      403        Sat Mar 31 14:48:46 SAST 2018
+morlat.altervista.org                                                                                ACTIVE      403        Sat Mar 31 14:49:26 SAST 2018
+muabancantho.info                                                                                    ACTIVE      404        Sat Mar 31 14:50:48 SAST 2018
+myghillie.info                                                                                       ACTIVE      404        Sat Mar 31 14:52:26 SAST 2018
+mywallpaper.top                                                                                      ACTIVE      403        Sat Mar 31 14:53:08 SAST 2018
