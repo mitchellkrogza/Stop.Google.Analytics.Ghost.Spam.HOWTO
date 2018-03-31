@@ -98,3 +98,9 @@ cercacamion.it                                                                  
 cheapcigarettesc.info                                                                                ACTIVE      403        Sat Mar 31 13:11:23 SAST 2018
 checkhit.com                                                                                         ACTIVE      403        Sat Mar 31 13:11:54 SAST 2018
 children-learningreading.info                                                                        ACTIVE      403        Sat Mar 31 13:12:15 SAST 2018
+clickbank.net                                                                                        ACTIVE      403        Sat Mar 31 13:15:45 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Sat Mar 31 13:15:50 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Sat Mar 31 13:17:18 SAST 2018
+compiko.info                                                                                         ACTIVE      403        Sat Mar 31 13:17:43 SAST 2018
+connectionstrenth.com                                                                                ACTIVE      403        Sat Mar 31 13:21:01 SAST 2018
+coslab.club                                                                                          ACTIVE      404        Sat Mar 31 13:23:03 SAST 2018
