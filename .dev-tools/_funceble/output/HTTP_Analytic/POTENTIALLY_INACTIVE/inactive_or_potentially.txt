@@ -352,3 +352,12 @@ seo-traffic-ranking.info                                                        
 sexpartygirls.net                                                                                    ACTIVE      404        Mon Apr  2 18:48:49 SAST 2018
 sex-tracker.de                                                                                       ACTIVE      403        Mon Apr  2 18:49:08 SAST 2018
 sextracker.de                                                                                        ACTIVE      403        Mon Apr  2 18:49:09 SAST 2018
+sicfor.bcu.cc                                                                                        ACTIVE      403        Mon Apr  2 18:53:16 SAST 2018
+site-auditor.online                                                                                  ACTIVE      403        Mon Apr  2 18:54:29 SAST 2018
+siteheart.net                                                                                        ACTIVE      403        Mon Apr  2 18:54:37 SAST 2018
+sitiz.club                                                                                           ACTIVE      404        Mon Apr  2 18:55:00 SAST 2018
+skuteczna-dieta.co.pl                                                                                ACTIVE      403        Mon Apr  2 18:55:52 SAST 2018
+slavia.info                                                                                          ACTIVE      403        Mon Apr  2 18:56:17 SAST 2018
+slimcdn.com                                                                                          ACTIVE      403        Mon Apr  2 18:56:30 SAST 2018
+slim.sellany.ru                                                                                      ACTIVE      403        Mon Apr  2 18:56:35 SAST 2018
+snsdeainavi.info                                                                                     ACTIVE      404        Mon Apr  2 18:58:23 SAST 2018
