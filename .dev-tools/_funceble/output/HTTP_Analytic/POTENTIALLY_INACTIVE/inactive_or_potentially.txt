@@ -58,3 +58,14 @@ astrochicks.com                                                                 
 atovh.local-finders.com                                                                              ACTIVE      403        Mon Apr  2 15:55:11 SAST 2018
 audiobangout.com                                                                                     ACTIVE      400        Mon Apr  2 15:55:12 SAST 2018
 avirasecureserver.com                                                                                ACTIVE      403        Mon Apr  2 15:56:32 SAST 2018
+bala.getenjoyment.net                                                                                ACTIVE      403        Mon Apr  2 16:00:20 SAST 2018
+banan.tv                                                                                             ACTIVE      403        Mon Apr  2 16:00:46 SAST 2018
+beachpics.com                                                                                        ACTIVE      404        Mon Apr  2 16:02:04 SAST 2018
+bigames.online                                                                                       ACTIVE      403        Mon Apr  2 16:04:37 SAST 2018
+big-boards.info                                                                                      ACTIVE      404        Mon Apr  2 16:04:38 SAST 2018
+bigpictures.club                                                                                     ACTIVE      403        Mon Apr  2 16:04:47 SAST 2018
+binaryoptionscops.info                                                                               ACTIVE      403        Mon Apr  2 16:05:03 SAST 2018
+blackhatworth.com                                                                                    ACTIVE      404        Mon Apr  2 16:06:17 SAST 2018
+blog.f00kclan.de                                                                                     ACTIVE      403        Mon Apr  2 16:06:36 SAST 2018
+bonky.biz                                                                                            ACTIVE      403        Mon Apr  2 16:08:04 SAST 2018
+boole.onlinewebshop.net                                                                              ACTIVE      403        Mon Apr  2 16:08:18 SAST 2018
