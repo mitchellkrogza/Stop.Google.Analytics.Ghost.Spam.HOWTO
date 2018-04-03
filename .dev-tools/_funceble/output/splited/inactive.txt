@@ -428,3 +428,16 @@ speedup-my.site                                                                 
 startwp.org                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 12:56:17 SAST 2018
 staticfs.host                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 12:56:20 SAST 2018
 strag-invest.ru                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 12:57:16 SAST 2018
+tech4master.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:04:46 SAST 2018
+tengohydar.tk                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:05:37 SAST 2018
+testingads.pro                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:05:43 SAST 2018
+textads.men                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:05:48 SAST 2018
+thetardistimes.ovh                                                                                   Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Apr  3 13:06:43 SAST 2018
+thin.me.pn                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:07:01 SAST 2018
+timetorelax.biz                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:07:25 SAST 2018
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:07:35 SAST 2018
+topads.men                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:09:20 SAST 2018
+torrents.cd                                                                                          Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Apr  3 13:09:59 SAST 2018
+tradgardspartner.se                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:11:03 SAST 2018
+traffic2cash.org                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:11:10 SAST 2018
+traffic2money.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr  3 13:11:10 SAST 2018
