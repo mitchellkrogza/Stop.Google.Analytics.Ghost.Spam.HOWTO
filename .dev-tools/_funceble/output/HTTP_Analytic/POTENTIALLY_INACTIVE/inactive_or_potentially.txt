@@ -66,3 +66,15 @@ atovh.local-finders.com                                                         
 audiobangout.com                                                                                     ACTIVE      400        Tue Apr  3 09:54:46 SAST 2018
 autodo.info                                                                                          ACTIVE      404        Tue Apr  3 09:55:08 SAST 2018
 avirasecureserver.com                                                                                ACTIVE      403        Tue Apr  3 09:56:05 SAST 2018
+bala.getenjoyment.net                                                                                ACTIVE      403        Tue Apr  3 09:59:08 SAST 2018
+banan.tv                                                                                             ACTIVE      403        Tue Apr  3 09:59:34 SAST 2018
+beachpics.com                                                                                        ACTIVE      404        Tue Apr  3 10:00:54 SAST 2018
+bestplacetobuyeriacta.jw.lt                                                                          ACTIVE      404        Tue Apr  3 10:02:29 SAST 2018
+bigames.online                                                                                       ACTIVE      403        Tue Apr  3 10:03:32 SAST 2018
+big-boards.info                                                                                      ACTIVE      404        Tue Apr  3 10:03:33 SAST 2018
+bigpictures.club                                                                                     ACTIVE      403        Tue Apr  3 10:03:42 SAST 2018
+binaryoptionscops.info                                                                               ACTIVE      403        Tue Apr  3 10:03:59 SAST 2018
+blackhatworth.com                                                                                    ACTIVE      404        Tue Apr  3 10:05:16 SAST 2018
+blog.f00kclan.de                                                                                     ACTIVE      403        Tue Apr  3 10:05:36 SAST 2018
+bonky.biz                                                                                            ACTIVE      403        Tue Apr  3 10:07:14 SAST 2018
+boole.onlinewebshop.net                                                                              ACTIVE      403        Tue Apr  3 10:07:30 SAST 2018
