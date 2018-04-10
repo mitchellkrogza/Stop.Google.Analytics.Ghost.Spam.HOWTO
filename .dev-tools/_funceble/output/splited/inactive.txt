@@ -504,3 +504,21 @@ xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                   
 xn----7sbaphztdjeboffeiof6c.xn--p1ai                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:11:25 SAST 2018
 xn--80aaajbdbddwj2alwjieei2afr3v.xn--p1ai                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:11:50 SAST 2018
 xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai                                                              Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:12:37 SAST 2018
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:16:29 SAST 2018
+xn----itbkqkfiq.xn--p1ai                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:16:32 SAST 2018
+yeartwit.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:18:06 SAST 2018
+yellowads.men                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:18:13 SAST 2018
+yogamatsexpert.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:18:22 SAST 2018
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:18:59 SAST 2018
+yourmovies.pl                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:19:07 SAST 2018
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:19:13 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:20:46 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:20:56 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:20:59 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Apr 10 17:21:43 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:21:59 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Tue Apr 10 17:22:11 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:22:26 SAST 2018
+zs2vm.top                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:23:12 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:23:25 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Apr 10 17:23:30 SAST 2018
