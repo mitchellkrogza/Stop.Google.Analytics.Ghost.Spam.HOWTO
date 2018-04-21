@@ -63,3 +63,12 @@ astrochicks.com                                                                 
 atovh.local-finders.com                                                                              ACTIVE      403        Sat Apr 21 13:44:14 SAST 2018
 audiobangout.com                                                                                     ACTIVE      400        Sat Apr 21 13:44:15 SAST 2018
 autodo.info                                                                                          ACTIVE      404        Sat Apr 21 13:44:37 SAST 2018
+avirasecureserver.com                                                                                ACTIVE      403        Sat Apr 21 13:46:41 SAST 2018
+bala.getenjoyment.net                                                                                ACTIVE      403        Sat Apr 21 13:48:41 SAST 2018
+beachpics.com                                                                                        ACTIVE      404        Sat Apr 21 13:50:27 SAST 2018
+bigames.online                                                                                       ACTIVE      403        Sat Apr 21 13:53:03 SAST 2018
+bigpictures.club                                                                                     ACTIVE      403        Sat Apr 21 13:53:14 SAST 2018
+bikini-image.com                                                                                     ACTIVE      403        Sat Apr 21 13:53:17 SAST 2018
+binaryoptionscops.info                                                                               ACTIVE      403        Sat Apr 21 13:53:30 SAST 2018
+blackhatworth.com                                                                                    ACTIVE      404        Sat Apr 21 13:54:45 SAST 2018
+blog.f00kclan.de                                                                                     ACTIVE      403        Sat Apr 21 13:55:04 SAST 2018
