@@ -508,3 +508,20 @@ xn----7sbaphztdjeboffeiof6c.xn--p1ai                                            
 xn--80aaajbdbddwj2alwjieei2afr3v.xn--p1ai                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:17:28 SAST 2018
 xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai                                                              Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:18:18 SAST 2018
 xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:18:34 SAST 2018
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:20:41 SAST 2018
+xn----itbkqkfiq.xn--p1ai                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:20:44 SAST 2018
+yeartwit.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:22:17 SAST 2018
+yellowads.men                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:22:25 SAST 2018
+yogamatsexpert.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:22:34 SAST 2018
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:23:13 SAST 2018
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:23:27 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:25:02 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:25:12 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:25:15 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Sat Apr 21 17:26:04 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:26:21 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   Unknown    Sat Apr 21 17:26:33 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:26:49 SAST 2018
+zs2vm.top                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:27:34 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:27:47 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Sat Apr 21 17:27:52 SAST 2018
