@@ -411,3 +411,17 @@ totu.info                                                                       
 tracksz.co                                                                                           ACTIVE      403        Sat Apr 21 16:53:28 SAST 2018
 treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Sat Apr 21 16:54:24 SAST 2018
 ttsq.fr                                                                                              ACTIVE      403        Sat Apr 21 16:55:11 SAST 2018
+uhdtv.website                                                                                        ACTIVE      403        Sat Apr 21 16:58:45 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Sat Apr 21 16:59:08 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Sat Apr 21 16:59:45 SAST 2018
+urccvfmc.bloger.index.hr                                                                             ACTIVE      404        Sat Apr 21 17:00:16 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Sat Apr 21 17:00:27 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Sat Apr 21 17:00:30 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Sat Apr 21 17:00:33 SAST 2018
+vacances-voyages.info                                                                                ACTIVE      404        Sat Apr 21 17:01:17 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Sat Apr 21 17:01:26 SAST 2018
+vapeface.club                                                                                        ACTIVE      404        Sat Apr 21 17:01:45 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Sat Apr 21 17:03:09 SAST 2018
+videos-for-your-business.com                                                                         ACTIVE      403        Sat Apr 21 17:03:58 SAST 2018
+vintontech.info                                                                                      ACTIVE      404        Sat Apr 21 17:04:29 SAST 2018
+vizitki.net                                                                                          ACTIVE      403        Sat Apr 21 17:05:27 SAST 2018
