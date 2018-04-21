@@ -398,3 +398,16 @@ strongsignal-a.akamaihd.net                                                     
 superkanpo.com                                                                                       ACTIVE      403        Sat Apr 21 16:44:01 SAST 2018
 sureone.pro                                                                                          ACTIVE      403        Sat Apr 21 16:44:29 SAST 2018
 swinon.site                                                                                          ACTIVE      403        Sat Apr 21 16:45:15 SAST 2018
+takethatad.com                                                                                       ACTIVE      403        Sat Apr 21 16:46:57 SAST 2018
+tanieaukcje.com.pl                                                                                   ACTIVE      403        Sat Apr 21 16:47:12 SAST 2018
+taqplayer.info                                                                                       ACTIVE      404        Sat Apr 21 16:47:13 SAST 2018
+tedxrj.com                                                                                           ACTIVE      403        Sat Apr 21 16:47:57 SAST 2018
+teguh.info                                                                                           ACTIVE      404        Sat Apr 21 16:48:07 SAST 2018
+terraclicks.com                                                                                      ACTIVE      403        Sat Apr 21 16:48:38 SAST 2018
+thewebsitetemplate.info                                                                              ACTIVE      404        Sat Apr 21 16:49:46 SAST 2018
+topmira.com                                                                                          ACTIVE      403        Sat Apr 21 16:52:16 SAST 2018
+toproadrunner5.info                                                                                  ACTIVE      403        Sat Apr 21 16:52:20 SAST 2018
+totu.info                                                                                            ACTIVE      404        Sat Apr 21 16:52:46 SAST 2018
+tracksz.co                                                                                           ACTIVE      403        Sat Apr 21 16:53:28 SAST 2018
+treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Sat Apr 21 16:54:24 SAST 2018
+ttsq.fr                                                                                              ACTIVE      403        Sat Apr 21 16:55:11 SAST 2018
