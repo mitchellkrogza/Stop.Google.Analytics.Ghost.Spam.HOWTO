@@ -93,3 +93,17 @@ buzzonclick.com                                                                 
 calvet.altervista.org                                                                                ACTIVE      403        Tue May  8 16:18:29 SAST 2018
 cam-kontakte.org                                                                                     ACTIVE      404        Tue May  8 16:18:35 SAST 2018
 canzoni.ru                                                                                           ACTIVE      403        Tue May  8 16:19:17 SAST 2018
+cashkitten-a.akamaihd.net                                                                            ACTIVE      403        Tue May  8 16:22:37 SAST 2018
+cayado.snn.gr                                                                                        ACTIVE      404        Tue May  8 16:22:55 SAST 2018
+cdnanalytics.xyz                                                                                     ACTIVE      403        Tue May  8 16:23:10 SAST 2018
+cdncash.com                                                                                          ACTIVE      403        Tue May  8 16:23:11 SAST 2018
+cdncash.net                                                                                          ACTIVE      403        Tue May  8 16:23:13 SAST 2018
+cdncash.org                                                                                          ACTIVE      403        Tue May  8 16:23:15 SAST 2018
+cdnnetwok.xyz                                                                                        ACTIVE      403        Tue May  8 16:23:19 SAST 2018
+cercacamion.it                                                                                       ACTIVE      403        Tue May  8 16:23:58 SAST 2018
+checkhit.com                                                                                         ACTIVE      403        Tue May  8 16:25:21 SAST 2018
+children-learningreading.info                                                                        ACTIVE      403        Tue May  8 16:25:44 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Tue May  8 16:27:47 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Tue May  8 16:29:01 SAST 2018
+compiko.info                                                                                         ACTIVE      403        Tue May  8 16:29:21 SAST 2018
+connectionstrenth.com                                                                                ACTIVE      403        Tue May  8 16:32:12 SAST 2018
