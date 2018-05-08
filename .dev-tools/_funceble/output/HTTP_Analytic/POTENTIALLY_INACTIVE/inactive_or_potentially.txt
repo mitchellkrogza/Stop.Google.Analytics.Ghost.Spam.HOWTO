@@ -390,3 +390,14 @@ spidtest.space                                                                  
 splendorsearch-a.akamaihd.net                                                                        ACTIVE      403        Tue May  8 13:43:48 SAST 2018
 sptslmtrafms.com                                                                                     ACTIVE      403        Tue May  8 13:44:08 SAST 2018
 spymac.net                                                                                           ACTIVE      403        Tue May  8 13:44:15 SAST 2018
+stauga.altervista.org                                                                                ACTIVE      403        Tue May  8 13:46:25 SAST 2018
+stjamesschool.info                                                                                   ACTIVE      404        Tue May  8 13:46:43 SAST 2018
+strana-solnca.ru                                                                                     ACTIVE      403        Tue May  8 13:47:12 SAST 2018
+strongsignal-a.akamaihd.net                                                                          ACTIVE      403        Tue May  8 13:47:43 SAST 2018
+superkanpo.com                                                                                       ACTIVE      403        Tue May  8 13:48:36 SAST 2018
+sureone.pro                                                                                          ACTIVE      403        Tue May  8 13:49:05 SAST 2018
+swinon.site                                                                                          ACTIVE      403        Tue May  8 13:49:52 SAST 2018
+takethatad.com                                                                                       ACTIVE      403        Tue May  8 13:50:34 SAST 2018
+taqplayer.info                                                                                       ACTIVE      404        Tue May  8 13:50:52 SAST 2018
+teguh.info                                                                                           ACTIVE      404        Tue May  8 13:51:54 SAST 2018
+thenews-today.info                                                                                   ACTIVE      403        Tue May  8 13:53:21 SAST 2018
