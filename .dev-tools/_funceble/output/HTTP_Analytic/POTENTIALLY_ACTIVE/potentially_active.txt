@@ -467,3 +467,12 @@ startwp.org                                                                     
 staticfs.host                                                                                                    000        Wed May  9 13:57:57 SAST 2018
 strag-invest.ru                                                                                                  000        Wed May  9 13:58:57 SAST 2018
 stroiminsk.org                                                                                                   000        Wed May  9 13:59:34 SAST 2018
+talant-factory.ru                                                                                                000        Wed May  9 14:03:55 SAST 2018
+tech4master.com                                                                                                  000        Wed May  9 14:04:43 SAST 2018
+tengohydar.tk                                                                                                    000        Wed May  9 14:05:39 SAST 2018
+testingads.pro                                                                                                   000        Wed May  9 14:05:45 SAST 2018
+textads.men                                                                                                      000        Wed May  9 14:05:50 SAST 2018
+thin.me.pn                                                                                                       000        Wed May  9 14:07:05 SAST 2018
+titelhelden.eu                                                                                                   000        Wed May  9 14:07:41 SAST 2018
+topads.men                                                                                                       000        Wed May  9 14:09:23 SAST 2018
+torrents.cd                                                                                                      000        Wed May  9 14:10:05 SAST 2018

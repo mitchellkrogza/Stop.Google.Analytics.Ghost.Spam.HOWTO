@@ -390,3 +390,17 @@ sptslmtrafms.com                                                                
 spymac.net                                                                                           ACTIVE      403        Wed May  9 13:57:07 SAST 2018
 stauga.altervista.org                                                                                ACTIVE      403        Wed May  9 13:58:10 SAST 2018
 stjamesschool.info                                                                                   ACTIVE      404        Wed May  9 13:58:32 SAST 2018
+strongsignal-a.akamaihd.net                                                                          ACTIVE      403        Wed May  9 14:01:02 SAST 2018
+superkanpo.com                                                                                       ACTIVE      403        Wed May  9 14:01:52 SAST 2018
+sureone.pro                                                                                          ACTIVE      403        Wed May  9 14:02:21 SAST 2018
+swinon.site                                                                                          ACTIVE      403        Wed May  9 14:03:09 SAST 2018
+takethatad.com                                                                                       ACTIVE      403        Wed May  9 14:03:51 SAST 2018
+tanieaukcje.com.pl                                                                                   ACTIVE      403        Wed May  9 14:04:05 SAST 2018
+taqplayer.info                                                                                       ACTIVE      404        Wed May  9 14:04:07 SAST 2018
+teguh.info                                                                                           ACTIVE      404        Wed May  9 14:05:04 SAST 2018
+terraclicks.com                                                                                      ACTIVE      403        Wed May  9 14:05:40 SAST 2018
+thenews-today.info                                                                                   ACTIVE      403        Wed May  9 14:06:34 SAST 2018
+topmira.com                                                                                          ACTIVE      403        Wed May  9 14:09:43 SAST 2018
+toproadrunner5.info                                                                                  ACTIVE      403        Wed May  9 14:09:47 SAST 2018
+totu.info                                                                                            ACTIVE      404        Wed May  9 14:10:15 SAST 2018
+trackmedia101.com                                                                                    ACTIVE      403        Wed May  9 14:10:55 SAST 2018

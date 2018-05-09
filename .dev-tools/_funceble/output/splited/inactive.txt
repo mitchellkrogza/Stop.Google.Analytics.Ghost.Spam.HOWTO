@@ -489,3 +489,15 @@ startwp.org                                                                     
 staticfs.host                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 13:57:57 SAST 2018
 strag-invest.ru                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 13:58:57 SAST 2018
 stroiminsk.org                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 13:59:34 SAST 2018
+tacbelarus.ru                                                                                        Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed May  9 14:03:42 SAST 2018
+talant-factory.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 14:03:55 SAST 2018
+tech4master.com                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 14:04:43 SAST 2018
+templates.franklinfire.co                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed May  9 14:05:33 SAST 2018
+templates.radiodigital.co                                                                            Not Found                           INACTIVE    NSLOOKUP   Unknown    Wed May  9 14:05:35 SAST 2018
+tengohydar.tk                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 14:05:39 SAST 2018
+testingads.pro                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 14:05:45 SAST 2018
+textads.men                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 14:05:50 SAST 2018
+thin.me.pn                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 14:07:05 SAST 2018
+titelhelden.eu                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 14:07:41 SAST 2018
+topads.men                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 14:09:23 SAST 2018
+torrents.cd                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Wed May  9 14:10:05 SAST 2018
