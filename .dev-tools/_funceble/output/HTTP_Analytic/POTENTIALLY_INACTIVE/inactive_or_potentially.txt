@@ -107,3 +107,12 @@ cdnnetwok.xyz                                                                   
 cercacamion.it                                                                                       ACTIVE      403        Wed May  9 11:14:01 SAST 2018
 checkhit.com                                                                                         ACTIVE      403        Wed May  9 11:15:23 SAST 2018
 children-learningreading.info                                                                        ACTIVE      403        Wed May  9 11:15:45 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Wed May  9 11:18:54 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Wed May  9 11:20:01 SAST 2018
+connectionstrenth.com                                                                                ACTIVE      403        Wed May  9 11:22:54 SAST 2018
+coslab.club                                                                                          ACTIVE      404        Wed May  9 11:24:07 SAST 2018
+cs-passion.pl                                                                                        ACTIVE      403        Wed May  9 11:25:42 SAST 2018
+customcatchcan.com                                                                                   ACTIVE      403        Wed May  9 11:25:58 SAST 2018
+customcollegeessays.net                                                                              ACTIVE      404        Wed May  9 11:26:01 SAST 2018
+customerpromos-a.akamaihd.net                                                                        ACTIVE      403        Wed May  9 11:26:08 SAST 2018
+d0t.ru                                                                                               ACTIVE      404        Wed May  9 11:26:42 SAST 2018
