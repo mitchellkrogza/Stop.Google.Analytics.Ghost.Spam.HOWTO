@@ -223,3 +223,16 @@ jolic2.com                                                                      
 junglenet-a.akamaihd.net                                                                             ACTIVE      403        Wed May  9 12:23:06 SAST 2018
 jurajskie.info                                                                                       ACTIVE      403        Wed May  9 12:23:08 SAST 2018
 kashubadesign.ru                                                                                     ACTIVE      403        Wed May  9 12:24:35 SAST 2018
+kfon.eu                                                                                              ACTIVE      403        Wed May  9 12:27:13 SAST 2018
+kicknights.gq                                                                                        ACTIVE      403        Wed May  9 12:27:21 SAST 2018
+kinoflux.net                                                                                         ACTIVE      404        Wed May  9 12:27:48 SAST 2018
+klejonka.info                                                                                        ACTIVE      404        Wed May  9 12:28:42 SAST 2018
+kndxbkdx.bloger.index.hr                                                                             ACTIVE      404        Wed May  9 12:29:01 SAST 2018
+kongruan.com                                                                                         ACTIVE      400        Wed May  9 12:29:42 SAST 2018
+kopihijau.info                                                                                       ACTIVE      403        Wed May  9 12:29:56 SAST 2018
+kosmetyki.tm.pl                                                                                      ACTIVE      403        Wed May  9 12:30:07 SAST 2018
+lacloop.info                                                                                         ACTIVE      403        Wed May  9 12:31:57 SAST 2018
+lancheck.net                                                                                         ACTIVE      403        Wed May  9 12:32:24 SAST 2018
+larose.jb2c.me                                                                                       ACTIVE      404        Wed May  9 12:32:50 SAST 2018
+linksharingt.com                                                                                     ACTIVE      403        Wed May  9 12:35:52 SAST 2018
+lisque.batcave.net                                                                                   ACTIVE      403        Wed May  9 12:36:16 SAST 2018
