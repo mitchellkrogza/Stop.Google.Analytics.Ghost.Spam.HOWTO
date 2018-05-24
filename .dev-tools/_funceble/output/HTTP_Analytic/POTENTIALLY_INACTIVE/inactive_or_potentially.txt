@@ -396,3 +396,10 @@ validdomain.xyz                                                                 
 vapeface.club                                                                                        ACTIVE      404        Thu May 24 12:58:48 SAST 2018
 vbabule.net                                                                                          ACTIVE      403        Thu May 24 12:59:06 SAST 2018
 viagroid.ru                                                                                          ACTIVE      403        Thu May 24 13:00:19 SAST 2018
+videos-for-your-business.com                                                                         ACTIVE      403        Thu May 24 13:02:19 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Thu May 24 13:06:33 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Thu May 24 13:08:20 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Thu May 24 13:08:48 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Thu May 24 13:08:50 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Thu May 24 13:10:31 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Thu May 24 13:11:32 SAST 2018
