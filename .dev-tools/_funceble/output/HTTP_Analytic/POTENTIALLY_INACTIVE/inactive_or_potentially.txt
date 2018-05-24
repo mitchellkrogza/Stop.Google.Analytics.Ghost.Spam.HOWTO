@@ -366,3 +366,16 @@ splendorsearch-a.akamaihd.net                                                   
 sptslmtrafms.com                                                                                     ACTIVE      403        Thu May 24 12:37:06 SAST 2018
 spymac.net                                                                                           ACTIVE      403        Thu May 24 12:37:13 SAST 2018
 stauga.altervista.org                                                                                ACTIVE      403        Thu May 24 12:38:12 SAST 2018
+stjamesschool.info                                                                                   ACTIVE      404        Thu May 24 12:39:39 SAST 2018
+strongsignal-a.akamaihd.net                                                                          ACTIVE      403        Thu May 24 12:40:37 SAST 2018
+superkanpo.com                                                                                       ACTIVE      403        Thu May 24 12:41:26 SAST 2018
+sureone.pro                                                                                          ACTIVE      403        Thu May 24 12:41:54 SAST 2018
+swinon.site                                                                                          ACTIVE      403        Thu May 24 12:42:38 SAST 2018
+takethatad.com                                                                                       ACTIVE      403        Thu May 24 12:43:17 SAST 2018
+taqplayer.info                                                                                       ACTIVE      404        Thu May 24 12:43:32 SAST 2018
+teguh.info                                                                                           ACTIVE      404        Thu May 24 12:44:27 SAST 2018
+terraclicks.com                                                                                      ACTIVE      403        Thu May 24 12:45:01 SAST 2018
+thenews-today.info                                                                                   ACTIVE      403        Thu May 24 12:45:52 SAST 2018
+topmira.com                                                                                          ACTIVE      403        Thu May 24 12:48:48 SAST 2018
+toproadrunner5.info                                                                                  ACTIVE      403        Thu May 24 12:48:51 SAST 2018
+totu.info                                                                                            ACTIVE      404        Thu May 24 12:49:15 SAST 2018
