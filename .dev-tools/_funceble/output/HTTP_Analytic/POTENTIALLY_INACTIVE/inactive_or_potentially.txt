@@ -246,3 +246,15 @@ matchpal-a.akamaihd.net                                                         
 matrixalchemy.com                                                                                    ACTIVE      404        Thu May 24 11:24:57 SAST 2018
 mature.free-websites.com                                                                             ACTIVE      403        Thu May 24 11:25:00 SAST 2018
 mediaoffers.click                                                                                    ACTIVE      403        Thu May 24 11:26:01 SAST 2018
+message-warning.net                                                                                  ACTIVE      403        Thu May 24 11:28:51 SAST 2018
+middlerush-a.akamaihd.net                                                                            ACTIVE      403        Thu May 24 11:29:37 SAST 2018
+mmstat.com                                                                                           ACTIVE      404        Thu May 24 11:31:28 SAST 2018
+mnogolok.info                                                                                        ACTIVE      403        Thu May 24 11:31:33 SAST 2018
+mobioffertrck.com                                                                                    ACTIVE      403        Thu May 24 11:31:44 SAST 2018
+monarchfind-a.akamaihd.net                                                                           ACTIVE      403        Thu May 24 11:32:23 SAST 2018
+moneyviking-a.akamaihd.net                                                                           ACTIVE      403        Thu May 24 11:33:22 SAST 2018
+morlat.altervista.org                                                                                ACTIVE      403        Thu May 24 11:33:49 SAST 2018
+moxo.com                                                                                             ACTIVE      403        Thu May 24 11:34:40 SAST 2018
+msk-diplomat.com                                                                                     ACTIVE      403        Thu May 24 11:35:10 SAST 2018
+myghillie.info                                                                                       ACTIVE      404        Thu May 24 11:36:53 SAST 2018
+mywallpaper.top                                                                                      ACTIVE      403        Thu May 24 11:37:42 SAST 2018
