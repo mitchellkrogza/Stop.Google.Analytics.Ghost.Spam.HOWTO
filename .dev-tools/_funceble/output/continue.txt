@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list www.arenda-yeisk.ru 5953 5362 591 0
+/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list zigzog.ru 6219 5607 612 0

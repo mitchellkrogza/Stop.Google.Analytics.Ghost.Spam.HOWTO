@@ -595,3 +595,24 @@ woman-h.ru                                                                      
 wordpress-crew.net                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:10:34 SAST 2018
 workle.website                                                                                       Not Found                           INACTIVE    NSLOOKUP   Unknown    Thu May 24 13:10:46 SAST 2018
 worldtraveler.world                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:11:06 SAST 2018
+wygraj-skiny.win                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:13:12 SAST 2018
+wygraj-teraz.com                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:13:13 SAST 2018
+wyniki-lista.pl                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:13:15 SAST 2018
+xitjw.info                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:14:02 SAST 2018
+xn--1-8sbcpb0bdm8k6a.xn--p1ai                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:14:21 SAST 2018
+xn----7sbaphztdjeboffeiof6c.xn--p1ai                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:14:54 SAST 2018
+xn--80aaajbdbddwj2alwjieei2afr3v.xn--p1ai                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:15:20 SAST 2018
+xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai                                                              Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:16:09 SAST 2018
+xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:16:25 SAST 2018
+xn--90acenikpebbdd4f6d.xn--p1ai                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:16:28 SAST 2018
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:17:19 SAST 2018
+xn----itbkqkfiq.xn--p1ai                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:17:22 SAST 2018
+yeartwit.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:19:01 SAST 2018
+yellowads.men                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:19:09 SAST 2018
+yogamatsexpert.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:19:18 SAST 2018
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:19:56 SAST 2018
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:20:11 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:21:50 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:22:01 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Thu May 24 13:22:04 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Thu May 24 13:22:52 SAST 2018
