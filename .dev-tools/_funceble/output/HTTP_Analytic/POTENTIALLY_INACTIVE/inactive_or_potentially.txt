@@ -428,3 +428,5 @@ zeroredirect.com                                                                
 zhongwenlink.com                                                                                     ACTIVE      403        Thu May 24 13:22:47 SAST 2018
 zigarettenonl.canalblog.com                                                                          ACTIVE      404        Thu May 24 13:22:52 SAST 2018
 zigarettenonlinekaufen2.drupalgardens.com                                                            ACTIVE      404        Thu May 24 13:23:02 SAST 2018
+zog.link                                                                                             ACTIVE      403        Thu May 24 13:24:51 SAST 2018
+zophim.me                                                                                            ACTIVE      403        Thu May 24 13:25:18 SAST 2018
