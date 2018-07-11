@@ -471,3 +471,16 @@ vbabule.net                                                                     
 viagroid.ru                                                                                          ACTIVE      403        Wed Jul 11 18:24:57 SAST 2018
 videos-for-your-business.com                                                                         ACTIVE      403        Wed Jul 11 18:25:49 SAST 2018
 vizitki.net                                                                                          ACTIVE      403        Wed Jul 11 18:27:20 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Wed Jul 11 18:31:52 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Wed Jul 11 18:32:30 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Wed Jul 11 18:32:32 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Wed Jul 11 18:33:35 SAST 2018
+wetgames.ru                                                                                          ACTIVE      403        Wed Jul 11 18:33:59 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Wed Jul 11 18:34:03 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Wed Jul 11 18:34:05 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Wed Jul 11 18:35:42 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Wed Jul 11 18:36:39 SAST 2018
+xcc24.pl                                                                                             ACTIVE      403        Wed Jul 11 18:37:30 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Wed Jul 11 18:37:32 SAST 2018
+xev.ru                                                                                               ACTIVE      403        Wed Jul 11 18:37:50 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Wed Jul 11 18:37:53 SAST 2018
