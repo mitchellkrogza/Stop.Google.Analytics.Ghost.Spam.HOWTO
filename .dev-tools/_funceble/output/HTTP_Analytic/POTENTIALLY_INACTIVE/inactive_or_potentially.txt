@@ -58,3 +58,16 @@ asdfz.pro                                                                       
 astrochicks.com                                                                                      ACTIVE      403        Wed Jul 11 14:00:05 SAST 2018
 atovh.local-finders.com                                                                              ACTIVE      403        Wed Jul 11 14:00:25 SAST 2018
 audiobangout.com                                                                                     ACTIVE      400        Wed Jul 11 14:00:25 SAST 2018
+avirasecureserver.com                                                                                ACTIVE      403        Wed Jul 11 14:04:04 SAST 2018
+babespcs.com                                                                                         ACTIVE      403        Wed Jul 11 14:05:25 SAST 2018
+bala.getenjoyment.net                                                                                ACTIVE      403        Wed Jul 11 14:06:10 SAST 2018
+balans.shahterworld.org                                                                              ACTIVE      404        Wed Jul 11 14:06:12 SAST 2018
+beachpics.com                                                                                        ACTIVE      404        Wed Jul 11 14:08:03 SAST 2018
+benchmarkcommunications.co.uk                                                                        ACTIVE      403        Wed Jul 11 14:08:51 SAST 2018
+bestofpicture.com                                                                                    ACTIVE      403        Wed Jul 11 14:09:43 SAST 2018
+betterscooter.com                                                                                    ACTIVE      404        Wed Jul 11 14:10:18 SAST 2018
+big-cash.net                                                                                         ACTIVE      403        Wed Jul 11 14:10:58 SAST 2018
+bigpictures.club                                                                                     ACTIVE      403        Wed Jul 11 14:11:03 SAST 2018
+blackhatworth.com                                                                                    ACTIVE      404        Wed Jul 11 14:12:42 SAST 2018
+blobar.org                                                                                           ACTIVE      403        Wed Jul 11 14:12:54 SAST 2018
+blog.f00kclan.de                                                                                     ACTIVE      403        Wed Jul 11 14:13:02 SAST 2018
