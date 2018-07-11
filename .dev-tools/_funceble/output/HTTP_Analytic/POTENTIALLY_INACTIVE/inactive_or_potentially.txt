@@ -92,3 +92,13 @@ cdncash.net                                                                     
 cdncash.org                                                                                          ACTIVE      403        Wed Jul 11 14:24:08 SAST 2018
 cdnnetwok.xyz                                                                                        ACTIVE      403        Wed Jul 11 14:24:13 SAST 2018
 cercacamion.it                                                                                       ACTIVE      403        Wed Jul 11 14:24:48 SAST 2018
+checkhit.com                                                                                         ACTIVE      403        Wed Jul 11 14:27:20 SAST 2018
+children-learningreading.info                                                                        ACTIVE      404        Wed Jul 11 14:27:40 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Wed Jul 11 14:29:33 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Wed Jul 11 14:30:43 SAST 2018
+compiko.info                                                                                         ACTIVE      403        Wed Jul 11 14:31:02 SAST 2018
+connectionstrenth.com                                                                                ACTIVE      403        Wed Jul 11 14:33:49 SAST 2018
+cs-passion.pl                                                                                        ACTIVE      404        Wed Jul 11 14:36:36 SAST 2018
+customcatchcan.com                                                                                   ACTIVE      403        Wed Jul 11 14:36:50 SAST 2018
+customcollegeessays.net                                                                              ACTIVE      404        Wed Jul 11 14:36:53 SAST 2018
+customerpromos-a.akamaihd.net                                                                        ACTIVE      403        Wed Jul 11 14:36:59 SAST 2018
