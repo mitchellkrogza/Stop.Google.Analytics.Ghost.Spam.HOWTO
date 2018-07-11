@@ -263,3 +263,10 @@ health-medical-portal.info                                                      
 highstairs-a.akamaihd.net                                                                            ACTIVE      403        Wed Jul 11 16:07:30 SAST 2018
 hitcpm.com                                                                                           ACTIVE      403        Wed Jul 11 16:07:38 SAST 2018
 hkdiiohi.skyrock.com                                                                                 ACTIVE      404        Wed Jul 11 16:07:47 SAST 2018
+hoverboard360.se                                                                                     ACTIVE      404        Wed Jul 11 16:11:02 SAST 2018
+huhn.altervista.org                                                                                  ACTIVE      404        Wed Jul 11 16:11:29 SAST 2018
+hully.altervista.org                                                                                 ACTIVE      403        Wed Jul 11 16:11:34 SAST 2018
+i4track.net                                                                                          ACTIVE      404        Wed Jul 11 16:12:05 SAST 2018
+imk.com.ua                                                                                           ACTIVE      410        Wed Jul 11 16:14:57 SAST 2018
+inboundlinks.win                                                                                     ACTIVE      403        Wed Jul 11 16:15:37 SAST 2018
+incolors.club                                                                                        ACTIVE      403        Wed Jul 11 16:15:44 SAST 2018
