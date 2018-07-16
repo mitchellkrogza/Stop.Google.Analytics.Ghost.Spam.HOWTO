@@ -176,3 +176,14 @@ hdapp1008-a.akamaihd.net                                                        
 hd-film.pl                                                                                           ACTIVE      403        Mon Jul 16 17:55:42 SAST 2018
 healthcarestore.info                                                                                 ACTIVE      404        Mon Jul 16 17:56:23 SAST 2018
 health-medical-portal.info                                                                           ACTIVE      404        Mon Jul 16 17:56:25 SAST 2018
+highstairs-a.akamaihd.net                                                                            ACTIVE      403        Mon Jul 16 17:58:52 SAST 2018
+hitcpm.com                                                                                           ACTIVE      403        Mon Jul 16 17:59:02 SAST 2018
+hkdiiohi.skyrock.com                                                                                 ACTIVE      404        Mon Jul 16 17:59:11 SAST 2018
+hoverboard360.se                                                                                     ACTIVE      404        Mon Jul 16 18:01:09 SAST 2018
+huhn.altervista.org                                                                                  ACTIVE      404        Mon Jul 16 18:01:37 SAST 2018
+hully.altervista.org                                                                                 ACTIVE      403        Mon Jul 16 18:01:41 SAST 2018
+i4track.net                                                                                          ACTIVE      404        Mon Jul 16 18:02:14 SAST 2018
+imk.com.ua                                                                                           ACTIVE      410        Mon Jul 16 18:04:18 SAST 2018
+inboundlinks.win                                                                                     ACTIVE      403        Mon Jul 16 18:04:42 SAST 2018
+incolors.club                                                                                        ACTIVE      403        Mon Jul 16 18:04:46 SAST 2018
+indetiske.ya.ru                                                                                      ACTIVE      404        Mon Jul 16 18:04:53 SAST 2018
