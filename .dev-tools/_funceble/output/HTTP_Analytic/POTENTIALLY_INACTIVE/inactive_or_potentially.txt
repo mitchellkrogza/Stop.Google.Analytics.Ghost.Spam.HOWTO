@@ -227,3 +227,14 @@ matchpal-a.akamaihd.net                                                         
 mature.free-websites.com                                                                             ACTIVE      403        Mon Jul 16 18:29:34 SAST 2018
 max-eclat.men                                                                                        ACTIVE      403        Mon Jul 16 18:29:36 SAST 2018
 mebelcomplekt.ru                                                                                     ACTIVE      404        Mon Jul 16 18:30:10 SAST 2018
+mediaoffers.click                                                                                    ACTIVE      403        Mon Jul 16 18:32:19 SAST 2018
+message-warning.net                                                                                  ACTIVE      403        Mon Jul 16 18:34:00 SAST 2018
+middlerush-a.akamaihd.net                                                                            ACTIVE      403        Mon Jul 16 18:34:47 SAST 2018
+mmstat.com                                                                                           ACTIVE      404        Mon Jul 16 18:36:53 SAST 2018
+mobioffertrck.com                                                                                    ACTIVE      403        Mon Jul 16 18:37:16 SAST 2018
+monarchfind-a.akamaihd.net                                                                           ACTIVE      403        Mon Jul 16 18:38:21 SAST 2018
+monetizer.com-01.site                                                                                ACTIVE      403        Mon Jul 16 18:39:34 SAST 2018
+moneyviking-a.akamaihd.net                                                                           ACTIVE      403        Mon Jul 16 18:39:52 SAST 2018
+morefastermac.trade                                                                                  ACTIVE      403        Mon Jul 16 18:40:23 SAST 2018
+morlat.altervista.org                                                                                ACTIVE      403        Mon Jul 16 18:40:40 SAST 2018
+moxo.com                                                                                             ACTIVE      403        Mon Jul 16 18:41:55 SAST 2018
