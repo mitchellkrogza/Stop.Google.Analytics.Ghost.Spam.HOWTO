@@ -519,3 +519,15 @@ wesharepics.info                                                                
 wetgames.ru                                                                                          ACTIVE      403        Tue Jul 17 17:43:24 SAST 2018
 whatsupinfoley.com                                                                                   ACTIVE      403        Tue Jul 17 17:43:30 SAST 2018
 whatzmyip.net                                                                                        ACTIVE      403        Tue Jul 17 17:43:33 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Tue Jul 17 17:46:53 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Tue Jul 17 17:47:51 SAST 2018
+xcc24.pl                                                                                             ACTIVE      403        Tue Jul 17 17:48:44 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Tue Jul 17 17:48:46 SAST 2018
+xev.ru                                                                                               ACTIVE      403        Tue Jul 17 17:49:06 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Tue Jul 17 17:49:10 SAST 2018
+xrus.org                                                                                             ACTIVE      403        Tue Jul 17 17:53:06 SAST 2018
+xxart.ru                                                                                             ACTIVE      403        Tue Jul 17 17:53:31 SAST 2018
+xxlargepop.com                                                                                       ACTIVE      404        Tue Jul 17 17:53:31 SAST 2018
+xxxkaz.org                                                                                           ACTIVE      403        Tue Jul 17 17:53:41 SAST 2018
+yatrk.xyz                                                                                            ACTIVE      404        Tue Jul 17 17:54:13 SAST 2018
+youradexchange.com                                                                                   ACTIVE      403        Tue Jul 17 17:55:00 SAST 2018
