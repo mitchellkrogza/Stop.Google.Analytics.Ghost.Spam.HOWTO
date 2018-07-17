@@ -531,3 +531,17 @@ xxlargepop.com                                                                  
 xxxkaz.org                                                                                           ACTIVE      403        Tue Jul 17 17:53:41 SAST 2018
 yatrk.xyz                                                                                            ACTIVE      404        Tue Jul 17 17:54:13 SAST 2018
 youradexchange.com                                                                                   ACTIVE      403        Tue Jul 17 17:55:00 SAST 2018
+zeroredirect10.com                                                                                   ACTIVE      404        Tue Jul 17 17:59:16 SAST 2018
+zeroredirect11.com                                                                                   ACTIVE      404        Tue Jul 17 17:59:17 SAST 2018
+zeroredirect12.com                                                                                   ACTIVE      404        Tue Jul 17 17:59:18 SAST 2018
+zeroredirect1.com                                                                                    ACTIVE      400        Tue Jul 17 17:59:19 SAST 2018
+zeroredirect2.com                                                                                    ACTIVE      404        Tue Jul 17 17:59:19 SAST 2018
+zeroredirect5.com                                                                                    ACTIVE      400        Tue Jul 17 17:59:20 SAST 2018
+zeroredirect6.com                                                                                    ACTIVE      404        Tue Jul 17 17:59:21 SAST 2018
+zeroredirect8.com                                                                                    ACTIVE      404        Tue Jul 17 17:59:23 SAST 2018
+zeroredirect9.com                                                                                    ACTIVE      404        Tue Jul 17 17:59:24 SAST 2018
+zeroredirect.com                                                                                     ACTIVE      404        Tue Jul 17 17:59:25 SAST 2018
+zhongwenlink.com                                                                                     ACTIVE      403        Tue Jul 17 17:59:34 SAST 2018
+zigarettenonl.canalblog.com                                                                          ACTIVE      404        Tue Jul 17 17:59:38 SAST 2018
+zigarettenonlinekaufen2.drupalgardens.com                                                            ACTIVE      404        Tue Jul 17 17:59:47 SAST 2018
+zog.link                                                                                             ACTIVE      403        Tue Jul 17 18:00:22 SAST 2018
