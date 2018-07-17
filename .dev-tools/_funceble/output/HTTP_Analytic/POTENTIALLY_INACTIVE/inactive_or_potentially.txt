@@ -199,3 +199,16 @@ buy-forum.ru                                                                    
 buypanicdisorderpill.com                                                                             ACTIVE      403        Tue Jul 17 14:27:39 SAST 2018
 buzzonclick.com                                                                                      ACTIVE      403        Tue Jul 17 14:27:50 SAST 2018
 calvet.altervista.org                                                                                ACTIVE      403        Tue Jul 17 14:28:53 SAST 2018
+cashkitten-a.akamaihd.net                                                                            ACTIVE      403        Tue Jul 17 14:32:37 SAST 2018
+cayado.snn.gr                                                                                        ACTIVE      404        Tue Jul 17 14:32:53 SAST 2018
+cdnanalytics.xyz                                                                                     ACTIVE      403        Tue Jul 17 14:33:06 SAST 2018
+cdncash.com                                                                                          ACTIVE      403        Tue Jul 17 14:33:07 SAST 2018
+cdncash.net                                                                                          ACTIVE      403        Tue Jul 17 14:33:09 SAST 2018
+cdncash.org                                                                                          ACTIVE      403        Tue Jul 17 14:33:11 SAST 2018
+cdnnetwok.xyz                                                                                        ACTIVE      403        Tue Jul 17 14:33:15 SAST 2018
+cercacamion.it                                                                                       ACTIVE      403        Tue Jul 17 14:33:48 SAST 2018
+checkhit.com                                                                                         ACTIVE      403        Tue Jul 17 14:35:03 SAST 2018
+children-learningreading.info                                                                        ACTIVE      404        Tue Jul 17 14:35:23 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Tue Jul 17 14:37:20 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Tue Jul 17 14:38:31 SAST 2018
+compiko.info                                                                                         ACTIVE      403        Tue Jul 17 14:38:50 SAST 2018
