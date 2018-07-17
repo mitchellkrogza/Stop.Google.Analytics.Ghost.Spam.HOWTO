@@ -168,3 +168,16 @@ gemgrab-a.akamaihd.net                                                          
 generousdeal-a.akamaihd.net                                                                          ACTIVE      403        Tue Jul 17 14:06:30 SAST 2018
 getmyads24.com                                                                                       ACTIVE      403        Tue Jul 17 14:06:50 SAST 2018
 ghernnqr.skyrock.com                                                                                 ACTIVE      404        Tue Jul 17 14:07:14 SAST 2018
+gourcy.altervista.org                                                                                ACTIVE      403        Tue Jul 17 14:11:32 SAST 2018
+gowreckdiving.com                                                                                    ACTIVE      403        Tue Jul 17 14:11:37 SAST 2018
+greatfind-a.akamaihd.net                                                                             ACTIVE      403        Tue Jul 17 14:12:00 SAST 2018
+grtyi.com                                                                                            ACTIVE      403        Tue Jul 17 14:12:28 SAST 2018
+gwebtools.com.br                                                                                     ACTIVE      403        Tue Jul 17 14:13:39 SAST 2018
+hauleddes.com                                                                                        ACTIVE      403        Tue Jul 17 14:14:22 SAST 2018
+hccoder.info                                                                                         ACTIVE      403        Tue Jul 17 14:14:39 SAST 2018
+hdapp1008-a.akamaihd.net                                                                             ACTIVE      404        Tue Jul 17 14:14:45 SAST 2018
+hd-film.pl                                                                                           ACTIVE      403        Tue Jul 17 14:14:48 SAST 2018
+healthcarestore.info                                                                                 ACTIVE      404        Tue Jul 17 14:15:26 SAST 2018
+health-medical-portal.info                                                                           ACTIVE      404        Tue Jul 17 14:15:28 SAST 2018
+highstairs-a.akamaihd.net                                                                            ACTIVE      403        Tue Jul 17 14:16:42 SAST 2018
+hkdiiohi.skyrock.com                                                                                 ACTIVE      404        Tue Jul 17 14:17:04 SAST 2018
