@@ -508,3 +508,14 @@ urldelivery.com                                                                 
 uroffer.link                                                                                         ACTIVE      403        Tue Jul 17 17:32:13 SAST 2018
 vacances-voyages.info                                                                                ACTIVE      404        Tue Jul 17 17:32:53 SAST 2018
 validdomain.xyz                                                                                      ACTIVE      403        Tue Jul 17 17:33:02 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Tue Jul 17 17:35:55 SAST 2018
+videos-for-your-business.com                                                                         ACTIVE      403        Tue Jul 17 17:36:44 SAST 2018
+vip.51.la                                                                                            ACTIVE      400        Tue Jul 17 17:37:23 SAST 2018
+vizitki.net                                                                                          ACTIVE      403        Tue Jul 17 17:38:13 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Tue Jul 17 17:41:06 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Tue Jul 17 17:41:49 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Tue Jul 17 17:41:51 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Tue Jul 17 17:42:59 SAST 2018
+wetgames.ru                                                                                          ACTIVE      403        Tue Jul 17 17:43:24 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Tue Jul 17 17:43:30 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Tue Jul 17 17:43:33 SAST 2018
