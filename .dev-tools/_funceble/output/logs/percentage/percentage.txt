@@ -1,9 +1,9 @@
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Tue Jul 17 13:46:06 SAST 2018
+# Date of generation: Tue Jul 17 13:57:25 SAST 2018
 
 
 Status      Percentage   Numbers     
 ----------- ------------ -------------
-ACTIVE      88%          1746        
-INACTIVE    11%          237         
+ACTIVE      88%          2020        
+INACTIVE    11%          264         
 INVALID     0%           0           
