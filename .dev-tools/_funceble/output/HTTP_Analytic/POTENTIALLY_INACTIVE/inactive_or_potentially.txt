@@ -395,3 +395,15 @@ website-analyzer.info                                                           
 wesharepics.info                                                                                     ACTIVE      403        Tue Jul 17 10:04:29 SAST 2018
 whatsupinfoley.com                                                                                   ACTIVE      403        Tue Jul 17 10:04:59 SAST 2018
 whatzmyip.net                                                                                        ACTIVE      403        Tue Jul 17 10:05:01 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Tue Jul 17 10:08:04 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Tue Jul 17 10:09:09 SAST 2018
+xcc24.pl                                                                                             ACTIVE      403        Tue Jul 17 10:10:09 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Tue Jul 17 10:10:11 SAST 2018
+xev.ru                                                                                               ACTIVE      403        Tue Jul 17 10:10:33 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Tue Jul 17 10:10:36 SAST 2018
+xrus.org                                                                                             ACTIVE      403        Tue Jul 17 10:14:59 SAST 2018
+xxart.ru                                                                                             ACTIVE      403        Tue Jul 17 10:15:24 SAST 2018
+xxlargepop.com                                                                                       ACTIVE      404        Tue Jul 17 10:15:25 SAST 2018
+xxxkaz.org                                                                                           ACTIVE      403        Tue Jul 17 10:15:35 SAST 2018
+yatrk.xyz                                                                                            ACTIVE      404        Tue Jul 17 10:16:10 SAST 2018
+yellocloud.be                                                                                        ACTIVE      403        Tue Jul 17 10:16:18 SAST 2018
