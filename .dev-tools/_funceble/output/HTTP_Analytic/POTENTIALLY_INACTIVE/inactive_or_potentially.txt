@@ -97,3 +97,11 @@ cdncash.com                                                                     
 cdncash.net                                                                                          ACTIVE      403        Thu Jul 19 16:19:41 SAST 2018
 cdncash.org                                                                                          ACTIVE      403        Thu Jul 19 16:19:44 SAST 2018
 cdnnetwok.xyz                                                                                        ACTIVE      403        Thu Jul 19 16:19:48 SAST 2018
+cercacamion.it                                                                                       ACTIVE      403        Thu Jul 19 16:22:38 SAST 2018
+checkhit.com                                                                                         ACTIVE      403        Thu Jul 19 16:23:57 SAST 2018
+children-learningreading.info                                                                        ACTIVE      404        Thu Jul 19 16:24:18 SAST 2018
+chinajerseyswholesalecoupons.com                                                                     ACTIVE      403        Thu Jul 19 16:24:23 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Thu Jul 19 16:26:37 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Thu Jul 19 16:28:11 SAST 2018
+compiko.info                                                                                         ACTIVE      403        Thu Jul 19 16:28:36 SAST 2018
+connectionstrenth.com                                                                                ACTIVE      403        Thu Jul 19 16:32:23 SAST 2018
