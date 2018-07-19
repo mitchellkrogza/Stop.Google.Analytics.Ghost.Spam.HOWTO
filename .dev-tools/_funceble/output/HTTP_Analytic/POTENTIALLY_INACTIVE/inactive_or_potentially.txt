@@ -187,3 +187,13 @@ healthcarestore.info                                                            
 health-medical-portal.info                                                                           ACTIVE      404        Thu Jul 19 17:21:32 SAST 2018
 highstairs-a.akamaihd.net                                                                            ACTIVE      403        Thu Jul 19 17:22:50 SAST 2018
 hkdiiohi.skyrock.com                                                                                 ACTIVE      404        Thu Jul 19 17:23:11 SAST 2018
+hoverboard360.se                                                                                     ACTIVE      404        Thu Jul 19 17:27:29 SAST 2018
+huhn.altervista.org                                                                                  ACTIVE      404        Thu Jul 19 17:27:56 SAST 2018
+hully.altervista.org                                                                                 ACTIVE      403        Thu Jul 19 17:28:00 SAST 2018
+i4track.net                                                                                          ACTIVE      404        Thu Jul 19 17:28:34 SAST 2018
+ideibiznesa2015.ru                                                                                   ACTIVE      403        Thu Jul 19 17:29:06 SAST 2018
+imk.com.ua                                                                                           ACTIVE      410        Thu Jul 19 17:30:43 SAST 2018
+impisr.ru                                                                                            ACTIVE      403        Thu Jul 19 17:30:57 SAST 2018
+inboundlinks.win                                                                                     ACTIVE      403        Thu Jul 19 17:31:07 SAST 2018
+incolors.club                                                                                        ACTIVE      403        Thu Jul 19 17:31:11 SAST 2018
+javrip.net                                                                                           ACTIVE      404        Thu Jul 19 17:35:44 SAST 2018
