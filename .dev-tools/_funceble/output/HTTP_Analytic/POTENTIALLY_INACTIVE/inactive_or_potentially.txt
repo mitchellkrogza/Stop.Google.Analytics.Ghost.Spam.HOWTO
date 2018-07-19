@@ -405,3 +405,17 @@ wesharepics.info                                                                
 wetgames.ru                                                                                          ACTIVE      403        Thu Jul 19 19:54:36 SAST 2018
 whatsupinfoley.com                                                                                   ACTIVE      403        Thu Jul 19 19:54:42 SAST 2018
 whatzmyip.net                                                                                        ACTIVE      403        Thu Jul 19 19:54:44 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Thu Jul 19 19:58:24 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Thu Jul 19 19:59:21 SAST 2018
+xcc24.pl                                                                                             ACTIVE      403        Thu Jul 19 20:00:13 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Thu Jul 19 20:00:15 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Thu Jul 19 20:00:40 SAST 2018
+xrus.org                                                                                             ACTIVE      403        Thu Jul 19 20:04:35 SAST 2018
+xxart.ru                                                                                             ACTIVE      403        Thu Jul 19 20:04:59 SAST 2018
+xxlargepop.com                                                                                       ACTIVE      404        Thu Jul 19 20:04:59 SAST 2018
+xxxkaz.org                                                                                           ACTIVE      403        Thu Jul 19 20:05:08 SAST 2018
+yatrk.xyz                                                                                            ACTIVE      404        Thu Jul 19 20:05:39 SAST 2018
+yellocloud.be                                                                                        ACTIVE      403        Thu Jul 19 20:05:46 SAST 2018
+youradexchange.com                                                                                   ACTIVE      403        Thu Jul 19 20:06:27 SAST 2018
+yuarra.pluto.ro                                                                                      ACTIVE      403        Thu Jul 19 20:07:10 SAST 2018
+yunque.pluto.ro                                                                                      ACTIVE      403        Thu Jul 19 20:07:22 SAST 2018
