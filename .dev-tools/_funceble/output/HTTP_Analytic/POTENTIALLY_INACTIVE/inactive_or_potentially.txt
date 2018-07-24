@@ -184,3 +184,17 @@ hitcpm.com                                                                      
 hkdiiohi.skyrock.com                                                                                 ACTIVE      404        Tue Jul 24 11:09:17 SAST 2018
 homedecoguide.info                                                                                   ACTIVE      403        Tue Jul 24 11:09:42 SAST 2018
 hoverboard360.se                                                                                     ACTIVE      404        Tue Jul 24 11:11:17 SAST 2018
+huhn.altervista.org                                                                                  ACTIVE      404        Tue Jul 24 11:15:05 SAST 2018
+hully.altervista.org                                                                                 ACTIVE      403        Tue Jul 24 11:15:09 SAST 2018
+i4track.net                                                                                          ACTIVE      404        Tue Jul 24 11:15:42 SAST 2018
+ideibiznesa2015.ru                                                                                   ACTIVE      403        Tue Jul 24 11:16:13 SAST 2018
+imk.com.ua                                                                                           ACTIVE      410        Tue Jul 24 11:17:44 SAST 2018
+inboundlinks.win                                                                                     ACTIVE      403        Tue Jul 24 11:18:07 SAST 2018
+incolors.club                                                                                        ACTIVE      403        Tue Jul 24 11:18:11 SAST 2018
+javrip.net                                                                                           ACTIVE      404        Tue Jul 24 11:22:44 SAST 2018
+jetsli.de                                                                                            ACTIVE      403        Tue Jul 24 11:23:16 SAST 2018
+jobmarket.com.ua                                                                                     ACTIVE      410        Tue Jul 24 11:23:35 SAST 2018
+jolic2.com                                                                                           ACTIVE      403        Tue Jul 24 11:23:45 SAST 2018
+junglenet-a.akamaihd.net                                                                             ACTIVE      403        Tue Jul 24 11:24:06 SAST 2018
+jurajskie.info                                                                                       ACTIVE      403        Tue Jul 24 11:24:07 SAST 2018
+kalb.ru                                                                                              ACTIVE      403        Tue Jul 24 11:24:40 SAST 2018
