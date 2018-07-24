@@ -397,3 +397,13 @@ vacances-voyages.info                                                           
 validdomain.xyz                                                                                      ACTIVE      403        Tue Jul 24 13:21:35 SAST 2018
 viagroid.ru                                                                                          ACTIVE      403        Tue Jul 24 13:23:14 SAST 2018
 videos-for-your-business.com                                                                         ACTIVE      403        Tue Jul 24 13:24:03 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Tue Jul 24 13:29:43 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Tue Jul 24 13:30:26 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Tue Jul 24 13:30:28 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Tue Jul 24 13:31:36 SAST 2018
+wetgames.ru                                                                                          ACTIVE      403        Tue Jul 24 13:32:00 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Tue Jul 24 13:32:05 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Tue Jul 24 13:32:07 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Tue Jul 24 13:33:53 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Tue Jul 24 13:34:54 SAST 2018
+xcc24.pl                                                                                             ACTIVE      403        Tue Jul 24 13:35:46 SAST 2018
