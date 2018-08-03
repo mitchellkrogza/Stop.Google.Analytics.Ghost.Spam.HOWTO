@@ -408,3 +408,16 @@ wetgames.ru                                                                     
 whatsupinfoley.com                                                                                   ACTIVE      403        Fri Aug  3 19:12:54 SAST 2018
 whatzmyip.net                                                                                        ACTIVE      403        Fri Aug  3 19:12:56 SAST 2018
 wordkeyhelper.com                                                                                    ACTIVE      403        Fri Aug  3 19:14:43 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Fri Aug  3 19:17:09 SAST 2018
+xcc24.pl                                                                                             ACTIVE      403        Fri Aug  3 19:18:01 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Fri Aug  3 19:18:03 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Fri Aug  3 19:18:26 SAST 2018
+xrus.org                                                                                             ACTIVE      403        Fri Aug  3 19:22:29 SAST 2018
+xxlargepop.com                                                                                       ACTIVE      404        Fri Aug  3 19:22:53 SAST 2018
+xxxkaz.org                                                                                           ACTIVE      403        Fri Aug  3 19:23:03 SAST 2018
+yatrk.xyz                                                                                            ACTIVE      404        Fri Aug  3 19:23:35 SAST 2018
+yellocloud.be                                                                                        ACTIVE      403        Fri Aug  3 19:23:42 SAST 2018
+youradexchange.com                                                                                   ACTIVE      403        Fri Aug  3 19:24:24 SAST 2018
+youtube-downloader.savetubevideo.com                                                                 ACTIVE      404        Fri Aug  3 19:24:58 SAST 2018
+yuarra.pluto.ro                                                                                      ACTIVE      403        Fri Aug  3 19:25:08 SAST 2018
+zaidia.xhost.ro                                                                                      ACTIVE      403        Fri Aug  3 19:25:41 SAST 2018
