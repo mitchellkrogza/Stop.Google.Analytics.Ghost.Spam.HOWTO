@@ -396,3 +396,15 @@ urll.eu                                                                         
 uroffer.link                                                                                         ACTIVE      403        Fri Aug  3 19:00:38 SAST 2018
 vacances-voyages.info                                                                                ACTIVE      404        Fri Aug  3 19:01:22 SAST 2018
 validdomain.xyz                                                                                      ACTIVE      403        Fri Aug  3 19:01:32 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Fri Aug  3 19:05:19 SAST 2018
+videochat.life                                                                                       ACTIVE      404        Fri Aug  3 19:05:32 SAST 2018
+videochat.mx                                                                                         ACTIVE      404        Fri Aug  3 19:05:37 SAST 2018
+videos-for-your-business.com                                                                         ACTIVE      403        Fri Aug  3 19:06:05 SAST 2018
+vizitki.net                                                                                          ACTIVE      403        Fri Aug  3 19:07:36 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Fri Aug  3 19:10:34 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Fri Aug  3 19:11:18 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Fri Aug  3 19:11:20 SAST 2018
+wetgames.ru                                                                                          ACTIVE      403        Fri Aug  3 19:12:50 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Fri Aug  3 19:12:54 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Fri Aug  3 19:12:56 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Fri Aug  3 19:14:43 SAST 2018
