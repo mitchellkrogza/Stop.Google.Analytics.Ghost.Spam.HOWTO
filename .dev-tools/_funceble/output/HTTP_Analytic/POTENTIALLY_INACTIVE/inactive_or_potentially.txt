@@ -59,3 +59,17 @@ astrochicks.com                                                                 
 atovh.local-finders.com                                                                              ACTIVE      403        Mon Aug  6 10:04:50 SAST 2018
 auspolice.com                                                                                        ACTIVE      403        Mon Aug  6 10:05:00 SAST 2018
 avirasecureserver.com                                                                                ACTIVE      403        Mon Aug  6 10:06:14 SAST 2018
+ayerbo.xhost.ro                                                                                      ACTIVE      403        Mon Aug  6 10:08:13 SAST 2018
+babespcs.com                                                                                         ACTIVE      403        Mon Aug  6 10:08:39 SAST 2018
+bala.getenjoyment.net                                                                                ACTIVE      403        Mon Aug  6 10:09:20 SAST 2018
+balans.shahterworld.org                                                                              ACTIVE      404        Mon Aug  6 10:09:22 SAST 2018
+beachpics.com                                                                                        ACTIVE      404        Mon Aug  6 10:11:04 SAST 2018
+beauty-things.com                                                                                    ACTIVE      403        Mon Aug  6 10:11:23 SAST 2018
+belstaffstore.online                                                                                 ACTIVE      410        Mon Aug  6 10:11:46 SAST 2018
+bestofpicture.com                                                                                    ACTIVE      403        Mon Aug  6 10:12:38 SAST 2018
+betterscooter.com                                                                                    ACTIVE      404        Mon Aug  6 10:13:13 SAST 2018
+bigpictures.club                                                                                     ACTIVE      403        Mon Aug  6 10:13:56 SAST 2018
+blackhatworth.com                                                                                    ACTIVE      404        Mon Aug  6 10:15:31 SAST 2018
+blobar.org                                                                                           ACTIVE      403        Mon Aug  6 10:15:43 SAST 2018
+blog.f00kclan.de                                                                                     ACTIVE      403        Mon Aug  6 10:15:51 SAST 2018
+boole.onlinewebshop.net                                                                              ACTIVE      403        Mon Aug  6 10:17:34 SAST 2018
