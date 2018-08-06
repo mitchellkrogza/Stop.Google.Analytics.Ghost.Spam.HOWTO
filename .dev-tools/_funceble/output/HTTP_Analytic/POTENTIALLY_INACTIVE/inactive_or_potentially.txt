@@ -448,3 +448,10 @@ urll.eu                                                                         
 uroffer.link                                                                                         ACTIVE      403        Mon Aug  6 13:59:03 SAST 2018
 vacances-voyages.info                                                                                ACTIVE      404        Mon Aug  6 13:59:49 SAST 2018
 validdomain.xyz                                                                                      ACTIVE      403        Mon Aug  6 13:59:59 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Mon Aug  6 14:02:57 SAST 2018
+videos-for-your-business.com                                                                         ACTIVE      403        Mon Aug  6 14:03:43 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Mon Aug  6 14:08:21 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Mon Aug  6 14:09:09 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Mon Aug  6 14:09:11 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Mon Aug  6 14:10:51 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Mon Aug  6 14:10:53 SAST 2018
