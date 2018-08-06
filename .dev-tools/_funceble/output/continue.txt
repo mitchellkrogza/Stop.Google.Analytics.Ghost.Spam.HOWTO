@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list fodelsedagspresenter.nu 2056 1799 257 0
+/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list google-liar.ru 2350 2056 294 0
