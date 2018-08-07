@@ -401,3 +401,15 @@ wetgames.ru                                                                     
 whatsupinfoley.com                                                                                   ACTIVE      403        Tue Aug  7 14:44:32 SAST 2018
 whatzmyip.net                                                                                        ACTIVE      403        Tue Aug  7 14:44:34 SAST 2018
 wordkeyhelper.com                                                                                    ACTIVE      403        Tue Aug  7 14:46:19 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Tue Aug  7 14:50:20 SAST 2018
+xcc24.pl                                                                                             ACTIVE      403        Tue Aug  7 14:51:12 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Tue Aug  7 14:51:13 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Tue Aug  7 14:51:35 SAST 2018
+xn--c1acygb.xn--p1ai                                                                                 ACTIVE      404        Tue Aug  7 14:54:23 SAST 2018
+xrus.org                                                                                             ACTIVE      403        Tue Aug  7 14:55:32 SAST 2018
+xxlargepop.com                                                                                       ACTIVE      404        Tue Aug  7 14:55:56 SAST 2018
+xxxkaz.org                                                                                           ACTIVE      403        Tue Aug  7 14:56:05 SAST 2018
+yatrk.xyz                                                                                            ACTIVE      404        Tue Aug  7 14:56:35 SAST 2018
+yellocloud.be                                                                                        ACTIVE      403        Tue Aug  7 14:56:42 SAST 2018
+youradexchange.com                                                                                   ACTIVE      403        Tue Aug  7 14:57:18 SAST 2018
+yunque.pluto.ro                                                                                      ACTIVE      403        Tue Aug  7 14:58:12 SAST 2018
