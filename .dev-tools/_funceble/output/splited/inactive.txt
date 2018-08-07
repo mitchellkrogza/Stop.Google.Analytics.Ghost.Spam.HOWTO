@@ -709,3 +709,13 @@ yourserverisdown.com                                                            
 zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 14:59:14 SAST 2018
 zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 14:59:23 SAST 2018
 zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 14:59:26 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Tue Aug  7 15:01:47 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 15:02:04 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 15:02:16 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 15:02:32 SAST 2018
+zone-kev717.info                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 15:02:45 SAST 2018
+zoolubimets.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 15:02:54 SAST 2018
+zrizvtrnpale.tk                                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 15:03:11 SAST 2018
+zs2vm.top                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 15:03:18 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 15:03:31 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Tue Aug  7 15:03:38 SAST 2018
