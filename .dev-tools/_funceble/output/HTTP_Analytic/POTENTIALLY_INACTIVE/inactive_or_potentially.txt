@@ -391,3 +391,13 @@ urldelivery.com                                                                 
 uroffer.link                                                                                         ACTIVE      403        Tue Aug  7 14:33:12 SAST 2018
 vacances-voyages.info                                                                                ACTIVE      404        Tue Aug  7 14:33:55 SAST 2018
 validdomain.xyz                                                                                      ACTIVE      403        Tue Aug  7 14:34:05 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Tue Aug  7 14:37:06 SAST 2018
+videos-for-your-business.com                                                                         ACTIVE      403        Tue Aug  7 14:37:50 SAST 2018
+vizitki.net                                                                                          ACTIVE      403        Tue Aug  7 14:39:19 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Tue Aug  7 14:42:16 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Tue Aug  7 14:42:58 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Tue Aug  7 14:42:59 SAST 2018
+wetgames.ru                                                                                          ACTIVE      403        Tue Aug  7 14:44:28 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Tue Aug  7 14:44:32 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Tue Aug  7 14:44:34 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Tue Aug  7 14:46:19 SAST 2018
