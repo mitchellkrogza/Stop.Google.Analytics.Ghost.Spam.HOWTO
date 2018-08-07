@@ -190,3 +190,14 @@ highstairs-a.akamaihd.net                                                       
 hitcpm.com                                                                                           ACTIVE      403        Tue Aug  7 12:26:21 SAST 2018
 hkdiiohi.skyrock.com                                                                                 ACTIVE      404        Tue Aug  7 12:26:29 SAST 2018
 hoverboard360.se                                                                                     ACTIVE      404        Tue Aug  7 12:28:26 SAST 2018
+huhn.altervista.org                                                                                  ACTIVE      404        Tue Aug  7 12:30:04 SAST 2018
+hully.altervista.org                                                                                 ACTIVE      403        Tue Aug  7 12:30:08 SAST 2018
+i4track.net                                                                                          ACTIVE      404        Tue Aug  7 12:30:38 SAST 2018
+ideibiznesa2015.ru                                                                                   ACTIVE      403        Tue Aug  7 12:31:08 SAST 2018
+imk.com.ua                                                                                           ACTIVE      410        Tue Aug  7 12:32:32 SAST 2018
+inboundlinks.win                                                                                     ACTIVE      403        Tue Aug  7 12:32:56 SAST 2018
+incolors.club                                                                                        ACTIVE      403        Tue Aug  7 12:32:59 SAST 2018
+javrip.net                                                                                           ACTIVE      404        Tue Aug  7 12:38:20 SAST 2018
+jetsli.de                                                                                            ACTIVE      403        Tue Aug  7 12:38:59 SAST 2018
+jobmarket.com.ua                                                                                     ACTIVE      410        Tue Aug  7 12:39:22 SAST 2018
+jolic2.com                                                                                           ACTIVE      403        Tue Aug  7 12:39:36 SAST 2018
