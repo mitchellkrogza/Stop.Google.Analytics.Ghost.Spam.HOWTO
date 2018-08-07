@@ -379,3 +379,15 @@ teguh.info                                                                      
 terraclicks.com                                                                                      ACTIVE      403        Tue Aug  7 14:20:59 SAST 2018
 thecoolimages.net                                                                                    ACTIVE      403        Tue Aug  7 14:21:25 SAST 2018
 thenews-today.info                                                                                   ACTIVE      404        Tue Aug  7 14:21:49 SAST 2018
+topmira.com                                                                                          ACTIVE      403        Tue Aug  7 14:26:08 SAST 2018
+totu.info                                                                                            ACTIVE      404        Tue Aug  7 14:26:33 SAST 2018
+tracksz.co                                                                                           ACTIVE      403        Tue Aug  7 14:27:14 SAST 2018
+trafficreceiver.club                                                                                 ACTIVE      403        Tue Aug  7 14:27:41 SAST 2018
+ttsq.fr                                                                                              ACTIVE      403        Tue Aug  7 14:28:52 SAST 2018
+uhdtv.website                                                                                        ACTIVE      403        Tue Aug  7 14:31:21 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Tue Aug  7 14:31:45 SAST 2018
+upstore.me                                                                                           ACTIVE      403        Tue Aug  7 14:32:35 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Tue Aug  7 14:33:05 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Tue Aug  7 14:33:12 SAST 2018
+vacances-voyages.info                                                                                ACTIVE      404        Tue Aug  7 14:33:55 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Tue Aug  7 14:34:05 SAST 2018
