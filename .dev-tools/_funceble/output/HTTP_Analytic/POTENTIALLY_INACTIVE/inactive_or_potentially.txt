@@ -376,3 +376,15 @@ sureone.pro                                                                     
 svetlotorg.ru                                                                                        ACTIVE      403        Thu Aug  9 18:18:02 SAST 2018
 takethatad.com                                                                                       ACTIVE      403        Thu Aug  9 18:19:08 SAST 2018
 teguh.info                                                                                           ACTIVE      404        Thu Aug  9 18:20:21 SAST 2018
+terraclicks.com                                                                                      ACTIVE      403        Thu Aug  9 18:23:07 SAST 2018
+thecoolimages.net                                                                                    ACTIVE      403        Thu Aug  9 18:23:33 SAST 2018
+thenews-today.info                                                                                   ACTIVE      404        Thu Aug  9 18:23:57 SAST 2018
+topmira.com                                                                                          ACTIVE      403        Thu Aug  9 18:26:44 SAST 2018
+totu.info                                                                                            ACTIVE      404        Thu Aug  9 18:27:12 SAST 2018
+tracksz.co                                                                                           ACTIVE      403        Thu Aug  9 18:27:54 SAST 2018
+trafficreceiver.club                                                                                 ACTIVE      403        Thu Aug  9 18:28:23 SAST 2018
+treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Thu Aug  9 18:28:50 SAST 2018
+ttsq.fr                                                                                              ACTIVE      403        Thu Aug  9 18:29:36 SAST 2018
+tvnewsclips.info                                                                                     ACTIVE      403        Thu Aug  9 18:30:29 SAST 2018
+uhdtv.website                                                                                        ACTIVE      403        Thu Aug  9 18:32:07 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Thu Aug  9 18:32:31 SAST 2018
