@@ -91,3 +91,14 @@ cdncash.net                                                                     
 cdncash.org                                                                                          ACTIVE      403        Thu Aug  9 15:39:40 SAST 2018
 cdnnetwok.xyz                                                                                        ACTIVE      403        Thu Aug  9 15:39:44 SAST 2018
 cercacamion.it                                                                                       ACTIVE      403        Thu Aug  9 15:40:18 SAST 2018
+checkhit.com                                                                                         ACTIVE      403        Thu Aug  9 15:42:51 SAST 2018
+children-learningreading.info                                                                        ACTIVE      404        Thu Aug  9 15:43:13 SAST 2018
+chinajerseyswholesalecoupons.com                                                                     ACTIVE      403        Thu Aug  9 15:43:18 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Thu Aug  9 15:45:20 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Thu Aug  9 15:46:32 SAST 2018
+compiko.info                                                                                         ACTIVE      403        Thu Aug  9 15:46:53 SAST 2018
+connectionstrenth.com                                                                                ACTIVE      403        Thu Aug  9 15:49:27 SAST 2018
+cs-passion.pl                                                                                        ACTIVE      404        Thu Aug  9 15:52:21 SAST 2018
+customcatchcan.com                                                                                   ACTIVE      403        Thu Aug  9 15:52:36 SAST 2018
+customcollegeessays.net                                                                              ACTIVE      404        Thu Aug  9 15:52:39 SAST 2018
+customerpromos-a.akamaihd.net                                                                        ACTIVE      403        Thu Aug  9 15:52:46 SAST 2018
