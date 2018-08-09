@@ -208,3 +208,16 @@ kicknights.gq                                                                   
 kidd.reunionwatch.com                                                                                ACTIVE      404        Thu Aug  9 16:47:52 SAST 2018
 kinoflux.net                                                                                         ACTIVE      403        Thu Aug  9 16:48:21 SAST 2018
 kinotorka.ru                                                                                         ACTIVE      403        Thu Aug  9 16:48:56 SAST 2018
+kongruan.com                                                                                         ACTIVE      400        Thu Aug  9 16:51:24 SAST 2018
+kopihijau.info                                                                                       ACTIVE      403        Thu Aug  9 16:51:40 SAST 2018
+koronirealestate.gr                                                                                  ACTIVE      403        Thu Aug  9 16:51:48 SAST 2018
+kurbappeal.info                                                                                      ACTIVE      404        Thu Aug  9 16:52:55 SAST 2018
+lacloop.info                                                                                         ACTIVE      400        Thu Aug  9 16:53:38 SAST 2018
+lancheck.net                                                                                         ACTIVE      403        Thu Aug  9 16:54:03 SAST 2018
+larose.jb2c.me                                                                                       ACTIVE      404        Thu Aug  9 16:54:28 SAST 2018
+lenvred.org                                                                                          ACTIVE      403        Thu Aug  9 16:55:41 SAST 2018
+lisque.batcave.net                                                                                   ACTIVE      403        Thu Aug  9 16:57:41 SAST 2018
+livingroomdecor.info                                                                                 ACTIVE      403        Thu Aug  9 16:58:21 SAST 2018
+lovi-moment.com.ua                                                                                   ACTIVE      410        Thu Aug  9 16:59:51 SAST 2018
+lsex.xyz                                                                                             ACTIVE      403        Thu Aug  9 17:00:00 SAST 2018
+m292.info                                                                                            ACTIVE      403        Thu Aug  9 17:00:37 SAST 2018
