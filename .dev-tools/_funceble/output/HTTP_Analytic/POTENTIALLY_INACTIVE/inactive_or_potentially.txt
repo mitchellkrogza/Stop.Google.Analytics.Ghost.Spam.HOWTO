@@ -388,3 +388,15 @@ ttsq.fr                                                                         
 tvnewsclips.info                                                                                     ACTIVE      403        Thu Aug  9 18:30:29 SAST 2018
 uhdtv.website                                                                                        ACTIVE      403        Thu Aug  9 18:32:07 SAST 2018
 umekana.ru                                                                                           ACTIVE      404        Thu Aug  9 18:32:31 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Thu Aug  9 18:34:44 SAST 2018
+upstore.me                                                                                           ACTIVE      403        Thu Aug  9 18:34:54 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Thu Aug  9 18:35:22 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Thu Aug  9 18:35:26 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Thu Aug  9 18:35:30 SAST 2018
+vacances-voyages.info                                                                                ACTIVE      404        Thu Aug  9 18:36:12 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Thu Aug  9 18:36:21 SAST 2018
+videos-for-your-business.com                                                                         ACTIVE      403        Thu Aug  9 18:38:36 SAST 2018
+vip.51.la                                                                                            ACTIVE      400        Thu Aug  9 18:39:15 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Thu Aug  9 18:42:55 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Thu Aug  9 18:43:39 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Thu Aug  9 18:43:41 SAST 2018
