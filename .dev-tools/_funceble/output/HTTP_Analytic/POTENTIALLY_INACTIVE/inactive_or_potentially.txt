@@ -158,3 +158,11 @@ ezigarettenshop2.postbit.com                                                    
 f00kclan.de                                                                                          ACTIVE      403        Mon Aug 13 09:55:39 SAST 2018
 f5mtrack.com                                                                                         ACTIVE      400        Mon Aug 13 09:55:47 SAST 2018
 fanrto.com                                                                                           ACTIVE      404        Mon Aug 13 09:56:30 SAST 2018
+fenoyl.batcave.net                                                                                   ACTIVE      403        Mon Aug 13 10:06:23 SAST 2018
+filefilter.weebly.com                                                                                ACTIVE      404        Mon Aug 13 10:07:15 SAST 2018
+filerockstar298.weebly.com                                                                           ACTIVE      404        Mon Aug 13 10:07:17 SAST 2018
+findsexguide.com                                                                                     ACTIVE      403        Mon Aug 13 10:08:21 SAST 2018
+fix-website-errors.com                                                                               ACTIVE      403        Mon Aug 13 10:09:27 SAST 2018
+foto-basa.com                                                                                        ACTIVE      403        Mon Aug 13 10:12:31 SAST 2018
+front.to                                                                                             ACTIVE      403        Mon Aug 13 10:15:23 SAST 2018
+frustrated-favorable.gq                                                                              ACTIVE      403        Mon Aug 13 10:15:27 SAST 2018
