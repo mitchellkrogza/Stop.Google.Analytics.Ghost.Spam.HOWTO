@@ -405,3 +405,13 @@ trafficreceiver.club                                                            
 treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Mon Aug 13 16:10:33 SAST 2018
 ttsq.fr                                                                                              ACTIVE      403        Mon Aug 13 16:11:22 SAST 2018
 turist-strani.ru                                                                                     ACTIVE      403        Mon Aug 13 16:11:58 SAST 2018
+uhdtv.website                                                                                        ACTIVE      403        Mon Aug 13 16:15:26 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Mon Aug 13 16:15:51 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Mon Aug 13 16:16:31 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Mon Aug 13 16:17:17 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Mon Aug 13 16:17:21 SAST 2018
+vacances-voyages.info                                                                                ACTIVE      404        Mon Aug 13 16:18:05 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Mon Aug 13 16:18:15 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Mon Aug 13 16:20:04 SAST 2018
+videos-for-your-business.com                                                                         ACTIVE      403        Mon Aug 13 16:20:49 SAST 2018
+vizitki.net                                                                                          ACTIVE      403        Mon Aug 13 16:22:26 SAST 2018
