@@ -5,17 +5,17 @@
 **How to stop Google Analytics "Ghost" Spam using a well curated list of spam referrer domains and web sites. Simple and easy to use with visual instructions for creating Segments in Google Analytics using my google-exclude files.**
 
 _______________
-#### Version: V1.2018.1102
-#### Bad Referrer Count: 6320
+#### Version: V1.2018.1126
+#### Bad Referrer Count: 6322
 ```
 # File generated with https://github.com/funilrys/funceble
-# Date of generation: Thu Aug  9 20:05:44 SAST 2018
+# Date of generation: Mon Aug 13 16:36:16 SAST 2018
 
 
 Status      Percentage   Numbers     
 ----------- ------------ -------------
-ACTIVE      88%          5615        
-INACTIVE    11%          706         
+ACTIVE      88%          5838        
+INACTIVE    11%          738         
 INVALID     0%           0           
 ```
 ____________________
