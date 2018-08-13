@@ -415,3 +415,15 @@ validdomain.xyz                                                                 
 viagroid.ru                                                                                          ACTIVE      403        Mon Aug 13 16:20:04 SAST 2018
 videos-for-your-business.com                                                                         ACTIVE      403        Mon Aug 13 16:20:49 SAST 2018
 vizitki.net                                                                                          ACTIVE      403        Mon Aug 13 16:22:26 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Mon Aug 13 16:26:35 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Mon Aug 13 16:27:17 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Mon Aug 13 16:27:19 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Mon Aug 13 16:28:23 SAST 2018
+wetgames.ru                                                                                          ACTIVE      403        Mon Aug 13 16:28:44 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Mon Aug 13 16:28:49 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Mon Aug 13 16:28:51 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Mon Aug 13 16:30:35 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Mon Aug 13 16:31:32 SAST 2018
+xcc24.pl                                                                                             ACTIVE      403        Mon Aug 13 16:32:25 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Mon Aug 13 16:32:26 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Mon Aug 13 16:32:50 SAST 2018
