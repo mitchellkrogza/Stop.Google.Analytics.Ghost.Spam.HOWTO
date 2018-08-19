@@ -399,3 +399,14 @@ tour-line.net                                                                   
 trafficreceiver.club                                                                                 ACTIVE      403        Sun Aug 19 14:58:26 SAST 2018
 treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Sun Aug 19 14:58:53 SAST 2018
 ttsq.fr                                                                                              ACTIVE      403        Sun Aug 19 14:59:37 SAST 2018
+turist-strani.ru                                                                                     ACTIVE      403        Sun Aug 19 15:01:21 SAST 2018
+tvnewsclips.info                                                                                     ACTIVE      403        Sun Aug 19 15:01:40 SAST 2018
+uhdtv.website                                                                                        ACTIVE      403        Sun Aug 19 15:03:09 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Sun Aug 19 15:03:33 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Sun Aug 19 15:04:09 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Sun Aug 19 15:04:48 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Sun Aug 19 15:04:51 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Sun Aug 19 15:04:55 SAST 2018
+vacances-voyages.info                                                                                ACTIVE      404        Sun Aug 19 15:05:36 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Sun Aug 19 15:05:46 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Sun Aug 19 15:07:24 SAST 2018
