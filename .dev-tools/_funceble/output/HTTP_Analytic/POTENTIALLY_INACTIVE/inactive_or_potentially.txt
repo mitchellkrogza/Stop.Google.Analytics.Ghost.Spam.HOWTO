@@ -385,3 +385,17 @@ strongsignal-a.akamaihd.net                                                     
 students-cheapskate.ml                                                                               ACTIVE      403        Sun Aug 19 14:47:40 SAST 2018
 superkanpo.com                                                                                       ACTIVE      403        Sun Aug 19 14:48:16 SAST 2018
 sureone.pro                                                                                          ACTIVE      403        Sun Aug 19 14:48:47 SAST 2018
+svetlotorg.ru                                                                                        ACTIVE      403        Sun Aug 19 14:50:17 SAST 2018
+tabletkinaodchudzanie.com.pl                                                                         ACTIVE      403        Sun Aug 19 14:51:06 SAST 2018
+takethatad.com                                                                                       ACTIVE      403        Sun Aug 19 14:51:18 SAST 2018
+tattoo33.ru                                                                                          ACTIVE      403        Sun Aug 19 14:51:44 SAST 2018
+teguh.info                                                                                           ACTIVE      404        Sun Aug 19 14:52:27 SAST 2018
+terraclicks.com                                                                                      ACTIVE      403        Sun Aug 19 14:53:00 SAST 2018
+thecoolimages.net                                                                                    ACTIVE      403        Sun Aug 19 14:53:26 SAST 2018
+thenews-today.info                                                                                   ACTIVE      404        Sun Aug 19 14:53:49 SAST 2018
+topmira.com                                                                                          ACTIVE      403        Sun Aug 19 14:56:48 SAST 2018
+totu.info                                                                                            ACTIVE      404        Sun Aug 19 14:57:15 SAST 2018
+tour-line.net                                                                                        ACTIVE      403        Sun Aug 19 14:57:26 SAST 2018
+trafficreceiver.club                                                                                 ACTIVE      403        Sun Aug 19 14:58:26 SAST 2018
+treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Sun Aug 19 14:58:53 SAST 2018
+ttsq.fr                                                                                              ACTIVE      403        Sun Aug 19 14:59:37 SAST 2018
