@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list bpro1.top 893 791 102 0
+/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list chocolateslim-u-srbiji.com 1175 1040 135 0
