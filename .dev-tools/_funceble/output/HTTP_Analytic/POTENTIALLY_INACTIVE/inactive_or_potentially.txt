@@ -100,3 +100,11 @@ cercacamion.it                                                                  
 checkhit.com                                                                                         ACTIVE      403        Sun Aug 19 12:11:03 SAST 2018
 children-learningreading.info                                                                        ACTIVE      404        Sun Aug 19 12:11:25 SAST 2018
 chinajerseyswholesalecoupons.com                                                                     ACTIVE      403        Sun Aug 19 12:11:30 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Sun Aug 19 12:14:38 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Sun Aug 19 12:15:55 SAST 2018
+compiko.info                                                                                         ACTIVE      403        Sun Aug 19 12:16:15 SAST 2018
+connectionstrenth.com                                                                                ACTIVE      403        Sun Aug 19 12:18:47 SAST 2018
+cs-passion.pl                                                                                        ACTIVE      404        Sun Aug 19 12:21:37 SAST 2018
+customcatchcan.com                                                                                   ACTIVE      403        Sun Aug 19 12:21:51 SAST 2018
+customerpromos-a.akamaihd.net                                                                        ACTIVE      403        Sun Aug 19 12:22:02 SAST 2018
+czeshop.info                                                                                         ACTIVE      403        Sun Aug 19 12:22:27 SAST 2018
