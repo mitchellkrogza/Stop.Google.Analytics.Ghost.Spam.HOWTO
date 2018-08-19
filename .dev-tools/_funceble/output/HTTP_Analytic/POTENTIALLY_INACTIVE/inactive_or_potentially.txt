@@ -200,3 +200,17 @@ huhn.altervista.org                                                             
 hully.altervista.org                                                                                 ACTIVE      403        Sun Aug 19 13:05:57 SAST 2018
 i4track.net                                                                                          ACTIVE      404        Sun Aug 19 13:06:30 SAST 2018
 ibb.com.ua                                                                                           ACTIVE      403        Sun Aug 19 13:06:36 SAST 2018
+imk.com.ua                                                                                           ACTIVE      410        Sun Aug 19 13:09:31 SAST 2018
+impisr.ru                                                                                            ACTIVE      403        Sun Aug 19 13:09:44 SAST 2018
+inboundlinks.win                                                                                     ACTIVE      403        Sun Aug 19 13:09:54 SAST 2018
+incolors.club                                                                                        ACTIVE      403        Sun Aug 19 13:09:58 SAST 2018
+indetiske.ya.ru                                                                                      ACTIVE      404        Sun Aug 19 13:10:04 SAST 2018
+javrip.net                                                                                           ACTIVE      404        Sun Aug 19 13:14:53 SAST 2018
+jetsli.de                                                                                            ACTIVE      403        Sun Aug 19 13:15:35 SAST 2018
+jobmarket.com.ua                                                                                     ACTIVE      410        Sun Aug 19 13:15:59 SAST 2018
+jolic2.com                                                                                           ACTIVE      403        Sun Aug 19 13:16:14 SAST 2018
+junglenet-a.akamaihd.net                                                                             ACTIVE      403        Sun Aug 19 13:16:39 SAST 2018
+jurajskie.info                                                                                       ACTIVE      403        Sun Aug 19 13:16:41 SAST 2018
+justprofit.xyz                                                                                       ACTIVE      403        Sun Aug 19 13:17:00 SAST 2018
+kalb.ru                                                                                              ACTIVE      403        Sun Aug 19 13:17:23 SAST 2018
+kashubadesign.ru                                                                                     ACTIVE      403        Sun Aug 19 13:18:17 SAST 2018
