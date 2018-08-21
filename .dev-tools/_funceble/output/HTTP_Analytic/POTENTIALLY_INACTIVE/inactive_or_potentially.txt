@@ -213,3 +213,17 @@ keywords-monitoring-success.com                                                 
 keywordteam.net                                                                                      ACTIVE      403        Tue Aug 21 17:19:39 SAST 2018
 kicknights.gq                                                                                        ACTIVE      403        Tue Aug 21 17:19:49 SAST 2018
 kidd.reunionwatch.com                                                                                ACTIVE      404        Tue Aug 21 17:19:50 SAST 2018
+kinoflux.net                                                                                         ACTIVE      403        Tue Aug 21 17:22:48 SAST 2018
+kinotorka.ru                                                                                         ACTIVE      403        Tue Aug 21 17:23:22 SAST 2018
+klin3952.ru                                                                                          ACTIVE      403        Tue Aug 21 17:23:48 SAST 2018
+kongruan.com                                                                                         ACTIVE      400        Tue Aug 21 17:24:36 SAST 2018
+konteiner24.com                                                                                      ACTIVE      403        Tue Aug 21 17:24:46 SAST 2018
+kopihijau.info                                                                                       ACTIVE      403        Tue Aug 21 17:24:53 SAST 2018
+kumuk.info                                                                                           ACTIVE      403        Tue Aug 21 17:26:07 SAST 2018
+kurbappeal.info                                                                                      ACTIVE      404        Tue Aug 21 17:26:16 SAST 2018
+lacloop.info                                                                                         ACTIVE      400        Tue Aug 21 17:26:59 SAST 2018
+lancheck.net                                                                                         ACTIVE      403        Tue Aug 21 17:27:25 SAST 2018
+larose.jb2c.me                                                                                       ACTIVE      404        Tue Aug 21 17:27:54 SAST 2018
+lego4x4.ru                                                                                           ACTIVE      402        Tue Aug 21 17:29:03 SAST 2018
+lenvred.org                                                                                          ACTIVE      403        Tue Aug 21 17:29:08 SAST 2018
+lisque.batcave.net                                                                                   ACTIVE      403        Tue Aug 21 17:31:14 SAST 2018
