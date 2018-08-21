@@ -404,3 +404,15 @@ uroffer.link                                                                    
 vacances-voyages.info                                                                                ACTIVE      404        Tue Aug 21 19:16:07 SAST 2018
 validdomain.xyz                                                                                      ACTIVE      403        Tue Aug 21 19:16:17 SAST 2018
 viagroid.ru                                                                                          ACTIVE      403        Tue Aug 21 19:18:05 SAST 2018
+vizitki.net                                                                                          ACTIVE      403        Tue Aug 21 19:21:30 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Tue Aug 21 19:24:18 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Tue Aug 21 19:25:01 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Tue Aug 21 19:25:03 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Tue Aug 21 19:26:11 SAST 2018
+wetgames.ru                                                                                          ACTIVE      403        Tue Aug 21 19:26:33 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Tue Aug 21 19:26:37 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Tue Aug 21 19:26:39 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Tue Aug 21 19:28:19 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Tue Aug 21 19:29:19 SAST 2018
+xcc24.pl                                                                                             ACTIVE      403        Tue Aug 21 19:30:14 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Tue Aug 21 19:30:16 SAST 2018
