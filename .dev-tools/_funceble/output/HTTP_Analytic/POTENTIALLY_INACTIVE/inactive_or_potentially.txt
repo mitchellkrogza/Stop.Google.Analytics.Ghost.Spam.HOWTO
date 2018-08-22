@@ -873,3 +873,14 @@ vacances-voyages.info                                                           
 validdomain.xyz                                                                                      ACTIVE      403        Wed Aug 22 18:40:00 SAST 2018
 viagroid.ru                                                                                          ACTIVE      403        Wed Aug 22 18:41:41 SAST 2018
 vizitki.net                                                                                          ACTIVE      403        Wed Aug 22 18:43:55 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Wed Aug 22 18:48:01 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Wed Aug 22 18:48:45 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Wed Aug 22 18:48:47 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Wed Aug 22 18:49:51 SAST 2018
+wetgames.ru                                                                                          ACTIVE      403        Wed Aug 22 18:50:13 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Wed Aug 22 18:50:18 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Wed Aug 22 18:50:20 SAST 2018
+wordkeyhelper.com                                                                                    ACTIVE      403        Wed Aug 22 18:52:00 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Wed Aug 22 18:53:00 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Wed Aug 22 18:53:54 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Wed Aug 22 18:54:17 SAST 2018
