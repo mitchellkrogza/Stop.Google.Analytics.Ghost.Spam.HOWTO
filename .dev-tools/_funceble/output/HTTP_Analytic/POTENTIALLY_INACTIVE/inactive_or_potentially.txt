@@ -61,3 +61,17 @@ atovh.local-finders.com                                                         
 audiobangout.com                                                                                     ACTIVE      400        Wed Aug 22 10:11:02 SAST 2018
 auspolice.com                                                                                        ACTIVE      403        Wed Aug 22 10:11:10 SAST 2018
 avirasecureserver.com                                                                                ACTIVE      403        Wed Aug 22 10:12:20 SAST 2018
+ayakino.net                                                                                          ACTIVE      403        Wed Aug 22 10:14:20 SAST 2018
+ayerbo.xhost.ro                                                                                      ACTIVE      403        Wed Aug 22 10:14:26 SAST 2018
+babespcs.com                                                                                         ACTIVE      403        Wed Aug 22 10:14:54 SAST 2018
+bala.getenjoyment.net                                                                                ACTIVE      403        Wed Aug 22 10:15:35 SAST 2018
+bang-hotties.com                                                                                     ACTIVE      403        Wed Aug 22 10:16:03 SAST 2018
+beachpics.com                                                                                        ACTIVE      404        Wed Aug 22 10:17:21 SAST 2018
+beauty-things.com                                                                                    ACTIVE      403        Wed Aug 22 10:17:40 SAST 2018
+belstaffstore.online                                                                                 ACTIVE      410        Wed Aug 22 10:18:03 SAST 2018
+bestofpicture.com                                                                                    ACTIVE      403        Wed Aug 22 10:19:00 SAST 2018
+betterscooter.com                                                                                    ACTIVE      404        Wed Aug 22 10:19:37 SAST 2018
+bigpictures.club                                                                                     ACTIVE      403        Wed Aug 22 10:20:20 SAST 2018
+blackhatworth.com                                                                                    ACTIVE      404        Wed Aug 22 10:21:56 SAST 2018
+blobar.org                                                                                           ACTIVE      403        Wed Aug 22 10:22:07 SAST 2018
+blog.f00kclan.de                                                                                     ACTIVE      403        Wed Aug 22 10:22:15 SAST 2018
