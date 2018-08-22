@@ -674,3 +674,16 @@ junglenet-a.akamaihd.net                                                        
 jurajskie.info                                                                                       ACTIVE      403        Wed Aug 22 16:44:32 SAST 2018
 justprofit.xyz                                                                                       ACTIVE      403        Wed Aug 22 16:44:46 SAST 2018
 kalb.ru                                                                                              ACTIVE      403        Wed Aug 22 16:45:03 SAST 2018
+kashubadesign.ru                                                                                     ACTIVE      403        Wed Aug 22 16:47:26 SAST 2018
+keywords-monitoring-success.com                                                                      ACTIVE      403        Wed Aug 22 16:48:14 SAST 2018
+kicknights.gq                                                                                        ACTIVE      403        Wed Aug 22 16:48:32 SAST 2018
+kidd.reunionwatch.com                                                                                ACTIVE      404        Wed Aug 22 16:48:33 SAST 2018
+kinoflux.net                                                                                         ACTIVE      403        Wed Aug 22 16:49:02 SAST 2018
+kinotorka.ru                                                                                         ACTIVE      403        Wed Aug 22 16:49:36 SAST 2018
+klin3952.ru                                                                                          ACTIVE      403        Wed Aug 22 16:50:01 SAST 2018
+kumuk.info                                                                                           ACTIVE      403        Wed Aug 22 16:52:21 SAST 2018
+kurbappeal.info                                                                                      ACTIVE      404        Wed Aug 22 16:52:30 SAST 2018
+lacloop.info                                                                                         ACTIVE      400        Wed Aug 22 16:53:15 SAST 2018
+lancheck.net                                                                                         ACTIVE      403        Wed Aug 22 16:53:41 SAST 2018
+larose.jb2c.me                                                                                       ACTIVE      404        Wed Aug 22 16:54:09 SAST 2018
+lenvred.org                                                                                          ACTIVE      403        Wed Aug 22 16:55:22 SAST 2018
