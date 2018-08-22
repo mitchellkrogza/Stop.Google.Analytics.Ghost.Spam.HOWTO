@@ -219,3 +219,13 @@ keywordteam.net                                                                 
 kicknights.gq                                                                                        ACTIVE      403        Wed Aug 22 11:45:23 SAST 2018
 kidd.reunionwatch.com                                                                                ACTIVE      404        Wed Aug 22 11:45:24 SAST 2018
 kinoflux.net                                                                                         ACTIVE      403        Wed Aug 22 11:45:51 SAST 2018
+kinotorka.ru                                                                                         ACTIVE      403        Wed Aug 22 11:47:57 SAST 2018
+kongruan.com                                                                                         ACTIVE      400        Wed Aug 22 11:49:09 SAST 2018
+kopihijau.info                                                                                       ACTIVE      403        Wed Aug 22 11:49:25 SAST 2018
+kumuk.info                                                                                           ACTIVE      403        Wed Aug 22 11:50:37 SAST 2018
+kurbappeal.info                                                                                      ACTIVE      404        Wed Aug 22 11:50:46 SAST 2018
+lacloop.info                                                                                         ACTIVE      400        Wed Aug 22 11:51:31 SAST 2018
+lancheck.net                                                                                         ACTIVE      403        Wed Aug 22 11:51:55 SAST 2018
+larose.jb2c.me                                                                                       ACTIVE      404        Wed Aug 22 11:52:21 SAST 2018
+lenvred.org                                                                                          ACTIVE      403        Wed Aug 22 11:53:36 SAST 2018
+lisque.batcave.net                                                                                   ACTIVE      403        Wed Aug 22 11:55:36 SAST 2018
