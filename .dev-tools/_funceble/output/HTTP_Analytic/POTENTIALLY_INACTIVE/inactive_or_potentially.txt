@@ -376,3 +376,17 @@ spymac.net                                                                      
 stauga.altervista.org                                                                                ACTIVE      403        Fri Aug 24 18:52:12 SAST 2018
 strongholdsb.ru                                                                                      ACTIVE      404        Fri Aug 24 18:53:26 SAST 2018
 strongsignal-a.akamaihd.net                                                                          ACTIVE      403        Fri Aug 24 18:53:28 SAST 2018
+students-cheapskate.ml                                                                               ACTIVE      403        Fri Aug 24 18:55:00 SAST 2018
+superkanpo.com                                                                                       ACTIVE      403        Fri Aug 24 18:55:31 SAST 2018
+sureone.pro                                                                                          ACTIVE      403        Fri Aug 24 18:55:59 SAST 2018
+svetlotorg.ru                                                                                        ACTIVE      403        Fri Aug 24 18:56:19 SAST 2018
+tabletkinaodchudzanie.com.pl                                                                         ACTIVE      403        Fri Aug 24 18:57:09 SAST 2018
+takethatad.com                                                                                       ACTIVE      403        Fri Aug 24 18:57:21 SAST 2018
+teguh.info                                                                                           ACTIVE      404        Fri Aug 24 18:58:32 SAST 2018
+terraclicks.com                                                                                      ACTIVE      403        Fri Aug 24 18:59:09 SAST 2018
+thecoolimages.net                                                                                    ACTIVE      403        Fri Aug 24 18:59:35 SAST 2018
+thenews-today.info                                                                                   ACTIVE      404        Fri Aug 24 19:00:00 SAST 2018
+thexart.club                                                                                         ACTIVE      403        Fri Aug 24 19:00:25 SAST 2018
+totu.info                                                                                            ACTIVE      404        Fri Aug 24 19:03:32 SAST 2018
+tracksz.co                                                                                           ACTIVE      403        Fri Aug 24 19:04:15 SAST 2018
+trafficreceiver.club                                                                                 ACTIVE      403        Fri Aug 24 19:04:44 SAST 2018
