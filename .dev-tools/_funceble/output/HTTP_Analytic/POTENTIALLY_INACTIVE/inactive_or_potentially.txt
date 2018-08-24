@@ -390,3 +390,16 @@ thexart.club                                                                    
 totu.info                                                                                            ACTIVE      404        Fri Aug 24 19:03:32 SAST 2018
 tracksz.co                                                                                           ACTIVE      403        Fri Aug 24 19:04:15 SAST 2018
 trafficreceiver.club                                                                                 ACTIVE      403        Fri Aug 24 19:04:44 SAST 2018
+treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Fri Aug 24 19:07:22 SAST 2018
+tt-ipd.info                                                                                          ACTIVE      403        Fri Aug 24 19:08:02 SAST 2018
+turist-strani.ru                                                                                     ACTIVE      403        Fri Aug 24 19:08:36 SAST 2018
+tvnewsclips.info                                                                                     ACTIVE      403        Fri Aug 24 19:08:56 SAST 2018
+uhdtv.website                                                                                        ACTIVE      403        Fri Aug 24 19:10:33 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Fri Aug 24 19:10:55 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Fri Aug 24 19:11:32 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Fri Aug 24 19:12:13 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Fri Aug 24 19:12:16 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Fri Aug 24 19:12:20 SAST 2018
+vacances-voyages.info                                                                                ACTIVE      404        Fri Aug 24 19:13:02 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Fri Aug 24 19:13:12 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Fri Aug 24 19:14:52 SAST 2018
