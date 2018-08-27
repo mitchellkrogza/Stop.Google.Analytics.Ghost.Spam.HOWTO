@@ -99,3 +99,13 @@ cercacamion.it                                                                  
 checkhit.com                                                                                         ACTIVE      403        Mon Aug 27 14:58:21 SAST 2018
 children-learningreading.info                                                                        ACTIVE      404        Mon Aug 27 14:58:42 SAST 2018
 chinajerseyswholesalecoupons.com                                                                     ACTIVE      403        Mon Aug 27 14:58:47 SAST 2018
+clickhype.com                                                                                        ACTIVE      404        Mon Aug 27 15:01:58 SAST 2018
+comeondog.info                                                                                       ACTIVE      404        Mon Aug 27 15:03:10 SAST 2018
+compiko.info                                                                                         ACTIVE      403        Mon Aug 27 15:03:30 SAST 2018
+connectionstrenth.com                                                                                ACTIVE      403        Mon Aug 27 15:06:03 SAST 2018
+cs-passion.pl                                                                                        ACTIVE      404        Mon Aug 27 15:08:58 SAST 2018
+customcatchcan.com                                                                                   ACTIVE      403        Mon Aug 27 15:09:13 SAST 2018
+customerpromos-a.akamaihd.net                                                                        ACTIVE      403        Mon Aug 27 15:09:24 SAST 2018
+czeshop.info                                                                                         ACTIVE      403        Mon Aug 27 15:09:46 SAST 2018
+damedingel.ya.ru                                                                                     ACTIVE      404        Mon Aug 27 15:10:07 SAST 2018
+darkages.info                                                                                        ACTIVE      403        Mon Aug 27 15:10:27 SAST 2018
