@@ -417,3 +417,15 @@ website-analyzer.info                                                           
 wesharepics.info                                                                                     ACTIVE      403        Tue Aug 28 17:10:16 SAST 2018
 whatsupinfoley.com                                                                                   ACTIVE      403        Tue Aug 28 17:10:43 SAST 2018
 whatzmyip.net                                                                                        ACTIVE      403        Tue Aug 28 17:10:45 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Tue Aug 28 17:14:42 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Tue Aug 28 17:15:37 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Tue Aug 28 17:15:58 SAST 2018
+xn--c1acygb.xn--p1ai                                                                                 ACTIVE      404        Tue Aug 28 17:18:46 SAST 2018
+xrus.org                                                                                             ACTIVE      403        Tue Aug 28 17:19:54 SAST 2018
+xxlargepop.com                                                                                       ACTIVE      404        Tue Aug 28 17:20:17 SAST 2018
+xxxkaz.org                                                                                           ACTIVE      403        Tue Aug 28 17:20:25 SAST 2018
+yatrk.xyz                                                                                            ACTIVE      404        Tue Aug 28 17:20:55 SAST 2018
+youradexchange.com                                                                                   ACTIVE      403        Tue Aug 28 17:21:47 SAST 2018
+youtube-downloader.savetubevideo.com                                                                 ACTIVE      404        Tue Aug 28 17:22:18 SAST 2018
+yuarra.pluto.ro                                                                                      ACTIVE      403        Tue Aug 28 17:22:29 SAST 2018
+zaidia.xhost.ro                                                                                      ACTIVE      403        Tue Aug 28 17:22:58 SAST 2018
