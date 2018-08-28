@@ -195,3 +195,13 @@ health-medical-portal.info                                                      
 highstairs-a.akamaihd.net                                                                            ACTIVE      403        Tue Aug 28 11:17:57 SAST 2018
 hitcpm.com                                                                                           ACTIVE      403        Tue Aug 28 11:18:09 SAST 2018
 hkdiiohi.skyrock.com                                                                                 ACTIVE      404        Tue Aug 28 11:18:21 SAST 2018
+hoverboard360.se                                                                                     ACTIVE      404        Tue Aug 28 11:21:51 SAST 2018
+huhn.altervista.org                                                                                  ACTIVE      404        Tue Aug 28 11:22:16 SAST 2018
+hully.altervista.org                                                                                 ACTIVE      403        Tue Aug 28 11:22:20 SAST 2018
+i4track.net                                                                                          ACTIVE      404        Tue Aug 28 11:22:52 SAST 2018
+ideibiznesa2015.ru                                                                                   ACTIVE      403        Tue Aug 28 11:23:23 SAST 2018
+imk.com.ua                                                                                           ACTIVE      410        Tue Aug 28 11:24:52 SAST 2018
+inboundlinks.win                                                                                     ACTIVE      403        Tue Aug 28 11:25:22 SAST 2018
+incolors.club                                                                                        ACTIVE      403        Tue Aug 28 11:25:27 SAST 2018
+indetiske.ya.ru                                                                                      ACTIVE      404        Tue Aug 28 11:25:35 SAST 2018
+inspiring-desperate.tk                                                                               ACTIVE      403        Tue Aug 28 11:26:29 SAST 2018
