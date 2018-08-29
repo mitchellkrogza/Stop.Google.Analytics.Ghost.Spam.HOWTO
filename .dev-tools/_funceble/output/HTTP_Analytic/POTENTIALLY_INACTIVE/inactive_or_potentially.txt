@@ -566,3 +566,14 @@ ttsq.fr                                                                         
 turist-strani.ru                                                                                     ACTIVE      403        Wed Aug 29 22:13:26 SAST 2018
 tvnewsclips.info                                                                                     ACTIVE      403        Wed Aug 29 22:13:46 SAST 2018
 uhdtv.website                                                                                        ACTIVE      403        Wed Aug 29 22:15:23 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Wed Aug 29 22:17:16 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Wed Aug 29 22:17:53 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Wed Aug 29 22:18:30 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Wed Aug 29 22:18:34 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Wed Aug 29 22:18:38 SAST 2018
+vacances-voyages.info                                                                                ACTIVE      404        Wed Aug 29 22:19:20 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Wed Aug 29 22:19:29 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Wed Aug 29 22:21:10 SAST 2018
+vip.51.la                                                                                            ACTIVE      400        Wed Aug 29 22:22:32 SAST 2018
+vizitki.net                                                                                          ACTIVE      403        Wed Aug 29 22:23:22 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Wed Aug 29 22:26:32 SAST 2018
