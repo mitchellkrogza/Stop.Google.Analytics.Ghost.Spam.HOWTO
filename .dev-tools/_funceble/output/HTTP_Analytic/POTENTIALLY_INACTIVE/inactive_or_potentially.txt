@@ -217,3 +217,17 @@ jurajskie.info                                                                  
 justprofit.xyz                                                                                       ACTIVE      403        Thu Aug 30 13:10:18 SAST 2018
 kalb.ru                                                                                              ACTIVE      403        Thu Aug 30 13:10:35 SAST 2018
 kashubadesign.ru                                                                                     ACTIVE      403        Thu Aug 30 13:11:16 SAST 2018
+keywords-monitoring-success.com                                                                      ACTIVE      403        Thu Aug 30 13:13:32 SAST 2018
+kicknights.gq                                                                                        ACTIVE      403        Thu Aug 30 13:13:51 SAST 2018
+kidd.reunionwatch.com                                                                                ACTIVE      404        Thu Aug 30 13:13:52 SAST 2018
+kinotorka.ru                                                                                         ACTIVE      403        Thu Aug 30 13:14:52 SAST 2018
+kongruan.com                                                                                         ACTIVE      400        Thu Aug 30 13:16:06 SAST 2018
+kopihijau.info                                                                                       ACTIVE      403        Thu Aug 30 13:16:22 SAST 2018
+kumuk.info                                                                                           ACTIVE      403        Thu Aug 30 13:17:34 SAST 2018
+kurbappeal.info                                                                                      ACTIVE      404        Thu Aug 30 13:17:42 SAST 2018
+lacloop.info                                                                                         ACTIVE      400        Thu Aug 30 13:18:26 SAST 2018
+lancheck.net                                                                                         ACTIVE      403        Thu Aug 30 13:18:51 SAST 2018
+larose.jb2c.me                                                                                       ACTIVE      404        Thu Aug 30 13:19:19 SAST 2018
+lecbter-relationships.ga                                                                             ACTIVE      403        Thu Aug 30 13:20:09 SAST 2018
+liffa.ru                                                                                             ACTIVE      404        Thu Aug 30 13:21:34 SAST 2018
+lisque.batcave.net                                                                                   ACTIVE      403        Thu Aug 30 13:22:33 SAST 2018
