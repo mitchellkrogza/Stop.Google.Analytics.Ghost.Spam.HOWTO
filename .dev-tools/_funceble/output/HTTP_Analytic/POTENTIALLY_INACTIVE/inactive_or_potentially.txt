@@ -383,3 +383,16 @@ strongsignal-a.akamaihd.net                                                     
 students-cheapskate.ml                                                                               ACTIVE      403        Thu Aug 30 14:43:19 SAST 2018
 superkanpo.com                                                                                       ACTIVE      403        Thu Aug 30 14:43:52 SAST 2018
 superstarfloraluk.com                                                                                ACTIVE      403        Thu Aug 30 14:44:11 SAST 2018
+sureone.pro                                                                                          ACTIVE      403        Sat Sep  1 13:58:54 SAST 2018
+svetlotorg.ru                                                                                        ACTIVE      403        Sat Sep  1 13:59:17 SAST 2018
+takethatad.com                                                                                       ACTIVE      403        Sat Sep  1 14:00:19 SAST 2018
+teguh.info                                                                                           ACTIVE      404        Sat Sep  1 14:01:30 SAST 2018
+terraclicks.com                                                                                      ACTIVE      403        Sat Sep  1 14:02:03 SAST 2018
+thecoolimages.net                                                                                    ACTIVE      403        Sat Sep  1 14:02:29 SAST 2018
+thenews-today.info                                                                                   ACTIVE      404        Sat Sep  1 14:02:55 SAST 2018
+thexart.club                                                                                         ACTIVE      403        Sat Sep  1 14:03:21 SAST 2018
+totu.info                                                                                            ACTIVE      404        Sat Sep  1 14:06:25 SAST 2018
+tracksz.co                                                                                           ACTIVE      403        Sat Sep  1 14:07:08 SAST 2018
+trafficreceiver.club                                                                                 ACTIVE      403        Sat Sep  1 14:07:36 SAST 2018
+traffmonster.info                                                                                    ACTIVE      403        Sat Sep  1 14:07:44 SAST 2018
+treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Sat Sep  1 14:08:03 SAST 2018
