@@ -396,3 +396,14 @@ tracksz.co                                                                      
 trafficreceiver.club                                                                                 ACTIVE      403        Sat Sep  1 14:07:36 SAST 2018
 traffmonster.info                                                                                    ACTIVE      403        Sat Sep  1 14:07:44 SAST 2018
 treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Sat Sep  1 14:08:03 SAST 2018
+tt-ipd.info                                                                                          ACTIVE      403        Sat Sep  1 14:09:59 SAST 2018
+ttsq.fr                                                                                              ACTIVE      403        Sat Sep  1 14:10:01 SAST 2018
+tvnewsclips.info                                                                                     ACTIVE      403        Sat Sep  1 14:10:53 SAST 2018
+uhdtv.website                                                                                        ACTIVE      403        Sat Sep  1 14:12:28 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Sat Sep  1 14:12:50 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Sat Sep  1 14:13:29 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Sat Sep  1 14:14:08 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Sat Sep  1 14:14:12 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Sat Sep  1 14:14:17 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Sat Sep  1 14:15:08 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Sat Sep  1 14:16:54 SAST 2018
