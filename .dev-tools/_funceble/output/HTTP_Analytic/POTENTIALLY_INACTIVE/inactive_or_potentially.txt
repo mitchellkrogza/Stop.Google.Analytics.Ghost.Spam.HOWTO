@@ -407,3 +407,12 @@ urll.eu                                                                         
 uroffer.link                                                                                         ACTIVE      403        Sat Sep  1 14:14:17 SAST 2018
 validdomain.xyz                                                                                      ACTIVE      403        Sat Sep  1 14:15:08 SAST 2018
 viagroid.ru                                                                                          ACTIVE      403        Sat Sep  1 14:16:54 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Sat Sep  1 14:23:07 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Sat Sep  1 14:23:48 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Sat Sep  1 14:23:50 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Sat Sep  1 14:24:56 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Sat Sep  1 14:25:21 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Sat Sep  1 14:25:23 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Sat Sep  1 14:28:06 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Sat Sep  1 14:29:05 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Sat Sep  1 14:29:28 SAST 2018
