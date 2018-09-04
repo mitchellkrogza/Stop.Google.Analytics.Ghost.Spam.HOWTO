@@ -193,3 +193,15 @@ hdwalls.xyz                                                                     
 health-medical-portal.info                                                                           ACTIVE      404        Tue Sep  4 15:25:47 SAST 2018
 highstairs-a.akamaihd.net                                                                            ACTIVE      403        Tue Sep  4 15:27:02 SAST 2018
 hitcpm.com                                                                                           ACTIVE      403        Tue Sep  4 15:27:12 SAST 2018
+hoverboard360.nl                                                                                     ACTIVE      403        Tue Sep  4 15:43:46 SAST 2018
+hoverboard360.se                                                                                     ACTIVE      404        Tue Sep  4 15:43:49 SAST 2018
+huhn.altervista.org                                                                                  ACTIVE      404        Tue Sep  4 15:44:16 SAST 2018
+hully.altervista.org                                                                                 ACTIVE      403        Tue Sep  4 15:44:20 SAST 2018
+i4track.net                                                                                          ACTIVE      404        Tue Sep  4 15:44:51 SAST 2018
+ideibiznesa2015.ru                                                                                   ACTIVE      403        Tue Sep  4 15:45:21 SAST 2018
+imk.com.ua                                                                                           ACTIVE      410        Tue Sep  4 15:46:54 SAST 2018
+impisr.ru                                                                                            ACTIVE      403        Tue Sep  4 15:47:09 SAST 2018
+inboundlinks.win                                                                                     ACTIVE      403        Tue Sep  4 15:47:19 SAST 2018
+incolors.club                                                                                        ACTIVE      403        Tue Sep  4 15:47:26 SAST 2018
+indetiske.ya.ru                                                                                      ACTIVE      404        Tue Sep  4 15:47:32 SAST 2018
+inspiring-desperate.tk                                                                               ACTIVE      403        Tue Sep  4 15:48:20 SAST 2018
