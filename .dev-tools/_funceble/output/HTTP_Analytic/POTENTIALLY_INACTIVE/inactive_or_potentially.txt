@@ -228,3 +228,16 @@ kurbappeal.info                                                                 
 lacloop.info                                                                                         ACTIVE      400        Tue Sep  4 16:02:01 SAST 2018
 lancheck.net                                                                                         ACTIVE      403        Tue Sep  4 16:02:27 SAST 2018
 larose.jb2c.me                                                                                       ACTIVE      404        Tue Sep  4 16:02:53 SAST 2018
+lecbter-relationships.ga                                                                             ACTIVE      403        Tue Sep  4 16:13:54 SAST 2018
+liffa.ru                                                                                             ACTIVE      404        Tue Sep  4 16:15:25 SAST 2018
+lovi-moment.com.ua                                                                                   ACTIVE      410        Tue Sep  4 16:19:23 SAST 2018
+lsex.xyz                                                                                             ACTIVE      403        Tue Sep  4 16:19:40 SAST 2018
+m292.info                                                                                            ACTIVE      403        Tue Sep  4 16:20:50 SAST 2018
+machicon-akihabara.info                                                                              ACTIVE      404        Tue Sep  4 16:21:25 SAST 2018
+machicon-ueno.info                                                                                   ACTIVE      403        Tue Sep  4 16:21:28 SAST 2018
+magicalfind-a.akamaihd.net                                                                           ACTIVE      403        Tue Sep  4 16:22:28 SAST 2018
+magicplayer-s.acestream.net                                                                          ACTIVE      404        Tue Sep  4 16:22:37 SAST 2018
+mahnwachen-helfen.info                                                                               ACTIVE      403        Tue Sep  4 16:23:00 SAST 2018
+makemoneyonline.com                                                                                  ACTIVE      403        Tue Sep  4 16:23:24 SAST 2018
+maladot.com                                                                                          ACTIVE      403        Tue Sep  4 16:23:32 SAST 2018
+mall.uk                                                                                              ACTIVE      403        Tue Sep  4 16:23:40 SAST 2018
