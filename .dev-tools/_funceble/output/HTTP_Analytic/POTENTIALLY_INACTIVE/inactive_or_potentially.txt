@@ -399,3 +399,12 @@ turist-strani.ru                                                                
 tvnewsclips.info                                                                                     ACTIVE      403        Tue Sep  4 17:55:12 SAST 2018
 uhdtv.website                                                                                        ACTIVE      403        Tue Sep  4 17:56:50 SAST 2018
 umekana.ru                                                                                           ACTIVE      404        Tue Sep  4 17:57:15 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Tue Sep  4 17:59:52 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Tue Sep  4 17:59:56 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Tue Sep  4 18:00:00 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Tue Sep  4 18:00:51 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Tue Sep  4 18:02:28 SAST 2018
+vizitki.net                                                                                          ACTIVE      403        Tue Sep  4 18:04:38 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Tue Sep  4 18:07:31 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Tue Sep  4 18:08:12 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Tue Sep  4 18:08:14 SAST 2018
