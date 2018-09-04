@@ -408,3 +408,14 @@ vizitki.net                                                                     
 webadvance.club                                                                                      ACTIVE      403        Tue Sep  4 18:07:31 SAST 2018
 website-analytics.online                                                                             ACTIVE      403        Tue Sep  4 18:08:12 SAST 2018
 website-analyzer.info                                                                                ACTIVE      403        Tue Sep  4 18:08:14 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Tue Sep  4 18:10:53 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Tue Sep  4 18:11:19 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Tue Sep  4 18:11:21 SAST 2018
+wildworld.site                                                                                       ACTIVE      403        Tue Sep  4 18:11:56 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Tue Sep  4 18:13:55 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Tue Sep  4 18:14:49 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Tue Sep  4 18:15:13 SAST 2018
+xn--c1acygb.xn--p1ai                                                                                 ACTIVE      404        Tue Sep  4 18:18:03 SAST 2018
+xrus.org                                                                                             ACTIVE      403        Tue Sep  4 18:19:12 SAST 2018
+xxlargepop.com                                                                                       ACTIVE      404        Tue Sep  4 18:19:36 SAST 2018
+yatrk.xyz                                                                                            ACTIVE      404        Tue Sep  4 18:20:16 SAST 2018
