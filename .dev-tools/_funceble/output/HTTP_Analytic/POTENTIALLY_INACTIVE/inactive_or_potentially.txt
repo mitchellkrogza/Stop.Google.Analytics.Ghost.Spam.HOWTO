@@ -394,3 +394,17 @@ terraclicks.com                                                                 
 thecoolimages.net                                                                                    ACTIVE      403        Tue Sep 11 14:07:18 SAST 2018
 thenews-today.info                                                                                   ACTIVE      404        Tue Sep 11 14:07:44 SAST 2018
 thexart.club                                                                                         ACTIVE      403        Tue Sep 11 14:08:11 SAST 2018
+topmira.com                                                                                          ACTIVE      403        Tue Sep 11 14:12:08 SAST 2018
+totu.info                                                                                            ACTIVE      404        Tue Sep 11 14:12:36 SAST 2018
+tracksz.co                                                                                           ACTIVE      403        Tue Sep 11 14:13:19 SAST 2018
+trafficreceiver.club                                                                                 ACTIVE      403        Tue Sep 11 14:13:49 SAST 2018
+traffmonster.info                                                                                    ACTIVE      403        Tue Sep 11 14:13:57 SAST 2018
+treasuretrack-a.akamaihd.net                                                                         ACTIVE      403        Tue Sep 11 14:14:16 SAST 2018
+tt-ipd.info                                                                                          ACTIVE      403        Tue Sep 11 14:14:59 SAST 2018
+ttsq.fr                                                                                              ACTIVE      403        Tue Sep 11 14:15:02 SAST 2018
+tvnewsclips.info                                                                                     ACTIVE      404        Tue Sep 11 14:15:58 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Tue Sep 11 14:18:04 SAST 2018
+unmaroll.ya.ru                                                                                       ACTIVE      404        Tue Sep 11 14:18:43 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Tue Sep 11 14:19:26 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Tue Sep 11 14:19:31 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Tue Sep 11 14:19:35 SAST 2018
