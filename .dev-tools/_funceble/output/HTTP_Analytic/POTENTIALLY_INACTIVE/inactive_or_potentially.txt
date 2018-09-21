@@ -647,3 +647,14 @@ uroffer.link                                                                    
 validdomain.xyz                                                                                      ACTIVE      403        Fri Sep 21 12:14:55 SAST 2018
 viagroid.ru                                                                                          ACTIVE      403        Fri Sep 21 12:16:44 SAST 2018
 vizitki.net                                                                                          ACTIVE      403        Fri Sep 21 12:19:00 SAST 2018
+webadvance.club                                                                                      ACTIVE      403        Fri Sep 21 12:22:59 SAST 2018
+webalan.ru                                                                                           ACTIVE      403        Fri Sep 21 12:23:02 SAST 2018
+website-analytics.online                                                                             ACTIVE      403        Fri Sep 21 12:23:40 SAST 2018
+website-analyzer.info                                                                                ACTIVE      403        Fri Sep 21 12:23:42 SAST 2018
+wesharepics.info                                                                                     ACTIVE      403        Fri Sep 21 12:24:47 SAST 2018
+whatsupinfoley.com                                                                                   ACTIVE      403        Fri Sep 21 12:25:14 SAST 2018
+whatzmyip.net                                                                                        ACTIVE      403        Fri Sep 21 12:25:16 SAST 2018
+wholesalejerseys-cheapest.com                                                                        ACTIVE      403        Fri Sep 21 12:25:36 SAST 2018
+ws.ampower.me                                                                                        ACTIVE      404        Fri Sep 21 12:27:58 SAST 2018
+xchat26.myfreecams.com                                                                               ACTIVE      404        Fri Sep 21 12:28:59 SAST 2018
+xgames-04.com                                                                                        ACTIVE      403        Fri Sep 21 12:29:25 SAST 2018
