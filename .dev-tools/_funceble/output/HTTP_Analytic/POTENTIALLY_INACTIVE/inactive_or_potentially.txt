@@ -630,3 +630,13 @@ superstarfloraluk.com                                                           
 sureone.pro                                                                                          ACTIVE      403        Fri Sep 21 11:56:54 SAST 2018
 svetlotorg.ru                                                                                        ACTIVE      403        Fri Sep 21 11:57:17 SAST 2018
 takethatad.com                                                                                       ACTIVE      403        Fri Sep 21 11:58:22 SAST 2018
+teguh.info                                                                                           ACTIVE      404        Fri Sep 21 12:00:50 SAST 2018
+terraclicks.com                                                                                      ACTIVE      403        Fri Sep 21 12:01:23 SAST 2018
+thecoolimages.net                                                                                    ACTIVE      403        Fri Sep 21 12:01:48 SAST 2018
+thenews-today.info                                                                                   ACTIVE      404        Fri Sep 21 12:02:13 SAST 2018
+topmira.com                                                                                          ACTIVE      403        Fri Sep 21 12:05:25 SAST 2018
+tracksz.co                                                                                           ACTIVE      403        Fri Sep 21 12:06:37 SAST 2018
+trafficreceiver.club                                                                                 ACTIVE      403        Fri Sep 21 12:07:05 SAST 2018
+traffmonster.info                                                                                    ACTIVE      403        Fri Sep 21 12:07:14 SAST 2018
+tt-ipd.info                                                                                          ACTIVE      403        Fri Sep 21 12:08:27 SAST 2018
+tvnewsclips.info                                                                                     ACTIVE      404        Fri Sep 21 12:09:26 SAST 2018
