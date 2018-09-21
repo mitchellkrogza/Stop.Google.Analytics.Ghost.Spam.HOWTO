@@ -1122,3 +1122,27 @@ xn--80ajjbdhgmudixfjc8c5a9df8b.xn--p1ai                                         
 xn----8sbdbjgb1ap7a9c4czbh.xn--p1acf                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:31:51 SAST 2018
 xn----8sbhefaln6acifdaon5c6f4axh.xn--p1ai                                                            Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:31:54 SAST 2018
 xn--90acenikpebbdd4f6d.xn--p1ai                                                                      Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:32:02 SAST 2018
+xn----itbeirbjbi7bc6bh2d.xn--p1ai                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:34:09 SAST 2018
+xn----itbkqkfiq.xn--p1ai                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:34:12 SAST 2018
+xxx-cam.webcam                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:35:08 SAST 2018
+yeartwit.com                                                                                         Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:35:46 SAST 2018
+yellowads.men                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:35:53 SAST 2018
+yhit.press                                                                                           Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:36:02 SAST 2018
+yogamatsexpert.com                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:36:04 SAST 2018
+youbloodyripper.com                                                                                  Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:36:17 SAST 2018
+youbrainboost.asia                                                                                   Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:36:18 SAST 2018
+youraticles.pl                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:36:42 SAST 2018
+yourserverisdown.com                                                                                 Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:36:57 SAST 2018
+zarajbuilders.com                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:38:36 SAST 2018
+zatjmuzu.info                                                                                        Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:38:45 SAST 2018
+zawyna.ua                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:38:48 SAST 2018
+zigarettenonl.canalblog.com                                                                                                              INACTIVE    SPECIAL    404        Fri Sep 21 12:39:38 SAST 2018
+zixizop.net.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:39:54 SAST 2018
+znakom.sibtest.ru                                                                                    Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:40:05 SAST 2018
+znakomstva-moskva77.ru                                                                               Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:40:07 SAST 2018
+zocaparj.kz                                                                                          Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:40:19 SAST 2018
+zone-kev717.info                                                                                     Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:40:31 SAST 2018
+zoolubimets.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:40:40 SAST 2018
+zs2vm.top                                                                                            Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:41:04 SAST 2018
+zvezdagedon.ru                                                                                       Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:41:17 SAST 2018
+zynax.ua                                                                                             Not Found                           INACTIVE    NSLOOKUP   000        Fri Sep 21 12:41:23 SAST 2018
