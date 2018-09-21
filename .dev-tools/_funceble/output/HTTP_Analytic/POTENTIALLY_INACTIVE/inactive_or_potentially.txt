@@ -640,3 +640,10 @@ trafficreceiver.club                                                            
 traffmonster.info                                                                                    ACTIVE      403        Fri Sep 21 12:07:14 SAST 2018
 tt-ipd.info                                                                                          ACTIVE      403        Fri Sep 21 12:08:27 SAST 2018
 tvnewsclips.info                                                                                     ACTIVE      404        Fri Sep 21 12:09:26 SAST 2018
+umekana.ru                                                                                           ACTIVE      404        Fri Sep 21 12:12:33 SAST 2018
+urldelivery.com                                                                                      ACTIVE      403        Fri Sep 21 12:13:52 SAST 2018
+urll.eu                                                                                              ACTIVE      403        Fri Sep 21 12:13:56 SAST 2018
+uroffer.link                                                                                         ACTIVE      403        Fri Sep 21 12:14:00 SAST 2018
+validdomain.xyz                                                                                      ACTIVE      403        Fri Sep 21 12:14:55 SAST 2018
+viagroid.ru                                                                                          ACTIVE      403        Fri Sep 21 12:16:44 SAST 2018
+vizitki.net                                                                                          ACTIVE      403        Fri Sep 21 12:19:00 SAST 2018
