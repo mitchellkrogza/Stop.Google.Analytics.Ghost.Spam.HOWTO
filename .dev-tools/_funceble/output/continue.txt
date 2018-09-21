@@ -1,1 +1,1 @@
-/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list offergroup.info 7615 6759 856 0
+/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list plaff-go.ru 7906 7027 879 0
