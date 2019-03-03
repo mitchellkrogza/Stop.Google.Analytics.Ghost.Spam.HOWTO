@@ -32,44 +32,18 @@
 # ******************
 
 YEAR=$(date +"%Y")
-cd $TRAVIS_BUILD_DIR
-
-# *******************************
-# Remove Remote Added by TravisCI
-# *******************************
-
-git remote rm origin
-
-# **************************
-# Add Remote with Secure Key
-# **************************
-
-git remote add origin https://${GOOGLESPAM_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-
-# *********************
-# Set Our Git Variables
-# *********************
-
-git config --global user.email "${GIT_EMAIL}"
-git config --global user.name "${GIT_NAME}"
-git config --global push.default simple
-
-# *******************************************
-# Make sure we have checked out master branch
-# *******************************************
-
-git checkout master
+cd ${TRAVIS_BUILD_DIR}
 
 # **************************************************************************************
 # Generate our google exclude files and update README with build and version information
 # **************************************************************************************
 
-sudo chmod +x $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
-sudo chmod 755 $TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
+sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
+sudo chmod 755 ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
 
-$TRAVIS_BUILD_DIR/.dev-tools/generate-google-exclude.php
+${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
 
-sudo $TRAVIS_BUILD_DIR/.dev-tools/modify-readme.sh
+sudo ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme.sh
 
 
 # *************************************************************

@@ -5,25 +5,36 @@ env:
     - GIT_EMAIL: mitchellkrog@gmail.com
     - TRAVIS_REPO_SLUG: mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
     - GIT_BRANCH: master
+    - TZ: Africa/Johannesburg
+
 sudo: required
 dist: trusty
 
 language: php
 php:
   - '7.1'
-  
+
 matrix:
   fast_finish: true
 
-cache:
-  - apt
+addons:
+  apt:
+    packages:
+    - dos2unix
+    - realpath
 
-before_install:
-  - export TZ=Africa/Johannesburg
-  - sudo apt-get -y install expect
-  - sudo apt-get -y install whois
-  - sudo apt-get -y install dos2unix
-  - sudo apt-get -y install realpath
+install:
+  - export PATH="${HOME}/miniconda/bin:${PATH}"
+  - if [[ "${TRAVIS_OS_NAME}" == "osx" ]]; then wget https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O miniconda.sh; else wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh; fi
+  - bash miniconda.sh -b -p ${HOME}/miniconda
+  - hash -r
+  - conda config --set always_yes yes --set changeps1 no
+  - conda update -q conda
+  - conda create -q -n test-environment python="3.7.2"
+  - source activate test-environment
+  - python -VV
+  - pip --version
+  - pip install pyfunceble ultimate-hosts-blacklist-the-whitelist
 
 script:
   - bash .dev-tools/deploy.sh
