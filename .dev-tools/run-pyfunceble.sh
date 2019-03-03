@@ -31,6 +31,6 @@ MONTH=$(date +%m)
 #  Run PyFunceble and Check Domains List
 # ************************************
 hash PyFunceble
-PyFunceble --travis -a -ex --plain --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" -f $_input --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}"
+PyFunceble --travis -a -ex --plain --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" -f $_input --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" --idna
 
 exit ${?}

@@ -6,6 +6,7 @@ env:
     - TRAVIS_REPO_SLUG: mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
     - GIT_BRANCH: master
     - TZ: Africa/Johannesburg
+    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
 
 sudo: required
 dist: trusty
