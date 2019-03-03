@@ -34,7 +34,7 @@ install:
   - source activate test-environment
   - python -VV
   - pip --version
-  - pip install pyfunceble ultimate-hosts-blacklist-the-whitelist
+  - pip install PyFunceble ultimate-hosts-blacklist-the-whitelist
 
 script:
   - bash .dev-tools/deploy.sh

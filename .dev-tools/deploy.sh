@@ -36,12 +36,6 @@ cd ${TRAVIS_BUILD_DIR}
 _input=${TRAVIS_BUILD_DIR}/.dev-tools/_input_source/bad-referrers.list
 _input2=${TRAVIS_BUILD_DIR}/.dev-tools/domains_tmp.txt
 
-# *********************************************
-# Sort our list alphabetically and remove dupes
-# *********************************************
-
-sudo sort -u ${_input} -o ${_input}
-
 # *******************************
 # Remove Remote Added by TravisCI
 # *******************************
@@ -76,6 +70,12 @@ sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme.sh
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/run-pyfunceble.sh
 sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh
+
+# *********************************************
+# Sort our list alphabetically and remove dupes
+# *********************************************
+
+sudo sort -u ${_input} -o ${_input}
 
 # *****************
 # Activate Dos2Unix
