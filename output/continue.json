@@ -1,8 +1,8 @@
 {
     "/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list": {
-        "down": 547,
+        "down": 685,
         "invalid": 0,
-        "tested": 3271,
-        "up": 2724
+        "tested": 4375,
+        "up": 3690
     }
 }
