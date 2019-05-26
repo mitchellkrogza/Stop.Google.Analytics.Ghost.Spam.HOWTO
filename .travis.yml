@@ -47,7 +47,7 @@ install:
   - pip3 install ultimate-hosts-blacklist-whitelist
 
 script:
-  - bash .dev-tools/deploy.sh
+  - bash .dev-tools/deploy.sh && bash -x .dev-tools/run-pyfunceble.sh
 
 notifications:
   email: false
