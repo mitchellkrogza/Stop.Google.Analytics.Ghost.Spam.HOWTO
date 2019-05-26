@@ -111,7 +111,7 @@ dos2unix ${_input}
 # Run PyFunceble to check for dead domains
 # ***************************************************
 
-bash -x ${TRAVIS_BUILD_DIR}/.dev-tools/run-pyfunceble.sh
+#bash -x ${TRAVIS_BUILD_DIR}/.dev-tools/run-pyfunceble.sh
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml
