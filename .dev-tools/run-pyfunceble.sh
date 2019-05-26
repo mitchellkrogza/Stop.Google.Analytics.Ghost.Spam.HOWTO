@@ -3,10 +3,12 @@
 # Run PyFunceble Testing
 # ********************
 
-# ****************************************************************
-# This uses the awesome funceble script created by Nissar Chababy
-# Find funceble at: https://github.com/funilrys/PyFunceble
-# ****************************************************************
+# **********************
+# Setting date variables
+# **********************
+
+yeartag=$(date +%Y)
+monthtag=$(date +%m)
 
 # ******************
 # Set our Input File
@@ -27,12 +29,26 @@ cd ${TRAVIS_BUILD_DIR}/.dev-tools/_pyfunceble/
 YEAR=$(date +%Y)
 MONTH=$(date +%m)
 
-# ************************************
-#  Run PyFunceble and Check Domains List
-# ************************************
-hash PyFunceble
-PyFunceble --directory-structure -q
-PyFunceble --version
-PyFunceble --travis -a -ex --plain --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" -f $_input --commit-autosave-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${YEAR}.${MONTH}.${TRAVIS_BUILD_NUMBER}" --idna
+RunFunceble () {
+
+    yeartag=$(date +%Y)
+    monthtag=$(date +%m)
+    ulimit -u
+    cd ${TRAVIS_BUILD_DIR}/.dev-tools
+
+    hash PyFunceble
+
+    if [[ -f "${pyfuncebleConfigurationFileLocation}" ]]
+    then
+        rm "${pyfuncebleConfigurationFileLocation}"
+        rm "${pyfuncebleProductionConfigurationFileLocation}"
+    fi
+
+    PyFunceble --travis -db -ex --dns 1.1.1.1 1.0.0.1 --cmd-before-end "bash ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh" --plain --autosave-minutes 20 --commit-autosave-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --commit-results-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${input}
+
+}
+
+RunFunceble
+
 
 exit ${?}

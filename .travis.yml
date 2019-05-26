@@ -9,11 +9,15 @@ env:
     - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
 
 sudo: required
-dist: trusty
+dist: xenial
 
 language: php
 php:
   - '7.1'
+
+language: python
+python:
+  - "3.7"
 
 matrix:
   fast_finish: true
@@ -24,18 +28,23 @@ addons:
     - dos2unix
     - realpath
 
+#install:
+#  - export PATH="${HOME}/miniconda/bin:${PATH}"
+#  - if [[ "${TRAVIS_OS_NAME}" == "osx" ]]; then wget https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O miniconda.sh; else wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh; fi
+#  - bash miniconda.sh -b -p ${HOME}/miniconda
+#  - hash -r
+#  - conda config --set always_yes yes --set changeps1 no
+#  - conda update -q conda
+#  - conda create -q -n test-environment python="3.7.2"
+#  - source activate test-environment
+#  - python -VV
+#  - pip --version
+#  - pip install PyFunceble ultimate-hosts-blacklist-whitelist
+
 install:
-  - export PATH="${HOME}/miniconda/bin:${PATH}"
-  - if [[ "${TRAVIS_OS_NAME}" == "osx" ]]; then wget https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh -O miniconda.sh; else wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh; fi
-  - bash miniconda.sh -b -p ${HOME}/miniconda
-  - hash -r
-  - conda config --set always_yes yes --set changeps1 no
-  - conda update -q conda
-  - conda create -q -n test-environment python="3.7.2"
-  - source activate test-environment
-  - python -VV
-  - pip --version
-  - pip install PyFunceble ultimate-hosts-blacklist-whitelist
+  - pip3 install --upgrade pip
+  - pip3 install PyFunceble-dev
+  - pip3 install ultimate-hosts-blacklist-whitelist
 
 script:
   - bash .dev-tools/deploy.sh

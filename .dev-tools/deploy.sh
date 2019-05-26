@@ -36,40 +36,26 @@ cd ${TRAVIS_BUILD_DIR}
 _input=${TRAVIS_BUILD_DIR}/.dev-tools/_input_source/bad-referrers.list
 _input2=${TRAVIS_BUILD_DIR}/.dev-tools/domains_tmp.txt
 
-# *******************************
-# Remove Remote Added by TravisCI
-# *******************************
+# *********************************************
+# Get Travis CI Prepared for Committing to Repo
+# *********************************************
 
-git remote rm origin
+PrepareTravis () {
+    git remote rm origin
+    git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
+    git config --global user.email "${GIT_EMAIL}"
+    git config --global user.name "${GIT_NAME}"
+    git config --global push.default simple
+    git checkout "${GIT_BRANCH}"
+    ulimit -u
+}
+PrepareTravis
 
-# **************************
-# Add Remote with Secure Key
-# **************************
+# *****************
+# Fetch Latest List
+# *****************
 
-git remote add origin https://${GOOGLESPAM_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-
-# *********************
-# Set Our Git Variables
-# *********************
-
-git config --global user.email "${GIT_EMAIL}"
-git config --global user.name "${GIT_NAME}"
-git config --global push.default simple
-
-# *******************************************
-# Make sure we have checked out master branch
-# *******************************************
-
-git checkout master
-
-# ***************************************************
-# Set our scripts to be executable
-# ***************************************************
-
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/modify-readme.sh
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/generate-google-exclude.php
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/run-pyfunceble.sh
-sudo chmod +x ${TRAVIS_BUILD_DIR}/.dev-tools/final-commit.sh
+curl -sL https://raw.githubusercontent.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/master/_generator_lists/bad-referrers.list -o ${_input}
 
 # *********************************************
 # Sort our list alphabetically and remove dupes
