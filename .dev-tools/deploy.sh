@@ -31,10 +31,14 @@
 # Set Some Variables
 # ******************
 
+set -e
+
 YEAR=$(date +"%Y")
 cd ${TRAVIS_BUILD_DIR}
 _input=${TRAVIS_BUILD_DIR}/.dev-tools/_input_source/bad-referrers.list
 _input2=${TRAVIS_BUILD_DIR}/.dev-tools/domains_tmp.txt
+ourWhitelistFile="${TRAVIS_BUILD_DIR}/whitelist.me/whitelist.list"
+tmpFile="/tmp/final_domains.txt"
 
 # *********************************************
 # Get Travis CI Prepared for Committing to Repo
@@ -80,7 +84,7 @@ sudo mv ${_input2} ${_input}
 # Clean the list of any lines not containing a . character
 # ********************************************************
 
-cat ${_input} | sed '/\./!d' > ${_input2} && mv ${_input2} ${_input}
+cat ${_input} | sed '/\./!d' > ${_input2}
 
 # **************************************************************************************
 # Strip out our Whitelisted Domains from Ultimate.Hosts.Blacklist
@@ -96,8 +100,8 @@ printf '\n%s\n%s\n%s\n\n' "#################################" "Stripping out Whi
 
 hash uhb_whitelist
 
-uhb_whitelist -f ${_input} -o ${_input}
-sort -u ${_input} -o ${_input}
+uhb_whitelist -f ${_input} -o ${tmpFile} -w ${ourWhitelistFile}
+sort -u ${tmpFile} -o ${_input}
 
 printf '\n%s\n%s\n%s\n\n' "######################################" "END: Stripping out Whitelisted Domains" "######################################"
 
