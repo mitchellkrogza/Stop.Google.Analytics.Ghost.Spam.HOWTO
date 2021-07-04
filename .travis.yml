@@ -45,11 +45,6 @@ script:
 notifications:
 on_success: never
 on_failure: always
-    - GIT_NAME: Travis CI
-    - GIT_EMAIL: mitchellkrog@gmail.com
-    - TRAVIS_REPO_SLUG: mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
-    - GIT_BRANCH: master
-    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
 
 jobs:
   fast_finish: true
