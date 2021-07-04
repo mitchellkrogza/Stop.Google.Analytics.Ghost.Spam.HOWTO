@@ -1,5 +1,8 @@
 os: linux
 dist: focal
+language: python
+python:
+  - "3.7"
 
 env:
   global:
@@ -9,10 +12,6 @@ env:
     - TRAVIS_REPO_SLUG: mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
     - GIT_BRANCH: master
     - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
-
-language: python
-python:
-  - "3.7"
 
 jobs:
   fast_finish: true
