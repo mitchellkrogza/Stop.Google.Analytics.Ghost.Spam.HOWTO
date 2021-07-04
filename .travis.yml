@@ -6,7 +6,45 @@ python:
 
 env:
   global:
-    - secure: SkM5+JkgvqcGkBCKVNZXhXGLPzECUzUlGR/RmL0gXiNxC7OkieRVkZEWzginxKzs3d2GeDmmF5yP6bPdNoIlfO+ouqiG9h6VdrAdrAbxcc4L4NAhGe0Sn1l3+e8blZ4jvK9Y4ypUwgCI2q8YlvlTs+rG3GSREHBdUuBwCr8TV0Fj1p8+pfQNHTG1TU/ebLzlf0ls/2OtdjPecuh2DyObKTcEO1WMXJ4weTRBVPqkE9ws2YV0RmJF1MfnmHxRd2iuL7cPIv7aU28iHNG49b5SjjkELNkGaqqxj3GAlX1uayu8c3MHsRZ6yI94Z3jkvXgs2T2qm0z8/GvPH/16trZ+mBqr7sfn2tKM0tbJL2tuRa31okFdS4KxoKwWlSfInrD//XPx+GqsFJdoKkj7hU1ulW2GhhyklC8DIV9A7igBtYTUfcV0O2O+fkPhnFlY++7u3oj1Px6vtt71brdmiUeJ3zDrlnkfNU0ht4Vb20KTiHdfGB782sii/GfQDtpIjxuUBG+RTiFQhdnfNpg6WT5NprTfHIhKehYwv+nRi/VuxgE25JaMqs48SUi8DwPm+UaOGw84tap29S6hjGeWODx+CwwWPFhLRI+MErD6MCrYM9F0jyHjFMFJwAngdQOx5UjHxIbJJlG51eN3K903NuntOPJFnDUnixcFn1bV4Wt3hCc=
+    - secure: j64L+YB6ZTOwP7joFBfSAMv6scssInUw91BgJqc/dRLU6nd4d2n8as4qYGbGPZ09nIYES+baD7W73WVr0Hljvnis2wKA36BcuzyLlcGugUtuDigVG/X5RDWs4EYh5URSOFO5j+I+2QKFWnYKydiQbnimBdTr3SEI9QBGFoywNVRUPaOquuyQwk3dYb7s4Fc8NHkNJF9xJ/dq+GrFIBmXHDuq7d+J2Ex2rZ5LADBiResASnMLSUNLtrtzOlMi5GE7cT6xKpnNigc2EpKmhQxrWG1/P9x+KgIQvMG+7fbYzmr076Hvl5DGvRW1JDW69fbXOTCZtXBjveDV79JFd9+KJnYbBaMD262ZJJ+zFwhUu+faKOZqejeO10VRJONda4q3RBfcFF21nZmFbuI3t/pJWJpXX8+r1/5/OkMhvuZf6HNIQhrk2kKEUx6yaPW5xjKQLCrFkEASgImRFDzKtr1XFmh3fJAGsU/WDbtgs8hZy8YiiHHtUYckTG8RjZTLulO8VM277L1tWubNKYDUEhfg+c5bovl/XomttnGuXm5Z0Cve9ZOBc6leOPwi4FP5WsAXpD9AxJDOE1215OxZRX0LxKOAHVfPLfjSLABPeCc6JnfoE1c5HWVQg7OAfMveleDdNaOemkDp3O5klOsOmD2w4E7CZUc2IBz2FbsZQ2ML61U=
+    - GIT_NAME: Travis CI
+    - GIT_EMAIL: mitchellkrog@gmail.com
+    - TRAVIS_REPO_SLUG: mitchellkrogza/Badd-Boyz-Hosts
+    - GIT_BRANCH: master
+    - TZ:       Africa/Johannesburg
+    - PYFUNCEBLE_CONFIG_DIR: ${TRAVIS_BUILD_DIR}/dev-tools/
+    - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+
+language: python
+
+python:
+  - "3.7"
+
+matrix:
+  fast_finish: true
+
+install:
+  #- export PATH="${HOME}/miniconda/bin:${PATH}"
+  #- wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+  #- bash miniconda.sh -b -p ${HOME}/miniconda
+  #- hash -r
+  #- conda config --set always_yes yes --set changeps1 no
+  #- conda update -q conda
+  #- conda create -q -n test-environment python="3.7.4"
+  #- rm miniconda.sh
+  #- source activate test-environment
+  #- python -VV
+  - pip3 install --upgrade pip
+  - pip3 install PyFunceble-dev --pre
+  - pip3 install ultimate-hosts-blacklist-whitelist-dev
+
+script:
+  - bash dev-tools/PrepareData.sh
+  - bash dev-tools/DataTesting.sh
+
+notifications:
+on_success: never
+on_failure: always
     - GIT_NAME: Travis CI
     - GIT_EMAIL: mitchellkrog@gmail.com
     - TRAVIS_REPO_SLUG: mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
