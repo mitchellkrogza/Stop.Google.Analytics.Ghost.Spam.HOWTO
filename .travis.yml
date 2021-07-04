@@ -1,5 +1,5 @@
 os: linux
-dist: bionic
+dist: focal
 
 env:
   global:
@@ -8,7 +8,6 @@ env:
     - GIT_EMAIL: mitchellkrog@gmail.com
     - TRAVIS_REPO_SLUG: mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO
     - GIT_BRANCH: master
-    - TZ: Africa/Johannesburg
     - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
 
 language: python
@@ -22,7 +21,6 @@ addons:
   apt:
     packages:
     - dos2unix
-    - realpath
 
 install:
   - pip3 install --upgrade pip
