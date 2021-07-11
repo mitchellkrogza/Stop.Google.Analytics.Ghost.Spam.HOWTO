@@ -13,14 +13,21 @@ on:
   pull_request:
     branches:
       - master
+  schedule:
+      - cron: '0 10 * * *'
 
 jobs:
   build:
-    if: "!contains(github.event.head_commit.message, 'skip ci')"
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
+
+      - name: Install Software
+        run: |
+          sudo apt -y install dos2unix
+
+
       - name: Set up Python V3
         uses: actions/setup-python@v2
         with:
@@ -37,5 +44,6 @@ jobs:
 
       - name: Run build
         shell: bash
-        run: ./scripts/travis-commit.sh
+        run: |
+          ./scripts/travis-commit.sh
 
