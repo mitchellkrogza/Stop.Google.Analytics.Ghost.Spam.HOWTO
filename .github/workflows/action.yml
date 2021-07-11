@@ -45,6 +45,6 @@ jobs:
       - name: Run build
         shell: bash
         run: |
-          ./scripts/deploy.sh
-          ./scripts/run-pyfunceble.sh
+          ./dev-tools/deploy.sh
+          ./dev-tools/run-pyfunceble.sh
 
