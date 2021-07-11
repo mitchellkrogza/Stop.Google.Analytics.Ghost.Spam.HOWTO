@@ -14,53 +14,28 @@ env:
     - TZ:       Africa/Johannesburg
     - PYFUNCEBLE_CONFIG_DIR: ${TRAVIS_BUILD_DIR}/dev-tools/
     - PYFUNCEBLE_AUTO_CONFIGURATION: PyFunceble
+addons:
+  apt:
+    packages:
+    - dos2unix
 
 language: python
 
 python:
   - "3.7"
 
-matrix:
-  fast_finish: true
-
-install:
-  #- export PATH="${HOME}/miniconda/bin:${PATH}"
-  #- wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
-  #- bash miniconda.sh -b -p ${HOME}/miniconda
-  #- hash -r
-  #- conda config --set always_yes yes --set changeps1 no
-  #- conda update -q conda
-  #- conda create -q -n test-environment python="3.7.4"
-  #- rm miniconda.sh
-  #- source activate test-environment
-  #- python -VV
-  - pip3 install --upgrade pip
-  - pip3 install PyFunceble-dev --pre
-  - pip3 install ultimate-hosts-blacklist-whitelist-dev
-
-script:
-  - bash dev-tools/PrepareData.sh
-  - bash dev-tools/DataTesting.sh
-
-notifications:
-on_success: never
-on_failure: always
-
 jobs:
   fast_finish: true
 
-addons:
-  apt:
-    packages:
-    - dos2unix
-
 install:
   - pip3 install --upgrade pip
-  - pip3 install PyFunceble-dev
+  - pip3 install PyFunceble-dev --pre
   - pip3 install ultimate-hosts-blacklist-whitelist-dev
 
 script:
   - bash .dev-tools/deploy.sh && bash .dev-tools/run-pyfunceble.sh
 
 notifications:
-  email: false
+on_success: never
+on_failure: always
+
