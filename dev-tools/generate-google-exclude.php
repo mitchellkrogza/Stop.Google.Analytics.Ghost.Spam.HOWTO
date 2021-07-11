@@ -26,7 +26,7 @@ class Generator
      */
     public function domainWorker()
     {
-        $domainsFile = "/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/.dev-tools/_input_source/bad-referrers.list";
+        $domainsFile = "./dev-tools/_input_source/bad-referrers.list";
         $handle = fopen($domainsFile, "r");
         if (!$handle) {
             throw new \RuntimeException('Sorry I Cannot Access Your Input File ' . $domainsFile);
@@ -62,7 +62,7 @@ class Generator
      */
     protected function writeToFile($filename, $data)
     {
-    $file = "/home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/$filename";
+    $file = "./$filename";
 	$handle = fopen($file, 'w') or die('Cannot open file:  '.$file);
 	fwrite($handle, $data);
     }

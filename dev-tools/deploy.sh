@@ -31,29 +31,12 @@
 # Set Some Variables
 # ******************
 
-set -e
 
 YEAR=$(date +"%Y")
-cd ${TRAVIS_BUILD_DIR}
-_input=${TRAVIS_BUILD_DIR}/.dev-tools/_input_source/bad-referrers.list
-_input2=${TRAVIS_BUILD_DIR}/.dev-tools/domains_tmp.txt
-ourWhitelistFile="${TRAVIS_BUILD_DIR}/whitelist.me/whitelist.list"
-tmpFile="/tmp/final_domains.txt"
-
-# *********************************************
-# Get Travis CI Prepared for Committing to Repo
-# *********************************************
-
-PrepareTravis () {
-    git remote rm origin
-    git remote add origin https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git
-    git config --global user.email "${GIT_EMAIL}"
-    git config --global user.name "${GIT_NAME}"
-    git config --global push.default simple
-    git checkout "${GIT_BRANCH}"
-    ulimit -u
-}
-PrepareTravis
+_input=./dev-tools/_input_source/bad-referrers.list
+_input2=./dev-tools/domains_tmp.txt
+ourWhitelistFile="./whitelist.me/whitelist.list"
+tmpFile="./dev-tools/final_domains.tmp"
 
 # *****************
 # Fetch Latest List
@@ -110,12 +93,6 @@ printf '\n%s\n%s\n%s\n\n' "######################################" "END: Strippi
 # ************************************************
 
 dos2unix ${_input}
-
-# ***************************************************
-# Run PyFunceble to check for dead domains
-# ***************************************************
-
-#bash -x ${TRAVIS_BUILD_DIR}/.dev-tools/run-pyfunceble.sh
 
 # *************************************************************
 # Travis now moves to the before_deploy: section of .travis.yml

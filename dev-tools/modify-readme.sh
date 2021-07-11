@@ -34,8 +34,8 @@
 YEAR=$(date +%Y)
 MONTH=$(date +%m)
 MY_GIT_TAG=V1.$YEAR.$TRAVIS_BUILD_NUMBER
-_BAD_REFERRERS=$(wc -l < $TRAVIS_BUILD_DIR/.dev-tools/_input_source/bad-referrers.list)
-_ACTIVE_SITES=$(cat $TRAVIS_BUILD_DIR/.dev-tools/_pyfunceble/output/logs/percentage/percentage.txt)
+_BAD_REFERRERS=$(wc -l < ./dev-tools/_input_source/bad-referrers.list)
+_ACTIVE_SITES=$(cat ./dev-tools/_pyfunceble/output/logs/percentage/percentage.txt)
 
 # **********************************
 # Temporary database files we create
@@ -61,13 +61,13 @@ ed -s $_inputdbA<<\IN
 1,/_______________/d
 /____________________/,$d
 ,d
-.r /home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/README.md
+.r ./README.md
 /_______________/x
 .t.
 .,/____________________/-d
 #,p
 #,p used to print output replaced with w below to write
-w /home/travis/build/mitchellkrogza/Stop.Google.Analytics.Ghost.Spam.HOWTO/README.md
+w ./README.md
 q
 IN
 rm $_inputdbA
