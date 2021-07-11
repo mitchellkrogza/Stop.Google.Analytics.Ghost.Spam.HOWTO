@@ -17,6 +17,8 @@ on:
       - cron: '0 10 * * *'
 
 env:
+  GIT_NAME: "${{ secrets.GIT_NAME }}"
+  GIT_EMAIL: "${{ secrets.GIT_EMAIL }}"
   GITHUB_TOKEN: "${{ secrets.GH_TOKEN }}"
 
 jobs:
