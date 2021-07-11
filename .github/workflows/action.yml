@@ -16,6 +16,9 @@ on:
   schedule:
       - cron: '0 10 * * *'
 
+env:
+  GITHUB_TOKEN: "${{ secrets.GH_TOKEN }}"
+
 jobs:
   build:
     runs-on: ubuntu-latest
