@@ -45,5 +45,6 @@ jobs:
       - name: Run build
         shell: bash
         run: |
-          ./scripts/travis-commit.sh
+          ./scripts/deploy.sh
+          ./scripts/run-pyfunceble.sh
 
