@@ -21,7 +21,6 @@ RunFunceble () {
     yeartag=$(date +%Y)
     monthtag=$(date +%m)
     ulimit -u
-    cd ./dev-tools
 
     hash PyFunceble
 
