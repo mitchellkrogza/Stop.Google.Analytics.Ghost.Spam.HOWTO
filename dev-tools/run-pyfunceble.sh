@@ -33,7 +33,7 @@ RunFunceble () {
     export PYFUNCEBLE_CONFIG_DIR="./dev-tools/.pyfunceble"
     export PYFUNCEBLE_OUTPUT_DIR="./dev-tools/.pyfunceble/output"
 
-    PyFunceble --ci --ci-branch dev --ci-distribution-branch dev --plain -w 10 -dbr 5 -ex --dns 1.1.1.1 1.0.0.1 --ci-max-minutes 20 --ci-end-command "bash ./dev-tools/final-commit.sh" --ci-commit-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --ci-end-commit-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${_input}
+    PyFunceble --ci --plain -w 10 -dbr 5 -ex --dns 1.1.1.1 1.0.0.1 --ci-max-minutes 20 --ci-end-command "bash ./dev-tools/final-commit.sh" --ci-commit-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER} [PyFunceble]" --ci-end-commit-message "V1.${yeartag}.${monthtag}.${TRAVIS_BUILD_NUMBER}" -f ${_input}
 
 }
 
