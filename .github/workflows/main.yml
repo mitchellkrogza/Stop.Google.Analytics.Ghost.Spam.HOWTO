@@ -37,9 +37,7 @@ jobs:
       - name: Install Python dependencies
         run: |
           pip3 install --upgrade pip
-          pip3 install domain2idna
-          pip3 install PyFunceble
-          pip3 install ultimate-hosts-blacklist-whitelist
+          pip3 install -r requirements.txt
 
       - name: Run build
         shell: bash
