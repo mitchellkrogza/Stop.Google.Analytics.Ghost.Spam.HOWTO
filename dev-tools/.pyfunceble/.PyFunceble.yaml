@@ -1,0 +1,835 @@
+# .PyFunceble.yaml
+# This is the default configuration of the PyFunceble project.
+#
+# Behavior while using CLI switch:
+#
+#   When using the CLI Argument of boolean parameters, they act like a light
+#   switch. Meaning that if `no` is defined in the configuration file, using
+#   the CLI argument will switch it to `yes`.
+#
+#   However, if `yes` is defined in the configuration file, using the CLI
+#   argument will switch it to `no`.
+#
+
+debug:
+  # Provides everything related to the debug mode.
+
+  # Enable/Disable the debug mode.
+  #
+  # NOTE:
+  #   When enabled, the output will be found inside the logs output directory.
+  #   If you prefer to have the output to STDOUT, you should declare the
+  #   following environment variable.
+  #
+  #     PYFUNCEBLE_DEBUG_ON_SCREEN=yes
+
+  # Environment Variable: PYFUNCEBLE_DEBUG
+  # CLI Switch: `--debug`
+  active: no
+
+  # Set the logging level.
+  #
+  # Available: info, error, debug, critical
+  #
+  # Environment Variables: PYFUNCEBLE_DEBUG_LVL | PYFUNCEBLE_LOGGING_LVL
+  # CLI Switch: --logging-level
+  level: info
+
+cli_decoding:
+  # Provides everything related to the decoding of input files from the CLI.
+
+  # Enable/Disable the aggressive decoding.
+  #
+  # The aggressive mode is a mode that tries to decode as much as possible without
+  # trying to follow any technical conventions.
+  #
+  # When decoding AdBlock filter lists, it will try to decode almost every
+  # domains it finds.
+  #
+  # When decoding hosts file or plain text files, it will try to convert URLS
+  # (e.g https://example.org/hello/world) into domains to test (e.g example.org).
+  #
+  # CLI Argument: --aggressive
+  aggressive: no
+
+  # Enable/Disable the (exclusive) decoding using the adblock decoder.
+  #
+  # WARNING:
+  #     Activating this parameter in your configuration file, will make
+  #     PyFunceble assume that it has to decode adblock files - exclusively.
+  #
+  # CLI Argument: --adblock
+  adblock: no
+
+  # Enable/Disable the (exclusive) decoding using the RPZ decoder.
+  #
+  # WARNING:
+  #     Activating this parameter in your configuration file, will make
+  #     PyFunceble assume that it has to decode RPZ files - exclusively.
+  #
+  # CLI Argument: --rpz
+  rpz: no
+
+  # Enable or disable the reduction of wildcards.
+  #
+  # Meaning that any caught wildcards (e.g. *.example.org) will be reduced so
+  # that we have a "valid" domain to test (e.g. example.org).
+  #
+  # WARNING:
+  #     Activating this parameter will reduce wildcards (e.g *.example.org) to
+  #     match domains (e.g ecample.org)
+  #
+  # CLI Argument: --wildcard
+  wildcard: no
+
+cli_testing:
+  # Provides everything directly related to the testing through the CLI.
+
+  # Set the IP to prefix each hosts file lines with.
+  #
+  # CLI Argument: -ip | --hosts-ip
+  hosts_ip: "0.0.0.0"
+
+  # Set the amount of maximal workers to use to perform tests.
+  #
+  # NOTE:
+  #     If set to `null`, the value is implicitly CPU * Cores - 2
+  #
+  # CLI Argument: -w | --max-workers
+  max_workers: null
+
+  # Enable/Disable the autocontinue datasets.
+  #
+  # The autocontinue datasets/database is a database that temporarily store the
+  # result of the tested subject in the hope to continue as soon as possible
+  # after a break or shortage.
+  #
+  # CLI Argument: -c | --auto-continue | --continue
+  autocontinue: no
+
+  # Enable/Disable the inactive datasets.
+  #
+  # The inactive datasets/database is used to store the INACTIVE and INVALID
+  # subjects to purposely retest then at a later time.
+  #
+  # This mechanism let you cleanup your source file while being sure that
+  # pyfunceble will retest the old entries of your source file. After retesting,
+  # pyfunceble will throw the newly ACTIVE subject from the database and put
+  # it into your ACTIVE output files so that you can reintroduce them into
+  # your list.
+  #
+  # CLI Argument:  --inactive-db
+  inactive_db: yes
+
+  # Enable/Disable the whois storage of whois records.
+  #
+  # This mechanism let us avoid spaming the WHOIS servers by storing the
+  # expiration dates from the whois record into a local datasets/database.
+  # Later on, PyFunceble will query the local database first.
+  #
+  # CLI Argument: -wdb | --whois-database
+  whois_db: yes
+
+  # Enable/Disable the testing and generation of complements.
+  #
+  # A complement is `www.example.org` when `example.org` is given and vice-versa.
+  #
+  # CLI Argument: --complements
+  complements: no
+
+  # Enable/Disable the expension and testing of single addresses of a CIDR.
+  #
+  # CLI Argument: --cidr
+  cidr_expand: no
+
+  # Set the cooldown time to apply between each tests.
+  #
+  # This is essential to avoid spaming remote resources - especially WHOIS servers.
+  #
+  # WARNING:
+  #     This must be a value >= 0.0
+  #
+  # CLI Argument: --cooldown-time
+  cooldown_time: 0.0
+
+  # Sets the Database Connector type to use.
+  # Available: csv | mariadb | mysql | postgresql
+  #
+  # Set the type of database to use or generate to store long term information-s.
+  #
+  # When set to `mariadb`, `mysql` or `postgesql` the following environment
+  # variables are required.
+  #
+  #     PYFUNCEBLE_DB_HOST - The host or unix socket path of the database server.
+  #     PYFUNCEBLE_DB_PORT - The port to use to reach the database server.
+  #     PYFUNCEBLE_DB_USERNAME - The username to use to connect to the database server - when applicable.
+  #     PYFUNCEBLE_DB_PASSWORD - The password to use to connect to the database server - when applicable.
+  #     PYFUNCEBLE_DB_NAME - The name of the database to work with.
+  #     PYFUNCEBLE_DB_CHARSET - The charset to use - when applicable.
+  #
+  # Available Values: csv | mariadb | mysql | postgresql
+  #
+  # CLI Argument: --database-type
+  db_type: csv
+
+  # Set the filter to apply while reading inputs.
+  #
+  # In other words, a global filter to apply to select the subject to tests.
+  # Meaning that if you give `\.info$` (for example), we will only test the
+  # subjects that ends with `.info`.
+  #
+  # CLI Argument: --filter
+  file_filter: null
+
+  # Enable/Disable the mining of subjects.
+  #
+  # When enabled, PyFunceble will follow the HTTP redirects and put all redirected
+  # subjects into the testing queue and outputs.
+  #
+  # CLI Argument: --mining
+  mining: no
+
+  # Acknowledge/Dismiss that we are testing for subjects that are only on the
+  # local network.
+  #
+  # NOTE:
+  #     When enabled, no syntax checking will be processed when performing
+  #     availability and reputation tests.
+  #
+  # CLI Argument: --local
+  local_network: no
+
+  # Enable/Disable the preloading of the given input file(s).
+  #
+  # When enabled, we take the time to pre-load subjects by decoding inputs files
+  # and storing the informatino in the chosen datasets/database format.
+  # The hope is to optimise some of our process by only focusing on testing.
+  #
+  # WARNING:
+  #     While this is helpful for long running tasks, this might not be a good
+  #     idea if you are testing a URL directly. This process is not optimizied
+  #     for sources that are constantly updated (checksums).
+  #
+  # CLI Argument: --preload
+  preload_file: no
+
+  # Enable/Disable a chancy testing mode that unleashes and bypass the safety
+  # workflow-s in place in hope of speed.
+  #
+  # DANGER / WARNING:
+  #     You have been warned. This mode is for the chancy and lucky one.
+  #
+  #     You shouldn't use this unless you fele really, really, really lucky and
+  #     trust your machine.
+  #
+  #     Enabling this mode makes thinks look 'fast', but it may produce some
+  #     rather ... unexpected behavior and results - IF N+1 process simultaneously
+  #     write the same output file.
+  #
+  #     This mode also makes the CLI terminal output unparsable - either.
+  #
+  #     **MAY THE FORCE BE WITH YOU!**
+  #
+  # CLI Argument: --chancy
+  chancy_tester: no
+
+  ci:
+    # Provides everything related to the testing within a Continuous integration
+    # engine.
+
+    # Enable/Disable the CI/CD mode.
+    #
+    # When enabled, PyFunceble will assume that it works with a git repository.
+    # Therefore, you have to declare the following environment variables to
+    # configure git for pushing - which is normally not available withing a
+    # CI engine.
+    #
+    #       GIT_NAME - The `git.name` to setup and use.
+    #       GIT_EMAIL - The `git.email` to setup and use.
+    #       GIT_BRANCH - (optional) - The git branch to use to distribute results betwen sessions.
+    #       GIT_DISTRIBUTION_BRANCH - (optional) - The git branch to use to distribute the final results.
+    #       GITHUB_TOKEN - The token to use to authenticate ourselves against GitHub. Read when under a GitHub Action or Jenkins CI worker.
+    #       GL_TOKEN - The token to use to authenticate ourselves againt GitLab. Read when under a GitLab Runner.
+    #       GH_TOKEN - The token to ue to authenticate ourselves against GitHub. Read when under a Travis CI instance.
+    #
+    # CLI Argument: --ci
+    active: no
+
+    # Set the commit message to apply to all results commit except the final one.
+    #
+    # CLI Argument: --ci-commit-message
+    commit_message: "PyFunceble - AutoSave"
+
+    # Set the commit message to apply to the very last and final result commit.
+    #
+    # CLI Argument: --ci-end-commit-message
+    end_commit_message: "PyFunceble - Results"
+
+    # Set the number of minutes to wait before to start saving and stopping a session.
+    #
+    # This parameter can be understood as the running time of PyFunceble under a
+    # CI Engine.
+    #
+    # CLI Argument: --ci-max-minutes
+    max_exec_minutes: 15
+
+    # Set the branch to use to distribute results between multiple CI/CD sessions.
+    #
+    # Environment Variable: GIT_BRANCH
+    # CLI Argument: --ci-branch
+    branch: master
+
+    # Set the branch to use to distribute the final results of multiple CI/CD session.
+    #
+    # Environment Variable: GIT_DISTRIBUTION_BRANCH
+    # CLI Argument: --ci-distribution-branch
+    distribution_branch: master
+
+    # Set the command to execute before each (except last) result commit.
+    #
+    # CLI Argument: --ci-command
+    command: null
+
+    # Set the command to execute before the very last result commit.
+    #
+    # CLI Argument: --ci-end-command
+    end_command: null
+
+  display_mode:
+    # Provides everything related to the display/OUTPUT of PyFunceble.
+
+    # Enable/Disable the printing of dots.
+    #
+    # Dots !? Why Dots ? WTH ?!
+    #   Yes, you read correctly dots. Those dots are crutial under CI/CD engines
+    #   that assumes that no-output within a few minutes is an error. To avoid
+    #   such situation when the CI/CD engines just kill the job, we print dots,
+    #   when we perform some tasks that may not output anything for a few minutes.
+    #
+    #   An example is when you are on the second session of testing and PyFunceble
+    #   is going through the list of subjects but it sees that the subject has been
+    #   already tested.
+    #
+    # NOTE:
+    #   This argument is automatically switched to `yes` when under a CI/CD engine
+    #   (aka cli_testing.ci set to yes).
+    #
+    # CLI Argument: --dots
+    dots: no
+
+    # Enable/Disable the printing of the execution time at the end of a test session.
+    #
+    # CLI Argument: -ex | --execution
+    execution_time: no
+
+    # Enable/Disable the printing of the percentage stats per status at the end
+    # of a test session.
+    #
+    # CLI Argument: --percentage
+    percentage: yes
+
+    # Enable/Disable the printing of the registrar stats per subjects at the end
+    # of a test session.
+    #
+    # CLI Argument: --registrar
+    registrar: no
+
+    # Enable/Disable the printing of any outputs.
+    #
+    # CLI Argument: -q | --quiet
+    quiet: no
+
+    # Enable/Disable the printing of minimal tabular information when testing.
+    less: yes
+
+    # Enable/Disable the printing of most tabular information when testing.
+    #
+    # CLI Argument: -a | --all
+    all: no
+
+    # Enable/Disable the printing of an extreme simple and minimalistic information
+    # when testing.
+    #
+    # CLI Argument: -s | --simple
+    simple: no
+
+    # Enable/Disable the printing of colored tabular information.
+    #
+    # CLI Argument: --colour | --color
+    colour: yes
+
+    # Set the status to display to STDOUT.
+    #
+    # WARNING:
+    #   When this parameter is not set to `ALL`, only the subjects matching the
+    #   selected status will be printed to STDOUT. Howerver, this doesn't have
+    #   any effect on the generated files.
+    #
+    # CLI Argument: --display-status
+    status: all
+
+    # Set the maximal number of registrar to display when we have to print the
+    # registrar stats per subject.
+    #
+    # NOTE:
+    #   This doesn't have any effect on the generated files.
+    #
+    # CLI Argument: --max-registrar
+    max_registrar: 15
+
+  testing_mode:
+    # Provides and select the testing mode.
+    #
+    # NOTE:
+    #   Only one can be active at a time.
+
+    # Enable/Disable the availability test mode.
+    availability: yes
+
+    # Enable/Disable the syntax test mode.
+    #
+    # CLI Argument: --syntax
+    syntax: no
+
+    # Enable/Disable the reputation test mode.
+    #
+    # CLI Argument: --reputation
+    reputation: no
+
+    # BETA: Activates the platform contribution test.
+    platform_contribution: no
+
+  days_between:
+    # Provides everything which is x days periodic.
+
+    # NOT IMPLEMENTED (Anticipation for future usage).
+    db_clean: 28
+
+    # Set the minimal number of days between the retest of subject which were
+    # stored into the inactive datasets/database.
+    #
+    # CLI Argument: -dbr | --days-between-db-retest
+    db_retest: 1
+
+  sorting_mode:
+    # Provides everything related to the output sorting.
+    #
+    # NOTE:
+    #   Only one can be active at a time.
+    #
+    # WARNING:
+    #   The parameters below only applies to the generated files. NOT STDOUT.
+
+    # Enable/Disable the hierarchical sorting.
+    #
+    # CLI Argument: --hierarchical
+    hierarchical: no
+
+    # Enable/Disable the standard sorting.
+    standard: yes
+
+  file_generation:
+    # Provides everything related to the generation of files.
+
+    # Enable/Disable the generation of files.
+    #
+    # CLI Argument: --no-files
+    no_file: no
+
+    # Enable/Disable the generation of hosts formatted files.
+    #
+    # CLI Argument: -h | --hosts
+    hosts: no
+
+    # Enable/Disable the generation of plain/raw formatted files.
+    #
+    # CLI Argument: --plain
+    plain: yes
+
+    # Enable/Disable the generation of analytic files.
+    #
+    # Analytic ?! WTH !?
+    #   Yes, analytic! While PyFunceble is really good for a lot of things, sometime
+    #   it takes some decision without being really sure about it or without
+    #   wanting to be biased. Therefore, it generates files inside the analytic folder.
+    #   The files inside the analytic folder are there for human to analyse or
+    #   to invite the community to influence PyFunceble.
+    #
+    #   If you are sure that the behavior of PyFunceble should be adopted for sure,
+    #   fill an issue and let's evolve it together :-)
+    #
+    analytic: yes
+
+    # Enable/Disable the generation of unified results files.
+    #
+    # WARNING:
+    #   This parameter simply generate a unified copy of the STDOUT instead of 1
+    #   file per status.
+    #
+    # CLI Argument: --unified-results
+    unified_results: no
+
+    # Enable/Disable the merging of the results of all inputted files into one
+    # single output directory.
+    #
+    # Normally, PyFunceble generated a dedicated output folder for each inputted
+    # files. However, if you want the results to be merged inside a single
+    # folder, just switch this parameter.
+    #
+    # CLI Argument: --merge-output
+    merge_output_dirs: no
+
+lookup:
+  # Provides everything related to the lookups.
+
+  # Enable/Disable the usage of DNS records to lookup the status.
+  #
+  # CLI Argument: --dns-lookup
+  # Exclusive CLI Argument: --dns-lookup-only
+  dns: yes
+
+  # Enable/Disable the usage of HTTP status codes to lookup the status.
+  #
+  # CLI Argument: --http | --http-status-code-lookup
+  # Exclusive CLI Argument: --http-only | --http-status-code-lookup
+  http_status_code: yes
+
+  # Enable/Disable the usage of network (information) socket to lookup the status.
+  #
+  # CLI Argument: --netinfo-lookup
+  # Exclusive CLI Argument: --netinfo-lookup-only
+  netinfo: yes
+
+  # Enable/Disable the usage of special rules to lookup or switch the status.
+  #
+  # CLI Argument: --special-lookup
+  # Exclusive CLI Argument: --special-lookup-only
+  special: yes
+
+  # Enable/Disable the usage of WHOIS records to lookup the status.
+  #
+  # CLI Argument: --whois-lookup
+  # Exclusive CLI Argument: --whois-lookup-only
+  whois: yes
+
+  # Enable/Disable the usage of the reputation data to lookup the status.
+  #
+  # NOTE:
+  #     The reputation lookup is actualy a lookup against the AlienVault IPv4
+  #     reputation file.s
+  #
+  # CLI Argument: --reputation-lookup
+  # Exclusive CLI Argument: --reputation-lookup
+  reputation: no
+
+  # Activate the usage of the platform to lookup status.
+  platform: no
+
+  # Set the timeout to apply to each of our lookup methods - when possible.
+  #
+  # WARNING:
+  #     This should be a value >= 0.
+  #
+  # CLI Argument: -t | --timeout
+  timeout: 5
+
+dns:
+  # Provides everything related to the DNS resolver & lookup.
+
+  # Enable/Disable the follow-up of the order of DNS server.
+  #
+  # NOTE:
+  #     When disabled, the order of the DNS servers is randomized.
+  #
+  # CLI Argument: --follow-server-order
+  follow_server_order: yes
+
+  # Enable/Disable the trust mode.
+  #
+  # When this parameter is enabled, we will trust the result of the first DNS
+  # server and only switch to the next server in the list ONLY when it is
+  # unreachable.
+  #
+  # However, when this parameter is disabled, we will ask the other server when
+  # the previous DNS give us a negative response - until a positive on is given.
+  #
+  # CLI Argument: --trust-dns-server
+  trust_server: no
+
+  # Set the list of DNS server to communicate with.
+  #
+  # WARNING:
+  #   IPv6 should be given in this format if a port is explicitly given:
+  #
+  #     [ip]:port
+  #
+  #   If you omit the braket, the port will be set to the default one (53).
+  #
+  # Example:
+  #   - first.dns
+  #   - second.dns
+  #
+  # CLI Argument: --dns
+  server: null
+
+  # Set the protocol to use.
+  #
+  # Available Values: UDP | TCP | HTTPS | TLS
+  #
+  # CLI Argument: --dns-protocol
+  protocol: UDP
+
+  # Set the delay (in second) to apply between each queries.
+  #
+  # WARNING:
+  #     This should be a value >= 0.0.
+  #
+  # CLI Argument: --dns-delay
+  delay: 0.0
+
+# Not Implemented yet. Reserved for future usage and implementation.
+share_logs: no
+
+user_agent:
+  # Provides everything related to choice of user agent.
+
+  # Set the browser to pickup.
+  #
+  # WARNING:
+  #     This parameter will be deprecated (soon?).
+  #
+  # Available Values: chrome, edge, firefox, ie, opera, safari
+  browser: chrome
+
+  # Set the platform to pickup.
+  #
+  # Available Values: linux, macosx, win10
+  platform: linux
+
+  # Set the User-Agent to use.
+  #
+  # WARNING:
+  #     If you choose to set this argument, the browser or platform arguments
+  #     won't be taken into consideration.
+  #
+  # CLI Argument: -ua | --user-agent
+  custom: null
+
+proxy:
+  # Provides everything related to the proxy usage and configuration.
+  #
+  # The idea:
+  #   We have two main keys, "global" and "rules".
+  #   The system will always follow the global keys unless you define an explit
+  #   TLD.
+  #
+  # Example:
+  #
+  #   Let's say we want all HTTP requests to go through example.org but we want
+  #   all HTTP request for domains ending with `.com`, `.org` and `.dev` to go
+  #   through example.com. And, we want all domains ending with `.onion` to go
+  #   through example.dev.
+  #
+  #   This is how it will look like.
+  #
+  #       global:
+  #         http: http://example.org:8080
+  #         https: http://example.org:8080
+  #
+  #       rules:
+  #         - http: http://example.com:8080
+  #           https: http://example.org:8080
+  #           tld:
+  #             - com
+  #             - org
+  #             - dev
+  #         - http: socks5h://example.dev:8080
+  #           https: socks5h://example.dev:8080
+  #           tld:
+  #             - onion
+  #
+
+  global:
+    # Global HTTP proxy to use when no rule is given or matched.
+    #
+    # CLI Argument: --http-proxy
+    http: null
+
+    # Global HTTPS proxy to use when no rule is given or matched.
+    #
+    # CLI Argument: --https-proxy
+    https: null
+
+  # The rules to apply.
+  # See example.
+  rules: []
+
+# Enable/Disable the verification of the certificate when making HTTPS requests.
+verify_ssl_certificate: no
+
+# Set the maximum number of retries to perform.
+# This should be an integer >= 0.
+max_http_retries: 3
+
+http_codes:
+  # Provides everything related to the HTTP code lookup interpolation.
+
+  # Stops PyFunceble self management of the list.
+  #
+  # NOTE:
+  #     This parameter is deprecated.
+  self_managed: no
+
+  list:
+    # Dictionary with the status codes and their interpolation.
+
+    up:
+      # A list of status codes to consider as ACTIVE.
+      - 100
+      - 101
+      - 102
+      - 200
+      - 201
+      - 202
+      - 203
+      - 204
+      - 205
+      - 206
+      - 207
+      - 208
+      - 226
+      - 429
+    potentially_down:
+      # A list of status codes to consider as potentially INACTIVE.
+      - 400
+      - 402
+      - 404
+      - 409
+      - 410
+      - 412
+      - 414
+      - 415
+      - 416
+      - 451
+    potentially_up:
+      # A list of status codes to consider as potentially ACTIVE.
+      - 000
+      - 300
+      - 301
+      - 302
+      - 303
+      - 304
+      - 305
+      - 307
+      - 308
+      - 403
+      - 405
+      - 406
+      - 407
+      - 408
+      - 411
+      - 413
+      - 417
+      - 418
+      - 421
+      - 422
+      - 423
+      - 424
+      - 426
+      - 428
+      - 431
+      - 500
+      - 501
+      - 502
+      - 503
+      - 504
+      - 505
+      - 506
+      - 507
+      - 508
+      - 510
+      - 511
+
+links:
+  # Provides some of the non hard-coded URLs.
+
+  # WARNING:
+  #     The parameters listed bellow are not implemented yet as the
+  #     underlaying infrastructure will be rewritten.
+  api_date_format: "https://pyfunceble.funilrys.com/api/date-format"
+  api_no_referrer: "https://pyfunceble.funilrys.com/api/no-referrer"
+
+platform:
+  # Provides everything related to the platform.
+  # PyFunceble alone is a great tool. What if we could just test the subject that
+  # were not already tested by others ?
+
+  # Enable or disable the push of datasets (cf: test results) into the collection
+  # (API).
+  #
+  # NOTE:
+  #     This parameter is useless, unless you have a valid API Token defined
+  #     into the PYFUNCEBLE_PLATFORM_API_TOKEN environment variable.
+  #
+  # CLI Argument: --push-collection
+  push: no
+
+  # Set the preferred pull "method".
+  #
+  # The platform (API) does not only provides datasets but it also offer an
+  # aggregation endpoint that let PyFunceble pull datasets.
+  # When pulling information about a subject that is already known by the platform,
+  # it returns 3 group of results:
+  #
+  #   - `frequent`, which provides the status that was mostly been pushed.
+  #   - `latest`, which provides the status based on the latest submitted datasets.
+  #   - `recommended`, which provides the recommended status.
+  #
+  # CLI Argument: --platform-preferred-origin
+  preferred_status_origin: recommended
+
+  # Defines the checker type to prioritize when trying to fullfil platform
+  # contracts.
+  #
+  # Notes:
+  #   1. This is a list. The order matters.
+  #   2. One can overwrite this value, by settings a comma separated list of
+  #      checker type to prioritize through the PYFUNCEBLE_PLATFORM_CHECKER_PRIORITY
+  #      environment variable.
+  #   3. When set to `none`, the platform will throw a random contract at us.
+  #
+  # Example:
+  #   Prioritize availability checker until no contract is available, then
+  #   prioritize syntax checker until no contract is available, then prioritize
+  #   reputation checker until no contract is available.
+  #
+  #   - availability
+  #   - syntax
+  #   - reputation
+  #
+  # Available Values: none | availability | reputation | syntax
+  #
+  # CLI Argument: none
+  checker_priority:
+    - none
+
+  # Defines the checker type to exclude when trying to fullfil platform
+  # contracts.
+  #
+  # Notes:
+  #   1. This is a list.
+  #   2. One can overwrite this value, by settings a comma separated list of
+  #      checker type to exclude through the PYFUNCEBLE_PLATFORM_CHECKER_EXCLUDE
+  #      environment variable.
+  #   3. When set to `none`, no checker type will be excluded.
+  #
+  # Example:
+  #   Exclude the reputation checker from the list of checker to use to fullfil.
+  #
+  #   - reputation
+  #
+  # Available Values: none | availability | reputation | syntax
+  #
+  # CLI Argument: none
+  checker_exclude:
+    - none
