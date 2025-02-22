@@ -15,7 +15,7 @@ on:
 env:
   GIT_NAME: "${{ secrets.GIT_NAME }}"
   GIT_EMAIL: "${{ secrets.GIT_EMAIL }}"
-  GITHUB_TOKEN: "${{ secrets.GH_TOKEN }}"
+  GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
 
 jobs:
   build:
